@@ -85,7 +85,7 @@ def main():
     queue = Queue(1000)
 
     # init file
-    f = open("output2.txt", 'a', encoding='utf-8')
+    f = open("output.txt", 'a', encoding='utf-8')
     f.write("{\n")
 
     # add first group of recipe to crawler queue
