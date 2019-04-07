@@ -5,9 +5,11 @@
 - Python 3.7+ with `pip`
 
 ## Install
-```pip install beautifulsoup4
-pip install selenium```
-pip install lxml```
+
+`pip install beautifulsoup4
+pip install selenium
+pip install lxml`
+
 download chrome driver and put the executable in a system PATH. 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
