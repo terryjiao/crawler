@@ -13,4 +13,4 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ## Begin to use
 > run crawler.py
-> You can also customize the maximal webpages by changing the statement of the while loop in line 98.
+You can also customize the maximal webpages by changing the statement of the while loop in line 98.
