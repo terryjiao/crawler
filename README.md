@@ -17,5 +17,5 @@ pip install lxml
 > run crawler.py
 
 ## Multi Thread Running
-- You can use multi thread to accelerate the speed of crawler. Comment the code in line 234 and uncomment the code in line 235.
+- You can use multi thread to accelerate the speed of crawler. Comment the code in line 244 and uncomment the code in line 245.
 - The efficiency of multi thread crawler may depend on the network condition.
