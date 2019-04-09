@@ -1,0 +1,2968 @@
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Purin-1121511",
+    "recipeName": "Purin",
+    "recipePhoto": "https://lh3.googleusercontent.com/E4zAKp9rMEqoKjVpEzQ8KVWRolqiOHpSAzii2rz0PThsqEWw4cVMuSJrnWwH8BdR5XqFm6kcl5pMQQQETZMK5Aw",
+    "ingredients": [
+        "1 cup sugar",
+        "3 tablespoons water",
+        "2 cups milk",
+        "3 eggs",
+        "1/2 cup sugar",
+        "1 teaspoon vanilla extract"
+    ],
+    "ratings": 4.5,
+    "cookTime": "PT1H",
+    "serve": "8 servings",
+    "tags": "Desserts, Baking, Asian, Oven, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Style-Sweet-Bun-Dough-1001879",
+    "recipeName": "Japanese-Style Sweet Bun Dough",
+    "recipePhoto": "https://lh6.ggpht.com/rrOkYueWBRwxYUsDpwKM1YCtP7cI714fUF_CLrKx1S3a3xVajqbAo8fUN8bh7XloMxjhJ7kP4UnPCkMNdvrpjA",
+    "ingredients": [
+        "2 3/4 cups bread flour",
+        "3/4 cup plain flour",
+        "4 3/8 tablespoons milk powder",
+        "5/8 cup caster sugar",
+        "3/4 teaspoon salt",
+        "1 instant dry yeast sachet, 7g or 2 1/2 tsp",
+        "1 egg lightly beaten",
+        "5/8 cup water approx. lukewarm, \u2013 adjust according, I need only 130 ml",
+        "2 13/16 tablespoons butter cubed",
+        "1 egg + a bit of water, for egg wash the buns",
+        "soft buns Super",
+        "2 15/16 tablespoons bread flour just under 2 tbsp",
+        "1/2 cup water"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H45M",
+    "serve": "16 servings",
+    "tags": "Baking, Breads, Japanese, Oven, Browning, Asian"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Cheesecake-1081241",
+    "recipeName": "Japanese Cheesecake",
+    "recipePhoto": "https://lh3.googleusercontent.com/Z6df_HxtG3Eapa5-GeMvZ7SXD6ors4q6WNmrfqKaKzGFL-1GtA_7n73wPvVpZZhbKMU0V6Q5WucS0q_08j2nZQ",
+    "ingredients": [
+        "11/16 cup sugar Castor",
+        "6 egg whites",
+        "6 egg yolks",
+        "3 1/2 tablespoons butter",
+        "1 1/16 cups cream cheese",
+        "6 3/4 tablespoons milk /3 fluid oz. Fresh",
+        "1 tablespoon lemon juice",
+        "7 tablespoons cake flour /Superfine Flour",
+        "2 3/4 tablespoons cornflour Cornstarch",
+        "1/4 teaspoon salt or Cream of Tartar"
+    ],
+    "ratings": 4.25,
+    "cookTime": "PT1H45M",
+    "serve": "1 servings",
+    "tags": "Baking, Cheesecake, Desserts, Japanese, Oven, Boiling, Browning, Asian"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Grilled-Chicken-2601146",
+    "recipeName": "Miso Grilled Chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/NUU1G2bzGLg1vIh331hLOMvJnz6NRhhVGVuDmbxFmio1nlP6IxtZlqC1GNVsltHFaMVSfrX0xTJrqnR30_gpOQ",
+    "ingredients": [
+        "1/4 cup white miso paste",
+        "3 tablespoons mirin",
+        "2 tablespoons sake",
+        "1 tablespoon sugar",
+        "1 tablespoon soy sauce",
+        "4 chicken thighs"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Quick and Easy, Low Sugar, Asian, Baking, Main Dishes, Quick, Easy, High Protein, Low Carb, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Buddha-Bowl-2634714",
+    "recipeName": "Japanese Buddha Bowl",
+    "recipePhoto": "https://lh3.googleusercontent.com/j-mL5LMikQ2jJLa_mD7ALe1eOqhT0_PyPFPorJ1h6CJCAQFd8tXeBubMQZInKmyL_CDOMDu-zuQJloiXh1Yl",
+    "ingredients": [
+        "4 cooked brown rice x cups",
+        "400 grams edamame beans",
+        "2 cabbage x cups Grated",
+        "furikake",
+        "250 grams tofu cubed",
+        "2 cloves garlic minced",
+        "1 ginger thumb size piece, minced",
+        "4 tablespoons tamari",
+        "1 teaspoon sesame oil",
+        "1 teaspoon mirin",
+        "1 pinch white pepper",
+        "4 cups cubed pumpkin",
+        "coconut oil",
+        "1 tablespoon miso",
+        "salt",
+        "pepper",
+        "1 sunflower seeds x cup",
+        "1/2 cup sesame seeds",
+        "1/2 cup nori sheets broken into small pieces",
+        "1/4 cup dulse flakes",
+        "1 tablespoon chilli flakes",
+        "1 pinch salt and Pepper",
+        "1 bunch kale stems and stalks removed and chop.",
+        "1/2 bag baby spinach",
+        "1 tablespoon coconut oil",
+        "1 red chilli finely sliced",
+        "2 tablespoons tamari"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "Browning, Asian, Baking, Roasting, Frying, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Ramen-Eggs-1099229",
+    "recipeName": "Japanese Ramen Eggs",
+    "recipePhoto": "https://lh3.googleusercontent.com/6tAM_ZOi64-K8JeIbMR6pYQlb_TqYELd9dpbe7UkCusE2U1h4HTiU56q8Tr5oMu0qM_qho5DBmSh3CBPR3px-w",
+    "ingredients": [
+        "water for boiling",
+        "1 tablespoon baking soda",
+        "6 eggs at room temperature",
+        "3 3/8 tablespoons tsuyu cup Japanese, or soup base, such as Mizkan Bonito-Flavored Soup Base",
+        "3 3/8 tablespoons sake cooking",
+        "1 11/16 tablespoons soy sauce or Tamari soy sauce",
+        "1 11/16 tablespoons mirin"
+    ],
+    "ratings": null,
+    "cookTime": "PT17M",
+    "serve": "6 servings",
+    "tags": "Low Sugar, Baking, Japanese, Quick, Low Saturated Fat, Low Carb, Low Calorie, Low Fat, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Crispy-Baked-Honey-Garlic-Chicken-1029654",
+    "recipeName": "Crispy Baked Honey Garlic Chicken",
+    "recipePhoto": "https://lh4.ggpht.com/s3sdeyRNGBpPKRCy-cVyPZ1H2OFsYh1QxaulSKPH2LkZA1yEnxmipGsGMt-VxDPotohvFZ94aZpvvy83CuMB",
+    "ingredients": [
+        "1 pound boneless skinless chicken breasts cut into 1-inch chunks",
+        "2 large eggs beaten",
+        "1 cup panko breadcrumbs",
+        "1/3 cup honey",
+        "2 tablespoons soy sauce",
+        "1 tablespoon Sriracha sauce",
+        "1/2 teaspoon garlic powder",
+        "1/3 cup warm water",
+        "1 tablespoon cornstarch",
+        "2 green onions thinly sliced",
+        "2 teaspoons sesame seeds"
+    ],
+    "ratings": 4.625,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Asian, Low Saturated Fat, Browning, Main Dishes, Baked Chicken, Oven, Japanese, Chinese, High Protein, Low Calorie, Low Fat, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Grilled-Chicken-1118989",
+    "recipeName": "Miso Grilled Chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/WUgfsr9uApqamn28L7cHeLy7_Su5jFmCZkUaA6q6kztgtDHZQ6gLPepHHOon8I-tUovoH8f_IQyh0qiq-8K4qQ",
+    "ingredients": [
+        "1/4 cup white miso paste",
+        "3 tablespoons mirin",
+        "2 tablespoons sake",
+        "1 tablespoon sugar",
+        "1 tablespoon soy sauce",
+        "4 chicken thighs"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Quick and Easy, Low Sugar, Asian, Baking, Main Dishes, Baked Chicken, Oven, Quick, Easy, High Protein, Low Carb, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Green-Tea-_Matcha_-Pound-Cake-Deep-Green-Tea-Flavor-_Japanese_-661937",
+    "recipeName": "Green Tea (Matcha) Pound Cake \u2013 Deep Green Tea Flavor (Japanese)",
+    "recipePhoto": "https://lh5.ggpht.com/J110HeHCQ8YAsycs_Qq6d9fSU1cAIbhzoZh5POomv20VS_8J-XZJYtyJnF-TeZnBpQ06eTfWqxOsvsxbf6SNIA",
+    "ingredients": [
+        "8 tablespoons butter",
+        "9/16 cup powder sugar",
+        "2 egg",
+        "1 cup all-purpose flour",
+        "1/8 tablespoon baking powder",
+        "9/16 tablespoon green tea powder",
+        "50 cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "8 servings",
+    "tags": "Desserts, Easy, Asian, Baking, Oven, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hibachi-Style-Japanese-Fried-Rice-2294702",
+    "recipeName": "Hibachi-Style Japanese Fried Rice",
+    "recipePhoto": "https://lh3.googleusercontent.com/HMjuP8N8Hp84o8Dyrh7XAWQT5kAjySsR4qNVsoOvb86davoBSvQXAZMqW1efuqivt3rxMCfPQuahOk-u3fYIEQ",
+    "ingredients": [
+        "2 tablespoons soy sauce",
+        "1 tablespoon apple cider vinegar",
+        "1 tablespoon maple syrup",
+        "1 teaspoon liquid smoke",
+        "1/2 pound extra firm tofu drained, pressed and cut into 1/2 inch cubes",
+        "vegan margarine or oil",
+        "3 tablespoons soy sauce",
+        "2 tablespoons sake vegan",
+        "2 tablespoons vegan margarine",
+        "1 teaspoon sesame oil",
+        "3 scallions white and green parts separated, chopped",
+        "3 garlic cloves minced",
+        "1 small carrots large or 2, chopped",
+        "1 cup snow peas",
+        "4 cups rice leftover, chilled, jasmine rice works great",
+        "2 teaspoons sesame seeds plus extra for serving",
+        "Sriracha sauce for serving, optional"
+    ],
+    "ratings": 4.5,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Sauteeing, Fried Rice, Asian, Baking, Marinating, Frying, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Cookies-571978",
+    "recipeName": "Miso Cookies",
+    "recipePhoto": "https://lh6.ggpht.com/ylU3YyKevAJG7W0rCeYuDLlwSMXivWqdpWDKnYPbRMQpLGqMLEE1jiQyDFa9k_iK0FASKGVaPhd5NrHr1BCqRw",
+    "ingredients": [
+        "2 tablespoons miso paste 30-40g",
+        "1/2 cup butter room temperature, 115g",
+        "1/2 cup sugar 100g",
+        "1/2 egg",
+        "1 1/2 cups all-purpose flour 200g",
+        "1/2 teaspoon baking soda",
+        "raw sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H35M",
+    "serve": "36 servings",
+    "tags": "Oven, Desserts, Japanese, Baking, Cookies"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Recipe-Miso-Glazed-Eggplant-Nasu-Dengaku-673670",
+    "recipeName": "Recipe \u2013 Miso Glazed Eggplant \u2013 Nasu Dengaku",
+    "recipePhoto": "https://lh4.ggpht.com/ulHsBeVj8VldUFN704zbNHNdO-H6Jmcsv4Xr5keqIDfgEpkE8S3UQfeabd969OgYVVTZRwOamuNX6r2D89_Vgg",
+    "ingredients": [
+        "1 eggplant small, or 2 Japanese eggplants",
+        "1/4 cup dashi or chicken broth",
+        "1 tablespoon mirin",
+        "1 tablespoon sake",
+        "2 teaspoons sugar",
+        "1 tablespoon miso",
+        "1 green onion chopped, for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "2 servings",
+    "tags": "Baking, Low Sodium, Asian, Oven, Boiling, Grilling, Low Saturated Fat, Low Carb, Low Calorie, Low Fat, High Fiber, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Omelet--Tamagoyaki-1354398",
+    "recipeName": "Japanese Omelet- Tamagoyaki",
+    "recipePhoto": "https://lh3.googleusercontent.com/aAwIBTbJQ4c5HAfu5U_IOSH4ln48uDPg2a7Hl3jqsKvKiSwbNUGbViPZmmOaH6epO-duU_l_c7R4_9MnVWnR",
+    "ingredients": [
+        "5 eggs",
+        "1 tablespoon sugar",
+        "1 teaspoon mirin",
+        "1 teaspoon soy sauce or tamari for gluten free",
+        "cooking spray for baking dish"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "Baking, Easy, Japanese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Black-Cod-with-Miso-_Miso-marinated-Black-Cod_-1455849",
+    "recipeName": "Black Cod with Miso (Miso-marinated Black Cod)",
+    "recipePhoto": "https://lh3.googleusercontent.com/3-F2xBJmUC6tJR0wfXHTLLP6echfXzaVEKOu9-2VM6i_kbC5j8X112kuYwPOZ1L2bogrIhMqYwavwO8kEx6ZxBo",
+    "ingredients": [
+        "3 black cod fillets about 1 lb",
+        "1/4 cup sake",
+        "1/4 cup mirin",
+        "4 tablespoons white miso paste",
+        "3 tablespoons sugar"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Drying, Easy, Japanese, Oven, Baking, Marinating, Browning, Grilling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Grilled-Miso-Salmon-2537782",
+    "recipeName": "Grilled Miso Salmon",
+    "recipePhoto": "https://lh3.googleusercontent.com/-Xs-3WOrRjud1fuiYIBkEEfEjQsWwlBmcJqF-IRMsOBWOj5IB37Afvg8rVT7u28PN0u52zE-RP4_IRrIM71s",
+    "ingredients": [
+        "1/4 cup white miso paste",
+        "3 tablespoons mirin",
+        "2 tablespoons sake",
+        "1 tablespoon sugar",
+        "1 tablespoon soy sauce",
+        "4 pieces salmon fillets"
+    ],
+    "ratings": null,
+    "cookTime": "PT8H15M",
+    "serve": "4 servings",
+    "tags": "Easy, Low Sugar, Japanese, Baking, Main Dishes, Low Saturated Fat, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sakura-Mochi--Kansai-_Kyoto_-style-900097",
+    "recipeName": "Sakura Mochi -Kansai (Kyoto) style",
+    "recipePhoto": "https://lh6.ggpht.com/KLCElpLi6Zkaz8_Y8faANQoWwWYvuujH4PC8hq4w-L2FF0y8VzYLeGeBlofPJCvNnCeLQDjHFFG5YLAXeYsPaA",
+    "ingredients": [
+        "3/4 cup glutinous rice",
+        "1 tablespoon sugar",
+        "1 cup water",
+        "1/2 cup red bean paste",
+        "3 drops red food colouring",
+        "8 leaves sakura, optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "8 servings",
+    "tags": "Baking, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Matcha-Kasutera-_Green-Tea-Castella_-1098131",
+    "recipeName": "Matcha Kasutera (Green Tea Castella)",
+    "recipePhoto": "https://lh3.googleusercontent.com/CHZcLVNWgvnInJLBwA0HjGYjFFkIC_3y6ISHkrvRN8OcCc1rx0WHiGKvqHx7JusQR--6dY5HwtY_rBn2UOvaxQ",
+    "ingredients": [
+        "3/4 cup bread flour",
+        "2 tablespoons matcha green tea powder",
+        "5 egg whites at room temperature",
+        "5 egg yolks at room temperature",
+        "2/3 cup sugar",
+        "2 tablespoons mirin"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "12 servings",
+    "tags": "Desserts, Japanese, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chawanmushi-_Japanese-Dashi-Egg-Custard_-1519799",
+    "recipeName": "Chawanmushi (Japanese Dashi Egg Custard)",
+    "recipePhoto": "https://lh3.googleusercontent.com/vL7QMDMKpWyX4EFLCuJQKx5BrIlK7dsWinwwATSijNQgOWxTmQYAdHFE6kOx1fYm3MsTyqHiYNFK5t0E6XP8w-Q",
+    "ingredients": [
+        "1 1/2 cups dashi",
+        "3 eggs",
+        "1 teaspoon kosher salt",
+        "2 ounces boneless skinless chicken breast cut into \u00bd-inch cubes",
+        "8 ounces deveined shrimp cut into \u00bd-inch pieces",
+        "2 shiitake mushrooms stems removed and caps thinly sliced",
+        "1 tablespoon soy sauce",
+        "mitsuba or parsley leaves, for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Asian, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Grilled-Miso-Salmon-1017991",
+    "recipeName": "Grilled Miso Salmon",
+    "recipePhoto": "https://lh5.ggpht.com/Lp_5iBgtcaqwDn78c6EQPqF6Teshxz5gDUVqrf8HZXgZcwCrgUF--wozwFWJbFGU1-F7OcUp-Q7CxXQX_M8evrU",
+    "ingredients": [
+        "1/4 cup white miso paste",
+        "3 tablespoons mirin",
+        "2 tablespoons sake",
+        "1 tablespoon sugar",
+        "1 tablespoon soy sauce",
+        "4 pieces salmon fillets"
+    ],
+    "ratings": null,
+    "cookTime": "PT8H15M",
+    "serve": "4 servings",
+    "tags": "Oven, Easy, Low Sugar, Asian, Baking, Main Dishes, Low Saturated Fat, High Protein, Low Carb, Low Calorie, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Onigiri-981658",
+    "recipeName": "Onigiri",
+    "recipePhoto": "https://lh6.ggpht.com/M2E7XZ24V6yppHP4eqOXH3az0dbNdM8FRRtJrsoKXR-a5fxJAosg6sPW8zgNutWbuMmK6LSlQsTt00h8_eGnldQ",
+    "ingredients": [
+        "1 cup short-grain rice good quality white",
+        "2 ounces gravlax or smoked salmon, roughly chopped",
+        "1 scallion thinly sliced",
+        "1/2 avocado",
+        "1/2 lemon juiced",
+        "1 teaspoon wasabi paste",
+        "2 sheets nori",
+        "water",
+        "salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "5 servings",
+    "tags": "High Vitamin C, Japanese, Baking, Low Sodium, Sugar Free, Low Sugar, Low Saturated Fat, High Carb, High Iron, Low Calorie, Low Fat, High Fiber"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Green-Tea-Meringue-Cookies-749484",
+    "recipeName": "Japanese Green Tea Meringue Cookies",
+    "recipePhoto": "https://lh4.ggpht.com/FgV9eZRalCiXbgJUh3ou2C5q9tObEz39vJwiQxsrN03Up6jQXVvfUlJi_yifQrQo0RvGJqV3awCdf1v63u26bA",
+    "ingredients": [
+        "3 large egg whites at room temperature, use 3-4 days old eggs",
+        "1/4 teaspoon cream of tartar",
+        "1/2 cup icing sugar",
+        "1 1/4 teaspoons green tea powder"
+    ],
+    "ratings": 3.0,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Desserts, Japanese, Baking, Cookies, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Salmon-_-Shiitake-Hot-Pot-965527",
+    "recipeName": "Japanese Salmon & Shiitake Hot Pot",
+    "recipePhoto": "https://lh5.ggpht.com/L6DJBH4SsadqtkQExLxUmhANvujDPdt2Kemtxum9lIDh9tKRCKS9D9YNd5TimgS2NUo27IVrXbe6eXqVOILGMQ",
+    "ingredients": [
+        "4 cups dashi or store-bought chicken/vegetable stock",
+        "white miso",
+        "6 ounces boneless salmon fillet",
+        "1 cup cabbage",
+        "1 cup carrots matchstick",
+        "1 cup baby spinach",
+        "2 ounces dried shiitake mushrooms"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "2 servings",
+    "tags": "Oven, Baking, Japanese, Quick, Main Dishes, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Mushroom-Flatbread-514314",
+    "recipeName": "Japanese Mushroom Flatbread",
+    "recipePhoto": "https://lh3.ggpht.com/kWa47qBM4Syk7n1v2cdRMviQHgOXcOCTsxTsV4FwA5YWW3npzW0uKfLCGJprw0WICxOY0xt8jw8RIjPwoHVXx6o",
+    "ingredients": [
+        "1 teaspoon olive oil",
+        "2 cups brown beech mushrooms Japanese, or other Asian mushrooms like fresh shiitake",
+        "1/2 onion small, very thinly sliced",
+        "1 piece flatbread naan, about 8x14 inches",
+        "2 tablespoons basil pesto sauce prepared",
+        "1/2 cup shredded mozzarella cheese",
+        "1 tablespoon grated parmesan cheese",
+        "4 fresh basil leaves chiffonade"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "4 servings",
+    "tags": "Baking, Easy, Flatbread, Japanese, Oven, Sauteeing, Asian"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kasutera-Japanese-castella-cake-2050530",
+    "recipeName": "Kasutera Japanese castella cake",
+    "recipePhoto": "https://lh3.googleusercontent.com/CDTsBzP6_6tnUPfZZQXMmBIEW5nIl_cpzvJbMuXYD_RT8BYx4dvqY5OA9PZu7jPocTiRU-3pTe2fBwGfn9y7",
+    "ingredients": [
+        "4 eggs medium sized, weighing 200g all together",
+        "1/2 cup sugar",
+        "3/4 cup flour Baker's, bread flour",
+        "2 9/16 tablespoons plain flour",
+        "2 tablespoons honey",
+        "2 tablespoons mirin"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "8 servings",
+    "tags": "Desserts, Easy, Japanese, Microwaving, Cake, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Style-Cheesecake-626828",
+    "recipeName": "Japanese Style Cheesecake",
+    "recipePhoto": "https://lh6.ggpht.com/Zyjq1R00y2vnPS6IDs-0zGzq-YJD3KiSk0KAI70apZiJC-6ZckcBMyT5_mRKkYFks8_-BEZtDINtul5lIwo7AA",
+    "ingredients": [
+        "1 1/16 cups cream cheese you can use light cream cheese if you want",
+        "3 eggs separated",
+        "3 3/8 tablespoons milk",
+        "6 3/8 tablespoons sugar",
+        "3 3/4 tablespoons cornstarch",
+        "1/2 lemon",
+        "1 teaspoon baking powder"
+    ],
+    "ratings": 1.0,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Cheesecake, Japanese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Teriyaki-Salmon-Glaze-2642826",
+    "recipeName": "Teriyaki Salmon Glaze",
+    "recipePhoto": "https://lh3.googleusercontent.com/RJuLp3CMN1Z0bVO-lvt6_FSIDUmKKfsQ4W8bCl7K_picg2HO4otYdX-30vEiWBx8DYbqhteQCThQXtdIY0oNoA",
+    "ingredients": [
+        "20 ounces salmon cut into 4 even-sized fillets",
+        "1/4 cup reduced sodium soy sauce",
+        "3 tablespoons honey",
+        "3 tablespoons water",
+        "2 tablespoons mirin",
+        "1 clove garlic minced",
+        "1 teaspoon fresh ginger minced; or 1/4 teaspoon powdered",
+        "2 tablespoons water",
+        "1 tablespoon cornstarch"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "4 servings",
+    "tags": "Quick and Easy, High Vitamin D, Japanese, Baking, Glaze, Main Dishes, Quick, Easy, Low Saturated Fat, High Protein, Low Carb, Low Calorie, Low Fat"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Glazed-Eggplant-1551509",
+    "recipeName": "Miso Glazed Eggplant",
+    "recipePhoto": "https://lh3.googleusercontent.com/vLL6GfT60djrvO8oiTzfo1ZtKsUkC9yl5t4257fQHRcH8BfQXVj9Cj2duJxiu0-CVEuNJ7RZ5ywPmID-f9OspW8",
+    "ingredients": [
+        "1 eggplant",
+        "2 tablespoons miso paste",
+        "2 tablespoons mirin rice wine vinegar",
+        "2 tablespoons sake",
+        "1 tablespoon sugar",
+        "scallions for garnish",
+        "1 handful sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "2 servings",
+    "tags": "Glazing, Oven, High Calcium, Asian, Quick, Side Dishes, Baking, Grilling, High Carb, High Potassium, High Protein, High Iron, High Fiber, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Green-Tea-Cheesecake-681059",
+    "recipeName": "Japanese Green Tea Cheesecake",
+    "recipePhoto": "https://lh5.ggpht.com/DycG4YrR5IvM9Seiry6H1IXjpzo3mAycOTdImyTNEWDqxT6gG7WPySr87yXVK3zRSdUtzDyURv97x05tt5sE2Q",
+    "ingredients": [
+        "16 tablespoons mascarpone",
+        "4 tablespoons butter",
+        "6 large eggs separated",
+        "3 tablespoons granulated sugar",
+        "1 cup heavy cream",
+        "3 tablespoons matcha green tea powder sifted",
+        "1/4 cup confectioners' sugar",
+        "1/2 cup cake flour",
+        "3 tablespoons cornstarch"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Desserts, Cheesecake, Japanese, Microwaving, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Salmon-Teriyaki-Noodles-1357352",
+    "recipeName": "Salmon Teriyaki Noodles",
+    "recipePhoto": "https://lh3.googleusercontent.com/efq5E5BYHhZpRzFTk_kHwNnnte7RWqwQD9SGUJcusYe-mAH-XOlYs8RMhFtfGbCIZV5EF-0sJ9ly3UH3YaBQ",
+    "ingredients": [
+        "12 ounces salmon cut into two pieces",
+        "salt",
+        "ground black pepper",
+        "6 ounces rice noodles",
+        "white sesame seeds Black and",
+        "1 tablespoon scallion chopped",
+        "3 tablespoons gluten free soy sauce San-J Tamari, or San-J Teriyaki Sauce",
+        "1/2 cup mirin",
+        "2 tablespoons sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT22M",
+    "serve": "2 servings",
+    "tags": "Baking, Asian, Quick, Main Dishes, Oven, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Miso-Eggplant-_vegan_-1216541",
+    "recipeName": "Japanese Miso Eggplant (vegan)",
+    "recipePhoto": "https://lh3.googleusercontent.com/3tJhfM_YH6b4pS23D9miF8xo0UVqLsmT7U20ZgSofhebnvw6qjAk7l-Qgmw_1V0gHqpaUz5wWRrGGsQMum0HKQ",
+    "ingredients": [
+        "3 tablespoons miso paste",
+        "3 tablespoons mirin Japanese sweet wine",
+        "3 tablespoons broth Dashi, can sub chicken broth",
+        "2 teaspoons sugar",
+        "2 teaspoons sesame oil",
+        "2 eggplants medium or 3 small, about 400g"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Easy, Asian, Browning, Oven, Japanese, Sauteeing, Drying, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-chicken-Wings-895444",
+    "recipeName": "Japanese chicken Wings",
+    "recipePhoto": "https://lh5.ggpht.com/J9k3vJmHPQZeC9UtnOWReQBgCBR64ypcJhz6QzxzrL7tD0vUGeaF7DOpKPJPRM4bOOcvp-w11agW4_jGa4gA",
+    "ingredients": [
+        "10 chicken wings tips remove and cut at the joint",
+        "2 beaten eggs",
+        "1 1/2 cups corn starch",
+        "oil for frying",
+        "1/2 cup white vinegar",
+        "1 cup white sugar",
+        "3 tablespoons water",
+        "3 tablespoons soya sauce",
+        "1/2 teaspoon salt"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT50M",
+    "serve": "2 servings",
+    "tags": "Easy, Source of Omega-3s, Asian, Appetizers, Frying, Wings, Oven, High Carb, High Protein, High Iron, Japanese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/One-Pan-Miso-Glazed-Salmon-and-Vegetables-2660823",
+    "recipeName": "One Pan Miso Glazed Salmon and Vegetables",
+    "recipePhoto": "https://lh3.googleusercontent.com/Uvv0d3deU7MILecl1NlTVl_sLNiqOihKJNXPWG76BjQgaT3XqqM2o6iSxniJpbnz0Pe4ZL6baVfU_WnmfnPSrw",
+    "ingredients": [
+        "1 salmon filet about 1 \u00bd pounds, skin on",
+        "1/3 cup white miso paste",
+        "1/4 cup mirin",
+        "2 tablespoons soy sauce",
+        "1 tablespoon brown sugar",
+        "2 tablespoons fresh ginger peeled and grated, from about a 2-inch piece, divided",
+        "2 cups broccoli florets",
+        "2 cups edamame",
+        "1 cup baby carrots or sliced carrots",
+        "2 tablespoons olive oil plus extra for coating pan",
+        "salt",
+        "pepper",
+        "2 scallions thinly sliced",
+        "2 teaspoons sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Japanese, Quick, Baking, Main Dishes, Source of Omega-3s, Low Sugar, Low Saturated Fat, High Protein, High Iron, Low Carb, Low Calorie, High Fiber"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Strawberry-Shortcake--769579",
+    "recipeName": "Japanese Strawberry Shortcake \u65e5\u5f0f\u8349\u8393\u86cb\u7cd5",
+    "recipePhoto": "https://lh3.ggpht.com/NMFTyyOHeYJLUSjcA51AZjYybImuOTJjKkFGE_G_O5Q0JQmuKteBaEIai_zCRFra2tarHmhBdOWLVAs3jpBkXvc",
+    "ingredients": [
+        "2 eggs I used eggs directly from fridge",
+        "1/2 cup caster sugar",
+        "7 2/3 tablespoons flour or cake flour",
+        "1 3/8 tablespoons unsalted butter melted",
+        "2/3 tablespoon hot water",
+        "1/2 tablespoon sugar",
+        "1/2 teaspoon rum I used homemade vanilla extract",
+        "cream",
+        "1 1/4 cups whipping cream dairy",
+        "1 tablespoon caster sugar",
+        "1 teaspoon vanilla extract I used homemade vanilla  extract",
+        "11/16 cup strawberries fresh, half-chopped, half- for decorating on top"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Desserts, Japanese, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sticky-Ginger-Teriyaki-Chicken-Nibbles-1956515",
+    "recipeName": "Sticky Ginger Teriyaki Chicken Nibbles",
+    "recipePhoto": "https://lh3.googleusercontent.com/8u-cGg8goQg4yr4DMXXC9qssM41_Ev-1loGJOUZV_1lp1ONF5nb37ecG4YQ3grfcfQ59w-zYT8U3zAuYuk87ryo",
+    "ingredients": [
+        "6 3/4 tablespoons Japanese soy sauce",
+        "6 3/4 tablespoons mirin",
+        "6 3/4 tablespoons sake",
+        "1 tablespoon caster superfine sugar",
+        "1 tablespoon fresh ginger",
+        "2 garlic gloves",
+        "1 tablespoon white sesame seeds",
+        "32 chicken nibbles"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "Boiling, Asian, Baking, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Salmon-2320479",
+    "recipeName": "Miso Salmon",
+    "recipePhoto": "https://lh3.googleusercontent.com/d1QInucJrO4ayrOk_XJY9EQuZitSyibw5zK9QdQpBuyjfvN6sNb2sD62XgHZgg123zfWC69yfTpGzlEBFjRk",
+    "ingredients": [
+        "1 1/4 pounds salmon fillets with skin",
+        "kosher salt to taste",
+        "3 tablespoons sake",
+        "2 tablespoons white wine",
+        "3 tablespoons miso white miso preferred"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Low Sugar, Japanese, Baking, Main Dishes, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/How-to-Make-Chocolate-Covered-Pocky-Sticks-1091882",
+    "recipeName": "How to Make Chocolate Covered Pocky Sticks",
+    "recipePhoto": "https://lh3.googleusercontent.com/vnrNNKuICAzCqr148xC7dtMXU6g_SlFkSWjoFYvWfp16fui6HunoYHeIGDKLv7celI_5Ef_hc5XZB8M_BTxHcwg",
+    "ingredients": [
+        "1/4 cup sweetened condensed milk",
+        "2 tablespoons water",
+        "1 cup all-purpose flour",
+        "1/2 teaspoon baking powder",
+        "2 tablespoons sugar",
+        "1/8 teaspoon ground cardamom",
+        "1/8 teaspoon salt",
+        "1/4 cup unsalted butter at room temperature",
+        "1 large egg white beaten",
+        "3 1/2 ounces bittersweet chocolate chopped",
+        "1 ounce milk chocolate chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "32 servings",
+    "tags": "Desserts, Japanese, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Salmon-Teriyaki-with-Bok-Choy-One-Pan-Dinner-2555811",
+    "recipeName": "Salmon Teriyaki with Bok Choy One Pan Dinner",
+    "recipePhoto": "https://lh3.googleusercontent.com/rj4KDA6Jsxkztj7NtSqSlbQJ_oX3Ki9b-zIONYkWB8Wf72jaxO7RBGlXtM8xuXXRedbHd7hEmXpJxN_iVTvpCg",
+    "ingredients": [
+        "1/2 cup teriyaki sauce I used Kikkoman sauce with toasted sesame",
+        "3 tablespoons soy sauce",
+        "1 tablespoon mirin",
+        "1 tablespoon fresh ginger grated",
+        "2 cloves garlic minced",
+        "1 1/2 pounds salmon fillet",
+        "4 baby bok choy halved or quartered",
+        "spring onions",
+        "sesame seeds optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Easy, Teriyaki, Baking, Japanese, Main Dishes, Boiling, Grilling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sheet-Pan-Miso-Salmon-and-Green-Beans-2238741",
+    "recipeName": "Sheet Pan Miso Salmon and Green Beans",
+    "recipePhoto": "https://lh3.googleusercontent.com/4iT4BuHmGL7404sGHEMhJn_44RyJnbjEYd3HdjkgiPfb-4P06rSxmz_wQXxP1EWOe9xYA4sumXLkxfJGDez9",
+    "ingredients": [
+        "1 1/4 pounds salmon sliced into even portions",
+        "2 tablespoons white miso",
+        "1 teaspoon sesame oil",
+        "1 tablespoon mirin",
+        "1 tablespoon soy sauce low-sodium, or liquid aminos",
+        "1 tablespoon fresh ginger minced",
+        "1 clove garlic minced",
+        "1 pound green beans ends trimmed",
+        "1 tablespoon sesame seeds toasted",
+        "2 scallions thinly sliced"
+    ],
+    "ratings": null,
+    "cookTime": "PT22M",
+    "serve": "4 servings",
+    "tags": "High Vitamin D, Asian, Quick, Broiling, Main Dishes, Low Sugar, Low Saturated Fat, High Protein, High Iron, Low Carb, Low Calorie, Low Fat, Japanese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Eggplant-Nasu-Dengaku-_Miso-glaze_-1894722",
+    "recipeName": "Japanese Eggplant Nasu Dengaku (Miso glaze)",
+    "recipePhoto": "https://lh3.googleusercontent.com/0b4jJICTK6GAy6xqKXVFlL3pWUvjf0j6W2UaJ4O2Vdq16NLxpawrRKa0jM3Ts5GtXQj66TGir98PQ3AYeRxZ6Q",
+    "ingredients": [
+        "4 japanese eggplants sliced can substitute with italian eggplant also",
+        "2 tablespoons miso paste without dashi, fish stock",
+        "2 tablespoons mirin",
+        "1/2 teaspoon soy sauce shoyu",
+        "1/2 teaspoon white sugar",
+        "sesame oil for brushing",
+        "sesame seeds as a garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "4 servings",
+    "tags": "Oven, Easy, Asian, Glazing, Japanese, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Melonpan-Is-an-Unusual-Japanese-Snack-Bread-that-Youll-Love_-1082707",
+    "recipeName": "Melonpan Is an Unusual Japanese Snack Bread that You\u2019ll Love!",
+    "recipePhoto": "https://lh3.googleusercontent.com/_Bfz84sG6iSRQEpgvlNlppVIFTk4GPJgnXez7WEZn0y8w8dhisbbLTGpqIcwf6ZJyDTR2JhNzBYpI30lqmkh",
+    "ingredients": [
+        "1 tablespoon active dry yeast",
+        "7/8 cup warm water 107F",
+        "1/4 cup sugar",
+        "1/2 teaspoon salt",
+        "1/3 cup milk powdered dry",
+        "1 egg room temperature",
+        "5 tablespoons unsalted butter melted",
+        "3 cups bread flour",
+        "1/2 sugar cookie dough recipe"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H45M",
+    "serve": "18 servings",
+    "tags": "Oven, Japanese, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Crispy-Baked-Chicken-with-Citrus-Teriyaki-Sauce-475621",
+    "recipeName": "Crispy Baked Chicken with Citrus Teriyaki Sauce",
+    "recipePhoto": "https://lh5.ggpht.com/H-egc_vCkayWFIKeKFU1x9arMvMxcmMemdcrRj8QEt-NME4JifwxglcvnFJi3yWpxD3iNXMlEzW5Y3M-qlfn7A",
+    "ingredients": [
+        "3 tablespoons soy sauce",
+        "3 tablespoons orange juice freshly squeezed",
+        "3 tablespoons sake",
+        "3 tablespoons sugar",
+        "3 tablespoons mirin",
+        "1/2 cup all-purpose flour",
+        "1/2 teaspoon garlic powder",
+        "2 teaspoons salt",
+        "1/2 teaspoon pepper",
+        "2 large eggs",
+        "1 1/2 cups panko breadcrumbs",
+        "1 pound boneless skinless chicken breasts about 2-3",
+        "nonstick cooking spray"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "Baked Chicken, Low Saturated Fat, Japanese, Baking, Main Dishes, Oven, High Protein, Low Calorie, Low Fat"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Salmon-_-Shiitake-Hot-Pot-2507018",
+    "recipeName": "Japanese Salmon & Shiitake Hot Pot",
+    "recipePhoto": "https://lh3.googleusercontent.com/1fN6cbI4dX8Hquiad2V5gxsTY1kSn9eJp1ya2FozCbUJl0Pp1E2srwSULo6ni96KZwoZHhB7WK93zVVSZN0t",
+    "ingredients": [
+        "4 cups dashi or store-bought chicken/vegetable stock",
+        "white miso",
+        "6 ounces boneless salmon fillet",
+        "1 cup cabbage",
+        "1 cup matchstick carrots",
+        "1 cup baby spinach",
+        "2 ounces dried shiitake mushrooms"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "2 servings",
+    "tags": "Quick and Easy, Baking, Japanese, Quick, Easy, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Vegan-Furikake-_-Japanese-Rice-Seasoning-2200704",
+    "recipeName": "Vegan Furikake | Japanese Rice Seasoning",
+    "recipePhoto": "https://lh3.googleusercontent.com/JJXebaP0ETyYThlxRSHtfBdPvz2EDPoVJ_1zImuFdQGi4QEVLaZzgV7PskFv3YuluelMtTbt9Qt3cRUmLwAN9w",
+    "ingredients": [
+        "3 tablespoons black sesame seeds",
+        "3 tablespoons white sesame seeds",
+        "20 sheets nori seaweed seasoned, I used the kind from Costco",
+        "1/2 teaspoon sugar",
+        "1 tablespoon dulse seaweed flakes",
+        "1 tablespoon soy sauce or tamari sauce",
+        "1 teaspoon mirin",
+        "1/2 teaspoon toasted sesame oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "Easy, Low Sodium, Asian, Baking, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Miso-Soba-Noodle-Bowls-1518090",
+    "recipeName": "Easy Miso Soba Noodle Bowls",
+    "recipePhoto": "https://lh3.googleusercontent.com/pAfr0oTUO1hPMI4iE4kdsR7qov-HZTAMMVAQsG7dnbaIpvsestN-tWnDMziLAqUqVbjpBu8wzvjqag4ThVQbD1s",
+    "ingredients": [
+        "1 handful soba noodles",
+        "3 cups water",
+        "1/4 cup miso soybean paste",
+        "1 tablespoon soy sauce",
+        "2 teaspoons chili garlic sauce",
+        "1/2 package enoki mushrooms chopped",
+        "3 green onions chopped",
+        "1/2 package extra firm tofu",
+        "2 tablespoons sunflower oil",
+        "1 tablespoon Sriracha",
+        "1/4 cup soy sauce",
+        "1/4 cup rice wine vinegar",
+        "enoki mushrooms",
+        "sunflower sprouts",
+        "red cabbage",
+        "jalape\u00f1os sliced and deseeded",
+        "tofu Spicy"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "2 servings",
+    "tags": "Baking, Oven, Asian, Quick, Main Dishes, Marinating, Roasting, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Unagi-Sushi-Rice-Bowl-1744214",
+    "recipeName": "Unagi Sushi Rice Bowl",
+    "recipePhoto": "https://lh3.googleusercontent.com/HFmVUdjkuJVtNnSaERXSuUecT9KbVp_0p4reFbRGT_qbK47sIhD3XkDLC47_IaG22JHoR-yLsNY73KGzkYxgLA",
+    "ingredients": [
+        "7 ounces fillet unagi, cooked according to package instructions",
+        "1 large egg beaten",
+        "cucumber slices",
+        "avocado slices",
+        "nori cut into thin slivers, I used kitchen shears",
+        "2 teaspoons white sesame seeds toasted",
+        "sauce Kabayaki, recipe follows",
+        "sushi rice recipe follows",
+        "1/4 cup soy sauce",
+        "1/4 cup mirin",
+        "1 tablespoon white sugar",
+        "2 cups sushi rice or short grain",
+        "2 cups water",
+        "1/4 cup rice vinegar",
+        "2 tablespoons sugar",
+        "1/2 teaspoon salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "3 servings",
+    "tags": "Baking, Asian, Oven, Microwaving, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Miso-Cod-2198255",
+    "recipeName": "Easy Miso Cod",
+    "recipePhoto": "https://lh3.googleusercontent.com/CQE-5WFEdK6YBaRplZvU0zxo6aRKx7ByxaImtqY5KhQm9tD1Rk20eoEIev5lXZiFq5I6vxaHx4y27WLY6NaDFA",
+    "ingredients": [
+        "3/4 cup sake",
+        "3/4 cup mirin",
+        "1 cup white miso paste",
+        "2 tablespoons soy sauce",
+        "1/2 cup brown sugar packed",
+        "36 ounces cod fillets can also use halibut or sea bass"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "6 servings",
+    "tags": "Low Saturated Fat, Asian, Glazing, Main Dishes, High Potassium, High Protein, Low Carb, Low Calorie, Low Fat, Japanese, Drying, Broiling, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Glazed-Eggplant-1980117",
+    "recipeName": "Miso Glazed Eggplant",
+    "recipePhoto": "https://lh3.googleusercontent.com/RerCZzMgtwgJViNFMgTssFxE71lvqr_do-7sx0ztGlp419JmZCsLOR4QSAPtL34wCJxh6bmi3MGlnUtMI_Koeg",
+    "ingredients": [
+        "2 japanese eggplants medium, about 10 ounces total, can sub other varieties of eggplant - see notes",
+        "1 tablespoon sesame oil",
+        "2 tablespoons white miso paste",
+        "1 tablespoon maple syrup",
+        "1 tablespoon sake optional, but so worth it",
+        "1/4 cup hot water",
+        "scallions chopped",
+        "sesame seeds"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Asian, Browning, Japanese, Broiling, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Rolled-Omelette-2291277",
+    "recipeName": "Japanese Rolled Omelette",
+    "recipePhoto": "https://lh3.googleusercontent.com/swWxNB2-f1GEPQnJL-iB0ZogQlfIEZrnhm2tfOWDVgS7wz94LbPaebqZA16nYQ-AWOpdN4B-MXbLFtSiG5-3nQ",
+    "ingredients": [
+        "5 large eggs",
+        "4 1/4 ounces fish cake Hanpen",
+        "2 tablespoons sugar I used muscovado sugar",
+        "1 tablespoon honey",
+        "1 tablespoon mirin",
+        "1 tablespoon dashi",
+        "1 teaspoon sake",
+        "1 teaspoon usukuchi soy sauce"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Baking, Japanese, Omelet, Blending"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Homemade-Pocky-1045350",
+    "recipeName": "Homemade Pocky",
+    "recipePhoto": "https://lh4.ggpht.com/IYpeCCbAdKXJMaIgAW0lU-PLEzYLxjJNl7Ju2GCLqLbaNwYLLCfIJZIfeofFpxx3LOogFysBHFJdHrQPy5O_8w",
+    "ingredients": [
+        "1/4 cup sweetened condensed milk",
+        "2 tablespoons water",
+        "1 cup all-purpose flour",
+        "1/2 teaspoon baking powder",
+        "2 tablespoons sugar",
+        "1 pinch salt",
+        "1/4 cup unsalted butter room temperature",
+        "white chocolate melted and tempered",
+        "milk chocolate melted and tempered",
+        "coconut flakes toasted",
+        "toasted hazelnuts chopped",
+        "toasted pecans chopped"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT40M",
+    "serve": "30 servings",
+    "tags": "Oven, Baking, Desserts, Japanese, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Instant-Pot-Teriyaki-Chicken-2457739",
+    "recipeName": "Instant Pot Teriyaki Chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/hLoBiCMIkO2x2DfTl9VchchI08zBLEVVut1KrkW1s4-DLti84kGZz0zzIaRFM01yRsKRb5Y9MtfYbza0J8i9",
+    "ingredients": [
+        "3/4 cup water",
+        "1/4 cup soy sauce low sodium",
+        "3 tablespoons mirin use more if using brown sugar",
+        "2 tablespoons honey",
+        "1 teaspoon sesame oil",
+        "2 cloves garlic minced",
+        "2 teaspoons ginger freshly ground",
+        "3 pounds chicken thighs with skin and bones",
+        "3 tablespoons cornstarch",
+        "3 tablespoons cold water",
+        "3 green onions chopped",
+        "sesame seeds"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Low Sugar, Asian, Browning, Main Dishes, High Protein, High Iron, Low Carb, Japanese, Sauteeing, Broiling, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Lemon-Miso-Salmon-1620568",
+    "recipeName": "Lemon Miso Salmon",
+    "recipePhoto": "https://lh3.googleusercontent.com/fwKLEAL9OfClP4ErhnR8Cdi_fZ6_e3E7ho4MjB7SDTCM1DR2R7P0MHZlL71Nwd0Q_2gnuriLsp9vhk0-tvExZwE",
+    "ingredients": [
+        "2 tablespoons mirin sweet cooking sake",
+        "2 tablespoons miso paste",
+        "1 tablespoon light brown sugar packed",
+        "1 tablespoon soy sauce",
+        "3/4 teaspoon ginger freshly grated",
+        "1 garlic clove minced",
+        "1 teaspoon fresh lemon juice from 1 small lemon",
+        "1 tablespoon extra-virgin olive oil",
+        "3/4 pound salmon filet skin and pins removed, split in two",
+        "scallions optional, for topping",
+        "toasted sesame seeds optional, for topping"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "2 servings",
+    "tags": "Low Sugar, Japanese, Quick, Browning, Main Dishes, Oven, High Protein, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Miso-Soba-Noodle-Bowls-2390724",
+    "recipeName": "Easy Miso Soba Noodle Bowls",
+    "recipePhoto": "https://lh3.googleusercontent.com/MsAZ7MlCj2HSlszH-3rmOnsA-kp0i0mOczpCWgTXs_1VIeRC_-6tE-Y-UZ6oji228h8Rjm7C4GOt087HFKDZUA",
+    "ingredients": [
+        "1 handful soba noodles",
+        "3 cups water",
+        "1/4 cup soybean miso paste",
+        "1 tablespoon soy sauce",
+        "2 teaspoons chili garlic sauce",
+        "1/2 package enoki mushrooms chopped",
+        "3 green onions chopped",
+        "1/2 package extra firm tofu",
+        "2 tablespoons sunflower oil",
+        "1 tablespoon Sriracha",
+        "1/4 cup soy sauce",
+        "1/4 cup rice wine vinegar",
+        "enoki mushrooms",
+        "sunflower sprouts",
+        "red cabbage",
+        "jalape\u00f1os sliced and deseeded",
+        "tofu Spicy"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Baking, Asian, Quick, Roasting, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Teriyaki-Tempeh-Meatballs-2207979",
+    "recipeName": "Teriyaki Tempeh Meatballs",
+    "recipePhoto": "https://lh3.googleusercontent.com/4hno4Qzl5CxI64SddtINkF5wOry9BNfywYnbYVO6TTnSbokY8IhS5h5fkX_w4swdPc7oO3SQ618W0NQKGSpirw",
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "8 ounces tempeh broken into 1 to 2 inch chunks",
+        "1/2 cup panko breadcrumbs",
+        "1/4 cup chopped onion coarsely",
+        "2 garlic cloves minced",
+        "2 tablespoons soy milk unflavored",
+        "1 tablespoon soy sauce",
+        "1/2 teaspoon liquid smoke",
+        "1/4 cup soy sauce",
+        "3 tablespoons maple syrup",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon sake optinal, but very nice",
+        "2 garlic cloves minced",
+        "1 teaspoon ginger freshly grated",
+        "1 dash white pepper",
+        "6 tablespoons cold water divided",
+        "2 teaspoons cornstarch",
+        "2 scallions chopped",
+        "toasted sesame seeds"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT35M",
+    "serve": "2 servings",
+    "tags": "Meatballs, High Calcium, Asian, Browning, Source of Omega-3s, High Carb, High Potassium, High Protein, High Iron, Japanese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Salmon-Teriyaki-895466",
+    "recipeName": "Salmon Teriyaki",
+    "recipePhoto": "https://lh4.ggpht.com/GCXWP7VW41mz7K5ZJ6XOP3FXamJ6Cx430dFwyZekCtHoCEnt40JYyX0mzXhECA_2hGtde_0zLXBQGqOPliBrfA",
+    "ingredients": [
+        "4 salmon fillets",
+        "1/2 tablespoon cornstarch",
+        "1/2 cup teriyaki sauce",
+        "1 tablespoon sesame seeds",
+        "1/2 cup soy sauce",
+        "2 tablespoons water",
+        "2 tablespoons rice vinegar",
+        "2 tablespoons brown sugar",
+        "3 tablespoons honey",
+        "1 garlic clove grated",
+        "1 teaspoon fresh ginger grated"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "3 servings",
+    "tags": "Teriyaki, Glazing, High Protein, Japanese, Main Dishes, Oven, Broiling, Baking, Boiling, Marinating"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Marinated-Salmon-2011440",
+    "recipeName": "Miso Marinated Salmon",
+    "recipePhoto": "https://lh3.googleusercontent.com/y9pgb0sIY3BjNsSG2e_WtiobWkh6IRxUspThoDh9CPYuedeZjMDZD-YMPaZBC_edj5fJqIOd0vERIbzDLTFoKhA",
+    "ingredients": [
+        "salmon fillet 1-inch thick",
+        "1/4 cup miso paste use red or blend",
+        "1/4 cup rice vinegar",
+        "1/4 cup sake",
+        "2 tablespoons light brown sugar",
+        "2 tablespoons sugar",
+        "1 tablespoon soy sauce",
+        "1 teaspoon ginger freshly grated",
+        "1/2 cup panko bread crumbs"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "Baking, Main Dishes, Asian, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Glazed-Salmon-with-Soba-Noodles_-Broccoli-_-Edamame-2378230",
+    "recipeName": "Easy Glazed Salmon with Soba Noodles, Broccoli & Edamame",
+    "recipePhoto": "https://lh3.googleusercontent.com/Vxz7ioC_HtBdguo5yT0lNLkVTzSlqLWRRNsLqqlZB1IaGu974hIMJ_FyDK_erCpBDXGCf-XlkQJscHKdo2kQIg",
+    "ingredients": [
+        "3 tablespoons tamari soy sauce",
+        "1 tablespoon Sriracha",
+        "1 tablespoon sesame oil",
+        "2 tablespoons maple syrup",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon mirin",
+        "1 teaspoon garlic grated",
+        "1 teaspoon ginger grated",
+        "1 tablespoon toasted sesame seeds to top",
+        "1/3 cup warm water",
+        "3 tablespoons white miso paste",
+        "1 teaspoon garlic grated",
+        "1 teaspoon ginger grated",
+        "3 tablespoons tamari soy sauce",
+        "2 tablespoons coconut sugar or brown sugar",
+        "1 teaspoon rice vinegar",
+        "4 salmon filets about 5 oz. each, 140 grams",
+        "8 ounces buckwheat soba noodles",
+        "gluten",
+        "1 1/2 cups broccoli diced, about 1/2 inch pieces",
+        "1 1/2 cups diced mushrooms about 1/2 inch pieces",
+        "1/2 cup edamame shelled",
+        "1/2 cup scallions sliced",
+        "1/2 cup chopped cilantro roughly",
+        "2 tablespoons toasted sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Baking, High Vitamin C, Asian, Main Dishes, Marinating, High Carb, High Potassium, High Protein, High Iron, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Melonpan-549037",
+    "recipeName": "Japanese Melonpan",
+    "recipePhoto": "https://lh3.ggpht.com/VKt7OxoG9ZQIlruY1kbcN7f2Kg8axSgYgtbvRjGV8CFE3CSu-hTY57Nil8gNfpIkQ4KInIlTS4bOPEr5rdVl",
+    "ingredients": [
+        "2 7/16 tablespoons butter",
+        "5 1/4 tablespoons sugar",
+        "1 egg",
+        "1 cup white flour",
+        "1 lemon only the juice",
+        "1 lemon only the zest",
+        "2 cups white flour",
+        "1 tablespoon powdered milk",
+        "5 1/4 tablespoons sugar",
+        "1/8 tablespoon salt",
+        "1 1/4 teaspoons yeast",
+        "2 tablespoons egg yolk",
+        "1 tablespoon egg white",
+        "6 3/4 tablespoons water",
+        "1 3/4 tablespoons butter melted at room temperature"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Oven, Japanese, Frosting, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sweet-Mock-Eel-Nigiri-_Vegan_-2299539",
+    "recipeName": "Sweet Mock Eel Nigiri [Vegan]",
+    "recipePhoto": "https://lh3.googleusercontent.com/hMLSMNZqtTjhYRlXMvXFQNckciGUmxJNuEdkGiMjZyAJb0jksYgTDy7s876PkQ8uud6CPAFiOzynxerJeXlN",
+    "ingredients": [
+        "3/4 cup black glutinous rice",
+        "2 cups water",
+        "1 1/2 tablespoons rice vinegar",
+        "1 tablespoon whole cane sugar",
+        "1/2 teaspoon sea salt",
+        "1 nori sheet",
+        "2 tablespoons soy sauce",
+        "2 tablespoons mirin",
+        "1 tablespoon whole cane sugar",
+        "1 tablespoon sake",
+        "3 cups vegetable bouillon",
+        "1 cup chickpea flour",
+        "1/4 teaspoon sea salt",
+        "1/2 teaspoon ground turmeric"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "4 servings",
+    "tags": "Boiling, Asian, Baking, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Senbei---Japanese-Rice-Crackers-with-Furikake-2571407",
+    "recipeName": "Senbei - Japanese Rice Crackers with Furikake",
+    "recipePhoto": "https://lh3.googleusercontent.com/3C78Q24sr0J4u6QWTnbWsBy7RdMOmjHfffhZdV0PmlO5y3tkzZ6ckRMRECRdd_8xS-elewWkziyhjZe_aVmwXgg",
+    "ingredients": [
+        "1 1/2 teaspoons soy sauce",
+        "1 1/2 teaspoons mirin",
+        "3/4 cup sweet rice flour glutinous/",
+        "1/3 cup cooked white rice",
+        "1/4 teaspoon fine sea salt",
+        "2 tablespoons neutral oil",
+        "1/4 cup water plus more as needed",
+        "2 tablespoons furikake"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "38 servings",
+    "tags": "Baking, Asian, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Salmon-Teriyaki-with-Bok-Choy-One-Pan-Dinner-2108266",
+    "recipeName": "Salmon Teriyaki with Bok Choy One Pan Dinner",
+    "recipePhoto": "https://lh3.googleusercontent.com/Cu0cM_kEiUoXaOV5hCA8JS64furSMA3-yoINJGaUWEV3ZikBTwKg15xwm-pGt2y9ycKXf9Adx5An6luR3YFN",
+    "ingredients": [
+        "1/2 cup teriyaki sauce I used Kikkoman sauce with toasted sesame",
+        "3 tablespoons soy sauce",
+        "1 tablespoon mirin",
+        "1 tablespoon fresh ginger grated",
+        "2 cloves garlic minced",
+        "1 1/2 pounds salmon fillet",
+        "4 baby bok choy halved or quartered",
+        "spring onions",
+        "sesame seeds optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT27M",
+    "serve": "5 servings",
+    "tags": "Quick and Easy, Teriyaki, Baking, Japanese, Main Dishes, Quick, Easy, Boiling, Grilling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Baked-Fried-Japanese-Chicken-Drums-1689569",
+    "recipeName": "Baked-Fried Japanese Chicken Drums",
+    "recipePhoto": "https://lh3.googleusercontent.com/TYgVP2U0C0natzSLcdx9i8vUARXeVizq5z6TKrs12LXGkLaU3tMbXk8wdmrW8W_R_rrwBdvE3_OfAlQFTe4A",
+    "ingredients": [
+        "12 chicken wings tips removed, and cut into two pieces",
+        "1 cup flour",
+        "1 tablespoon paprika",
+        "1 teaspoon salt",
+        "1 teaspoon black pepper",
+        "1/4 cup tamari sauce",
+        "1/8 cup white vinegar",
+        "1/8 cup rice vinegar",
+        "1/4 cup sugar",
+        "2 teaspoons sesame seeds",
+        "frying oil",
+        "sliced green onions for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Drying, Baked Chicken, Oven, Source of Omega-3s, Asian, Appetizers, Baking, Frying, High Carb, High Protein, High Iron, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Style-Rice-_-Chicken-Stuffed-Bell-Peppers-1073555",
+    "recipeName": "Japanese Style Rice & Chicken Stuffed Bell Peppers",
+    "recipePhoto": "https://lh3.googleusercontent.com/XIvlYUGlA54z6bBv8LLFv5Qkbnc9aW5i0dfV2bJvXDX_qWVL8XR28HMlvS0ynbyV2ioXEXF6NTuiyCw5AVOF3Q",
+    "ingredients": [
+        "1/4 cup water",
+        "1/8 cup mirin or sherry",
+        "1 teaspoon granulated sugar",
+        "2 tablespoons dark soy sauce",
+        "2 cups cooked white rice cooled",
+        "1 large egg",
+        "2 tablespoons water",
+        "1/2 teaspoon mirin or sherry",
+        "1/2 teaspoon soy sauce",
+        "salt",
+        "pepper",
+        "2 bell peppers large, any color",
+        "2 boneless chicken thighs cooked, or 1 large chicken breast, cut in strips",
+        "stuffing",
+        "sauce",
+        "1/4 cup water for cooking."
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Japanese, Baking, Main Dishes, Oven, Low Sugar, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Vegetables-and-Tempeh-with-Ponzu-Sauce-1352883",
+    "recipeName": "Japanese Vegetables and Tempeh with Ponzu Sauce",
+    "recipePhoto": "https://lh3.googleusercontent.com/nPvftOyrwb2OWZtfVFJQKghDJ1CnLEF7jX58iSs_TN_gfOsyYPVSojY-68ByFJljnSLtxi-HgvRq8m_SmYDknA",
+    "ingredients": [
+        "8 ounces tempeh",
+        "2 tablespoons arame",
+        "1/4 cup water just boiled",
+        "3 tablespoons low sodium tamari",
+        "3 tablespoons rice vinegar",
+        "1 teaspoon minced ginger peeled and",
+        "2 tablespoons lime juice",
+        "2 tablespoons lemon juice",
+        "1 pinch chile flakes",
+        "1 tablespoon toasted sesame oil",
+        "300 grams shimeji mushrooms or your favourite, trimmed, 2 packages",
+        "300 grams snow peas trimmed"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "3 servings",
+    "tags": "Baking, Asian, Main Dishes, Oven, Steaming, Marinating, Browning, Frying, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Baked-cod-with-miso-329534",
+    "recipeName": "Baked Cod with Miso",
+    "recipePhoto": "https://lh4.ggpht.com/wVW6koQY8ZAPpd6WUu2AHuONP5nbodqqUGgKExfXM-TTCoRiXs3hrbKuUZFTPLTd2RCkv3QAfkDr-2iZ7D1Jag",
+    "ingredients": [
+        "1/2 cup miso",
+        "1 cup mirin",
+        "1 pound cod fillets"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "3 servings",
+    "tags": "Easy, Low Sugar, Japanese, Baking, Main Dishes, Oven, Low Saturated Fat, High Protein, Low Carb, Low Calorie, Low Fat"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Marinated-Salmon-with-Cucumber-Daikon-Relish-1310520",
+    "recipeName": "Miso-Marinated Salmon with Cucumber-Daikon Relish",
+    "recipePhoto": "https://lh3.googleusercontent.com/vgeww224OKQtX97UVvSlxkDyelTkUBFilInhudhJrBWERaBTVKgRBVn0Sh0G5Ju5pCdzVohL6wpLeU1SdcPoHg",
+    "ingredients": [
+        "1/4 cup white miso fermented soybean paste*",
+        "1/4 cup mirin sweet Japanese rice wine*",
+        "2 tablespoons rice vinegar unseasoned",
+        "2 tablespoons green onions minced",
+        "1 1/2 tablespoons fresh ginger minced",
+        "2 teaspoons sesame oil oriental",
+        "36 ounces salmon fillets Alaskan, with skin",
+        "vegetable oil spray Nonstick",
+        "relish Cucumber-Daikon, click for recipe",
+        "1 1/2 teaspoons sesame seeds toasted",
+        "1/2 cup radish sprouts",
+        "1/2 nori 8x8-inch sheet dried, *, cut with scissors into matchstick-size strips"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "6 servings",
+    "tags": "Baking, Asian, Main Dishes, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-and-Soy-Chilean-Sea-Bass-1607987",
+    "recipeName": "Miso and Soy Chilean Sea Bass",
+    "recipePhoto": "https://lh3.googleusercontent.com/X-2NI-LaC4Ykkn-JmuFUV37wBp6DRIWXxL_Xs7cxNWaHTtsoSdVQurddgRsT-T_nBbVD2Ag79K7UjDZkXhD-cw",
+    "ingredients": [
+        "1/3 cup sake",
+        "1/3 cup mirin Japanese sweet rice wine",
+        "3 tablespoons soy sauce",
+        "1/4 cup brown sugar packed",
+        "1/3 cup miso paste",
+        "16 ounces fresh sea bass about 1 inch thick",
+        "2 tablespoons green onion chopped"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT3H17M",
+    "serve": "4 servings",
+    "tags": "Oven, Low Saturated Fat, Asian, Broiling, Main Dishes, Low Carb, Low Calorie, Low Fat, Japanese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Glazed-Salmon-With-Sesame-Soba-Noodles-2333970",
+    "recipeName": "Miso Glazed Salmon With Sesame Soba Noodles",
+    "recipePhoto": "https://lh3.googleusercontent.com/ebh7dAiS7UXRkqhLP5GExH547JkAfLUAdEA_2PCTA7k7UU5yWwru6nn_yyX64YF1ut3Y7yE21uQIGSgI0eR_hw",
+    "ingredients": [
+        "12 ounces salmon fillets skin on or off is up to you",
+        "3 1/2 ounces soba noodles",
+        "2 tablespoons miso paste",
+        "2 teaspoons Kikkoman Soy Sauce",
+        "2 teaspoons mirin",
+        "2 teaspoons ginger freshly grated",
+        "1 tablespoon rice wine vinegar",
+        "1 tablespoon soy sauce",
+        "1/2 teaspoon sesame oil",
+        "1/2 teaspoon honey",
+        "1 clove garlic minced",
+        "1/2 teaspoon ginger",
+        "1/4 teaspoon sesame seeds",
+        "1/4 teaspoon fish sauce",
+        "1 tablespoon coconut oil + more if needed",
+        "2 cloves garlic minced",
+        "2 ounces broccolini roughly chopped",
+        "3 ounces baby bella mushrooms",
+        "2 ounces zucchini julienned",
+        "2 tablespoons shredded carrots",
+        "scallions Thinly sliced",
+        "chili flakes",
+        "sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "2 servings",
+    "tags": "High Vitamin C, Asian, Quick, Glazing, Main Dishes, Low Sugar, High Potassium, High Protein, High Iron, Japanese, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Meatballs-with-Ponzu-Glaze-2440864",
+    "recipeName": "Japanese Meatballs with Ponzu Glaze",
+    "recipePhoto": "https://lh3.googleusercontent.com/zjo-_uCwXLGKEvZ6fM1v1B6dW3TRnstvYEyMP_ZWPpip15qJXJE09PqUaRWHr9F_dnI-SHkxguER9M8kO5fz",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "10 ounces shiitake mushrooms sliced",
+        "1 tablespoon fresh ginger minced",
+        "1 tablespoon minced garlic",
+        "2 tablespoons dry sherry",
+        "2 tablespoons toasted sesame oil",
+        "1 tablespoon sesame oil",
+        "1 pound ground pork",
+        "1 pound ground chicken",
+        "2/3 cup panko breadcrumbs",
+        "kosher salt",
+        "freshly ground pepper",
+        "4 scallions trimmed and minced, white and green parts",
+        "2 large eggs",
+        "1/2 cup mirin see Note",
+        "1/2 cup less sodium soy sauce",
+        "3 tablespoons ponzu see Note",
+        "2 tablespoons brown sugar dark or light",
+        "1 tablespoon fresh ginger minced",
+        "1 pinch red pepper flakes",
+        "toasted sesame seeds",
+        "scallions"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "48 servings",
+    "tags": "Meatballs, Low Sodium, Asian, Main Dishes, Glazing, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat, Japanese, Appetizers, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Glazed-Salmon-With-Sesame-Soba-Noodles-1955171",
+    "recipeName": "Miso Glazed Salmon With Sesame Soba Noodles",
+    "recipePhoto": "https://lh3.googleusercontent.com/hk7MlwMO_L4zqsfLR9jmPTsNKXrguMrqVnyi-ilHS0ExZd3iDZaKLp1wit1EA-qF5O3pcl-Oh_1Rf4L7KYteIQ",
+    "ingredients": [
+        "12 ounces salmon fillets skin on or off is up to you",
+        "3 1/2 ounces soba noodles",
+        "2 tablespoons miso paste",
+        "2 teaspoons Kikkoman Soy Sauce",
+        "2 teaspoons mirin",
+        "2 teaspoons ginger freshly grated",
+        "1 tablespoon rice wine vinegar",
+        "1 tablespoon soy sauce",
+        "1/2 teaspoon sesame oil",
+        "1/2 teaspoon honey",
+        "1 clove garlic minced",
+        "1/2 teaspoon ginger",
+        "1/4 teaspoon sesame seeds",
+        "1/4 teaspoon fish sauce",
+        "1 tablespoon coconut oil + more if needed",
+        "2 cloves garlic minced",
+        "2 ounces broccolini roughly chopped",
+        "3 ounces baby bella mushrooms",
+        "2 ounces zucchini julienned",
+        "2 tablespoons shredded carrots",
+        "scallions Thinly sliced",
+        "chili flakes",
+        "sesame seeds"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT30M",
+    "serve": "2 servings",
+    "tags": "High Vitamin C, Asian, Quick, Glazing, Main Dishes, Low Sugar, High Potassium, High Protein, High Iron, Japanese, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Roasted-Sweet-Potato-Sushi-2207982",
+    "recipeName": "Roasted Sweet Potato Sushi",
+    "recipePhoto": "https://lh3.googleusercontent.com/rr-4CAlyu7kL9pnxKNoucVInaBXc6QegPjP6nM5OVqlKE5HKsGKHmfU9EzCNGWefC5WlVObkFCquxKcKfjhdcNU",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 tablespoon maple syrup",
+        "1 teaspoon sesame oil",
+        "1 pound sweet potato",
+        "1 cup sushi rice",
+        "1 1/3 cups water",
+        "1 1/2 tablespoons rice vinegar",
+        "3/4 tablespoon salt",
+        "3 nori sheets",
+        "2 scallions",
+        "toasted sesame seeds",
+        "wasabi",
+        "pickled ginger",
+        "soy sauce"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "3 servings",
+    "tags": "Asian, Baking, Side Dishes, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Tamago-Egg-_Tamagoyaki_-1349471",
+    "recipeName": "Japanese Tamago Egg (Tamagoyaki)",
+    "recipePhoto": "https://lh3.googleusercontent.com/KN1rMKkNwIuSKS9wBxW7NiWaaYDa-eNpnWcFEag_kz8clSp50filshnRTIkIpeDHzL6V565ZO4SJEZEDleocCg",
+    "ingredients": [
+        "5 eggs",
+        "1 tablespoon sugar",
+        "1 teaspoon mirin",
+        "1 teaspoon soy sauce or Tamari for gluten free",
+        "cooking spray for baking dish"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "6 servings",
+    "tags": "Oven, Baking, Easy, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Tasty-Teriyaki-Veggie-Burger-2404728",
+    "recipeName": "Tasty Teriyaki Veggie Burger",
+    "recipePhoto": "https://lh3.googleusercontent.com/nMx3_pw5BMfRF0IzlUZ5TPn5wXiJbuu1iFMWUh7JHpjt68-foN9jic-Jkk_JnvC3Ey3aH8lshfPVDAXk9qM2QA",
+    "ingredients": [
+        "1 sweet potato small, \u00bd pound",
+        "3/4 cup gluten Bob\u2019s Red Mill, free old fashioned rolled oats",
+        "2 green onions",
+        "15 ounces red kidney beans",
+        "1/2 cup sunflower seeds shelled",
+        "1/2 teaspoon kosher salt",
+        "1/2 teaspoon garlic powder",
+        "2 teaspoons smoked paprika",
+        "1 1/2 tablespoons soy sauce",
+        "1 1/2 tablespoons mirin",
+        "4 shiitake mushrooms",
+        "1/4 cup mayonnaise vegan if desired",
+        "2 teaspoons Sriracha or less to taste",
+        "4 English muffins gluten-free if desired, or omit",
+        "alfalfa sprouts for serving"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Japanese, Sauteeing, Burger, Lunch, Low Sugar, Low Saturated Fat, High Protein, High Iron, High Fiber, Microwaving, Baking, Veggie Burger"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Butter-Mochi-569816",
+    "recipeName": "Butter Mochi",
+    "recipePhoto": "https://lh5.ggpht.com/IolBJk_V6p2zsm6CHTnPQ0tGSLugz9LLLHNoqIihtWwDaiYdKNtmtxCsLtQMJgfox0GxInx5_Wct4K5BF9uZ",
+    "ingredients": [
+        "3 1/2 cups sweet rice flour mochiko",
+        "2 1/2 cups white sugar",
+        "2 tablespoons baking powder",
+        "5 eggs",
+        "1 teaspoon coconut extract",
+        "1 teaspoon vanilla extract",
+        "2 cups milk",
+        "14 ounces coconut milk",
+        "1/2 cup melted butter"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H15M",
+    "serve": "24 servings",
+    "tags": "Desserts, Easy, Japanese, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Oven-Fried-Japanese-Chicken-Wings-_Tebasaki_-1284023",
+    "recipeName": "Oven Fried Japanese Chicken Wings (Tebasaki)",
+    "recipePhoto": "https://lh3.googleusercontent.com/QXurr3yHBwYin_5OinOfjjWLsk8YNgGO9vykdh54ynn-I_rToJwJuK-xmXwZlGXb6YMAOnqKeQpfGbo7BzOPiQw",
+    "ingredients": [
+        "4 pounds chicken wings",
+        "2 tablespoons baking powder",
+        "1 teaspoon fine grain sea salt",
+        "1 teaspoon ground ginger",
+        "1/2 teaspoon ground black pepper freshly",
+        "1/3 cup soy sauce",
+        "1/3 cup mirin",
+        "2 tablespoons water",
+        "2 tablespoons dark brown sugar packed",
+        "2 teaspoons garlic grated fresh",
+        "2 teaspoons fresh ginger grated",
+        "1 1/2 teaspoons rice vinegar",
+        "toasted sesame seeds",
+        "ground black pepper Freshly",
+        "7 spice or red chili pepper flakes"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "5 servings",
+    "tags": "High Calcium, Asian, Appetizers, Baking, Baked Chicken, Oven, High Potassium, High Protein, High Iron, Low Carb, Japanese, Wings"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Tofu-Frittata-with-Teriyaki-Sauce-1202748",
+    "recipeName": "Tofu Frittata with Teriyaki Sauce",
+    "recipePhoto": "https://lh3.googleusercontent.com/ydR7clKudJWDuvk5bskq38qTdaayd4DkZoDgA5IR88a2yl9ZMNji8xJh98Pc7wrjXoLahgPBYP4tCwpLLITTIw",
+    "ingredients": [
+        "dried shitake mushrooms sliced, about 2-3",
+        "olive oil",
+        "shredded carrots",
+        "green onions chopped",
+        "firm tofu",
+        "eggs",
+        "low sodium soy sauce",
+        "low sodium soy sauce",
+        "mirin",
+        "sugar",
+        "cornstarch or potato starch",
+        "cold water",
+        "Sriracha"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "5 servings",
+    "tags": "Oven, Baking, Frittata, Asian, Broiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Cauliflower-Karaage-_Non-Fried-Japanese-_Fried-Chicken__-2127665",
+    "recipeName": "Cauliflower Karaage (Non-Fried Japanese \"Fried Chicken\")",
+    "recipePhoto": "https://lh3.googleusercontent.com/fZu1T7xue1mAkOIstpImVmJjvAJOCnC1ID5l5f4t7yRYkyYJTkNyXPRxlJiXl34J0Kga5ixB6MYlFYPTJS8iXWI",
+    "ingredients": [
+        "2 cups cauliflower",
+        "1 marinade",
+        "2 tablespoons soy sauce",
+        "1 tablespoon mirin Japanese sweet cooking rice wine",
+        "1 tablespoon sake",
+        "1 teaspoon water",
+        "1 clove garlic grated",
+        "1 teaspoon ginger grated",
+        "flour",
+        "2 tablespoons gluten free flour",
+        "2 tablespoons potato starch katakuriko",
+        "2 marinade",
+        "1 marinade",
+        "2 tablespoons yamaimo grated",
+        "2 tablespoons gluten free flour",
+        "2 tablespoons potato starch katakuriko"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "2 servings",
+    "tags": "Baking, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Eggplant-with-Cucumber-_-Radish-Salad-1545718",
+    "recipeName": "Miso Eggplant with Cucumber & Radish Salad",
+    "recipePhoto": "https://lh3.googleusercontent.com/IMaCtmFZr6EqYRwLLx8PG2SdXi-wY19RV8sikpQT2IR13brKPHuYxz_I8YQ58utJInCCa8rQHvHhgm_yUpPA",
+    "ingredients": [
+        "2 eggplants small to medium",
+        "1 teaspoon olive oil",
+        "2 tablespoons yellow miso or white",
+        "1 tablespoon mirin",
+        "1 tablespoon honey",
+        "1 teaspoon sesame toasted",
+        "1 teaspoon rice wine vinegar",
+        "rice to serve.",
+        "cucumber",
+        "salad",
+        "1 tablespoon black sesame seeds",
+        "1 tablespoon rice wine vinegar",
+        "1 teaspoon honey",
+        "1 tablespoon soy sauce",
+        "1 teaspoon ginger freshly grated",
+        "2 teaspoons toasted sesame oil",
+        "2 cucumbers",
+        "8 radish",
+        "2 spring onions"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "3 servings",
+    "tags": "Oven, High Vitamin C, Asian, Baking, Low Saturated Fat, High Potassium, Low Calorie, Low Fat, High Fiber, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Keta-Salmon-Sushi-Stacks-2250444",
+    "recipeName": "Keta Salmon Sushi Stacks",
+    "recipePhoto": "https://lh3.googleusercontent.com/m8qceCO5ABQbeWvbRRbsnezFXOdbO7WS-kqGnIrY_oe0F9yuUOtOvj042816RZyF3nWkuMpzWgq2RF6HacQNPQ",
+    "ingredients": [
+        "5/8 pound salmon fillet Keta, Chum, skin and pin bones removed",
+        "2 tablespoons mirin 2 tbsp",
+        "1 tablespoon sake 1 tbsp",
+        "2 tablespoons shoyu soy sauce, 2 tbsp",
+        "1 tablespoon honey 1 tbsp",
+        "3/4 pound kabocha squash cooked, ~1 and 1/3 cups",
+        "shiro miso 70 g white, ~1/4 cup",
+        "4 tablespoons rice vinegar 1/4 cup",
+        "4 tablespoons sesame oil 1/4 cup",
+        "2/3 tablespoon mirin 2 tsp",
+        "1 15/16 cups cucumber thinly sliced into rounds",
+        "1 tablespoon rice vinegar 1 tbsp",
+        "1 tablespoon shoyu soy sauce, 1 tbsp",
+        "1/2 tablespoon mirin 1.5 tsp",
+        "1/2 tablespoon sesame oil 1.5 tsp",
+        "2 cups short grain rice cooked, 2 cups",
+        "1 teaspoon mirin 1 tsp",
+        "2 tablespoons rice vinegar 2 tbsp",
+        "1/4 cup squash and miso mixture from above",
+        "2 tablespoons Japanese Mayo 2 tbsp",
+        "1 tablespoon rice vinegar 1 tbsp",
+        "squash seeds roasted",
+        "pea sprouts",
+        "3 3/4 tablespoons ikura salmon roe",
+        "shichimi togarashi optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Baking, Asian, Main Dishes, Boiling, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Eggplant-and-Kabocha-Miso-Gratin-2327987",
+    "recipeName": "Eggplant and Kabocha Miso Gratin",
+    "recipePhoto": "https://lh3.googleusercontent.com/Ebdo-gGOWsETxBitYtUVaqPfC7qX2GDswzzjVQs_Ct2DNwsGpvYBBsUd2bVD80jfgQW4DdzFHplQShQ_3HbY",
+    "ingredients": [
+        "2 eggplant small",
+        "1 pound kabocha squash alternatively you can use acorn squash",
+        "1 tablespoon vegetable oil",
+        "2 tablespoons miso paste any type is good",
+        "2 tablespoons sake",
+        "2 tablespoons soy sauce",
+        "1 tablespoon mirin",
+        "2 tablespoons heavy cream",
+        "1 tablespoon sugar",
+        "1 egg yolk",
+        "1/2 cup shredded mozzarella",
+        "Italian parsley shredded, optional"
+    ],
+    "ratings": 2.0,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Gratin, Japanese, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Teriyaki-Salmon-1703594",
+    "recipeName": "Teriyaki Salmon",
+    "recipePhoto": "https://lh3.googleusercontent.com/7j2aI5A96NXqGqAK3PdTCbrp14lfhAqUUV6nTmScHJN9oGpVCn0qYnjqSd28HiyoCZqMIiSnMzUVfgHBNg8eQQ",
+    "ingredients": [
+        "1/3 cup Japanese soy sauce",
+        "1/3 cup mirin",
+        "1/3 cup sake",
+        "2 tablespoons caster sugar depending on how sweet you want your sauce",
+        "200 grams salmon per person",
+        "1 tablespoon butter",
+        "vegetables",
+        "snow peas",
+        "bean",
+        "carrot",
+        "capsicum",
+        "onion",
+        "steamed rice or soba noodles to serve",
+        "spring onion",
+        "sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Frying, Main Dishes, Japanese, Oven, Grilling, Boiling, Baking, Marinating"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Nettle-Soup-1602004",
+    "recipeName": "Japanese Nettle Soup",
+    "recipePhoto": "https://lh3.googleusercontent.com/1zvGhjBai7oko8wqRgsg-cA8s_MO9eOET-xrjJB-dQon1Pp-qddHaFuTTTo3OXgO6yBDpchdYmXkT_TtrIsa7g",
+    "ingredients": [
+        "1 1/8 cups nettles stinging",
+        "3 dried shiitake mushrooms small, about 15 grams",
+        "2/3 pound small yellow potatoes diced",
+        "1 onion medium, chopped",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon mirin",
+        "3 kombu x5 inch piece",
+        "3 3/16 cups chinese cabbage ~1/4 head",
+        "3 tablespoons white miso",
+        "2 teaspoons tamari substitute soy sauce",
+        "2 teaspoons rice vinegar",
+        "1/2 cup white rice short grain",
+        "cherry blossoms to garnish, optional",
+        "mizuna to garnish, optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "8 servings",
+    "tags": "Baking, Oven, Asian, Soups, Boiling, Blending, Browning, Roasting, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Salmon-en-Papillote-_-Shiitake-Mushrooms-1994126",
+    "recipeName": "Miso Salmon en Papillote + Shiitake Mushrooms",
+    "recipePhoto": "https://lh3.googleusercontent.com/sXXGbtDQjCZte6vf_3iVVMiFM1aUbtBaeCPOw0heoVryyBZ-t0RZwKCWgM81NaL9U0xgQiGtginGr6lMzQuo2A",
+    "ingredients": [
+        "4 ounces salmon pieces of, with skin removed",
+        "6 shiitake mushrooms cut off stems; slice caps into \u00bc inch strips",
+        "2 cups fresh spinach leaves",
+        "2 baby bok choy cut off the base and separate the leaves",
+        "1 cup water chestnuts chopped",
+        "sauce Miso",
+        "1/2 cup water",
+        "2 tablespoons brown sugar",
+        "1 tablespoon honey",
+        "1/2 cup soy sauce",
+        "1/4 cup mirin",
+        "1 tablespoon miso paste",
+        "1 tablespoon sesame oil",
+        "2 teaspoons chopped garlic",
+        "1 lemon",
+        "1/4 cup cold water and whisk in 2 Tablespoons cornstarch",
+        "mayo Miso",
+        "3 tablespoons mayo",
+        "1 tablespoon miso paste",
+        "1/2 cup scallions chopped, for garnish"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT48M",
+    "serve": "4 servings",
+    "tags": "Broiling, High Vitamin C, Asian, Main Dishes, Baking, Boiling, Marinating, High Vitamin D, Source of Omega-3s, Low Saturated Fat, High Carb, High Potassium, High Protein, High Iron, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Eggplant-and-Kabocha-Miso-Gratin-1695100",
+    "recipeName": "Eggplant and Kabocha Miso Gratin",
+    "recipePhoto": "https://lh3.googleusercontent.com/TTPbQbyOb-f6ThpUPIwES91wta5HkPMhiEUvMDHW0XxgNk2NPKfXcuLvs4SxWuGKddijpLsuBCZM59MX-b6k",
+    "ingredients": [
+        "2 eggplants small, Canadian or British eggplant",
+        "1 kabocha squash small, about \u00bd lb, alternatively you can use acorn squash",
+        "1 tablespoon vegetable oil",
+        "2 tablespoons miso paste red, white or awase, white miso paste will taste sweeter",
+        "2 tablespoons sake",
+        "2 tablespoons soy sauce",
+        "1 tablespoon mirin",
+        "2 tablespoons heavy cream",
+        "1 tablespoon sugar",
+        "1 egg yolk",
+        "1/2 cup shredded mozzarella",
+        "Italian parsley shredded, optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "2 servings",
+    "tags": "Oven, Gratin, Japanese, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Salmon-Allrecipes",
+    "recipeName": "Miso Salmon",
+    "recipePhoto": "https://lh3.ggpht.com/A8Nao1ZL0P6ZfJH-ujpxuP7G6hwxJKQxct1YXXKJrzQt7lhv4rTcSwO-GxIC714664GKdJDmpK7rIfSEsAD7",
+    "ingredients": [
+        "3 pounds salmon fillets skin removed",
+        "1 cup miso paste",
+        "1/4 cup sake",
+        "1/2 cup brown sugar",
+        "2 tablespoons sesame seeds",
+        "1 teaspoon sesame oil",
+        "1/4 cup water",
+        "1/2 cup salad dressing prepared soy-ginger",
+        "3 tablespoons seasoned rice vinegar"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "6 servings",
+    "tags": "Oven, Baking, Asian, Main Dishes, Broiling, Browning, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Mellow-White-Miso-Soup-with-Cod_-Baby-Bok-Choy_-Sriracha-and-Lime-2258246",
+    "recipeName": "Mellow White Miso Soup with Cod, Baby Bok Choy, Sriracha and Lime",
+    "recipePhoto": "https://lh3.googleusercontent.com/IbIPmtZNFBlmFUir-b9ZR-_d_HoPLdkbRpyZywb5WynLrgMqvbu5P0pc1TvVQBhe-MtGsAcDlPkXBbV_0o0obg",
+    "ingredients": [
+        "3 tablespoons mirin",
+        "3 tablespoons sake",
+        "1/2 cup miso paste",
+        "1/3 cup sugar",
+        "1 ounce skinless cod fillets about 1 1/2 inches thick",
+        "vegetable oil",
+        "4 tablespoons miso paste to taste",
+        "4 ounces somen noodles",
+        "2 green onions tops removed and thinly sliced",
+        "1 handful cilantro",
+        "baby bok choy trimmed and halved",
+        "lime juice freshly squeezed, to taste",
+        "Thai chilies sliced, to taste",
+        "sriracha to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "6 servings",
+    "tags": "Soups, Baking, Asian, Miso Soup, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Cold-Ramen-Noodles-With-Grilled-Unagi-1796586",
+    "recipeName": "Cold Ramen Noodles With Grilled Unagi",
+    "recipePhoto": "https://lh3.googleusercontent.com/rrEkmwTkSNJ68aEayMqWzrov01bFE_NDYoe8ZD98ZV3TVTQw_rv9AmJX3fUHGPPRJmeI0u_IXfZHdjheU18x5Hk",
+    "ingredients": [
+        "1/2 cup soy sauce",
+        "1/4 cup mirin",
+        "1/4 cup granulated sugar",
+        "2 packets ramen noodles cold",
+        "1 English cucumber 1.5 inches in diameter",
+        "8 ounces unagi",
+        "2 tablespoons pickled ginger",
+        "nori salted, cut into strips",
+        "1/4 cup green onions chopped",
+        "2 eggs poached"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "2 servings",
+    "tags": "Boiling, Quick, Asian, Broiling, Baking, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Teriyaki-Salmon-2326485",
+    "recipeName": "Teriyaki Salmon",
+    "recipePhoto": "https://lh3.googleusercontent.com/TAdEEpVVYaKdrKtgtj8KUph829nUPe-tPunlgJUCydTfgXHFt2UTFVV_J6ceKTVatFrBQF5lOkTHu95yrExvlw",
+    "ingredients": [
+        "1/3 cup Japanese soy sauce",
+        "1/3 cup mirin",
+        "1/3 cup sake",
+        "2 tablespoons caster sugar depending on how sweet you want your sauce",
+        "200 grams salmon per person",
+        "1 tablespoon butter",
+        "vegetables",
+        "snow peas",
+        "bean",
+        "carrot",
+        "capsicum",
+        "onion",
+        "steamed rice or soba noodles to serve",
+        "spring onion",
+        "sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Baking, Japanese, Main Dishes, Boiling, Grilling, Marinating, Frying"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Matt-Moran_s-miso-ocean-trout_-noodles-and-Asian-leaves-2481943",
+    "recipeName": "Matt Moran's miso ocean trout, noodles and Asian leaves",
+    "recipePhoto": "https://lh3.googleusercontent.com/1LNf_pyrDFdkothqTxTaoqYQEriasVm3P05vttgNonPd7dFO_5uyU5m_rjsGEcfAlCCiS-TBeBItuAq5cwB0Vw",
+    "ingredients": [
+        "2 tablespoons white miso",
+        "2 tablespoons mirin",
+        "1 tablespoon sake",
+        "1 tablespoon honey",
+        "1 tablespoon ginger finely grated",
+        "1 3/4 pounds trout fillet ocean, or salmon, skin on, deboned",
+        "1/2 lemon thinly sliced, plus juice of \u00bd lemon",
+        "2 tablespoons macadamia oil",
+        "1/2 tablespoon soy sauce",
+        "1/4 red cabbage thinly shredded",
+        "1/2 tablespoon rice vinegar",
+        "7 ounces rice noodles",
+        "3 spring onions finely sliced",
+        "1 bunch shiso leaves or basil leaves",
+        "white sesame seeds Black and, to serve"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Asian, Baking, Main Dishes, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sushi-Pizza-with-Miso-Ginger-Dressing-1528126",
+    "recipeName": "Sushi Pizza with Miso Ginger Dressing",
+    "recipePhoto": "https://lh3.googleusercontent.com/MqOGEmDwtVwUHLJvEDWs55OE7j4s9324KDtNSK917BhCwGjQYSv8KiPh4oJDzyVY8DbNypEhdGLiHwEpc645Vg",
+    "ingredients": [
+        "3 ounces shiitake mushrooms stemmed, caps thinly sliced",
+        "2 tablespoons soy sauce I used gluten-free tamari",
+        "3 cups sushi rice cooked brown",
+        "2 teaspoons rice vinegar",
+        "1 teaspoon salt",
+        "2 teaspoons honey",
+        "2 teaspoons oil",
+        "1 teaspoon sesame oil",
+        "2 seaweed sheets, like nori",
+        "2 teaspoons sesame seeds",
+        "1 avocado ripe",
+        "1 medium carrot grated",
+        "1/4 cup raw cashews soaked at least 4 hours",
+        "1 tablespoon miso",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon ginger root peeled and grated",
+        "2 tablespoons tamari",
+        "2 tablespoons honey",
+        "1/4 cup water",
+        "1/2 teaspoon wasabi powder",
+        "cilantro for garnish, optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Oven, Source of Omega-3s, Asian, Blending, Pizza, Main Dishes, Low Saturated Fat, High Carb, High Protein, High Iron, High Fiber, Japanese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Nettle-Soup-2558986",
+    "recipeName": "Japanese Nettle Soup",
+    "recipePhoto": "https://lh3.googleusercontent.com/obfH08TAqDwFrRNoqMvmBFs5OtTnEUVyzHJVuf2RLrSNz-VyooODx1WB2EaWWwcZD2Q_AodDPh_bSh93hnEzIw",
+    "ingredients": [
+        "1 1/8 cups nettles stinging",
+        "3 dried shiitake mushrooms small, about 15 grams",
+        "2/3 pound small yellow potatoes diced",
+        "1 medium onion chopped",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon mirin",
+        "3 kombu x5 inch piece",
+        "3 3/16 cups chinese cabbage ~1/4 head",
+        "3 tablespoons white miso",
+        "2 teaspoons tamari substitute soy sauce",
+        "2 teaspoons rice vinegar",
+        "1/2 cup white rice short grain",
+        "cherry blossoms to garnish, optional",
+        "mizuna to garnish, optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "8 servings",
+    "tags": "Soups, Browning, Asian, Baking, Roasting, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Baked-Cod-With-Daikon-Noodles-And-Asian-Greens-2153981",
+    "recipeName": "Miso Baked Cod With Daikon Noodles And Asian Greens",
+    "recipePhoto": "https://lh3.googleusercontent.com/s6np3G3Xf8zxLSHfrDQpmHDqMrcn3emZrZZ0JTyO9SWcihL7mIVhg6Qk27uYVvSSfThgMY-1br6GPMs8ASZr",
+    "ingredients": [
+        "2 cod loins chunky, about 200 g, 7 oz each",
+        "sunflower oil for oiling",
+        "2 1/8 cups daikon piece, peeled, ends trimmed and halved widthways",
+        "3 tablespoons black sesame seeds",
+        "1/2 teaspoon caster sugar",
+        "1 tablespoon soy sauce seasoned",
+        "1 tablespoon dashi liquid",
+        "1 teaspoon yuzu juice or lemon juice",
+        "2/3 pound choi sum and pak choi, stems trimmed and leaves cut into bite-sized pieces",
+        "2 tablespoons white miso paste",
+        "3 tablespoons sake",
+        "1 garlic clove crushed",
+        "1 inch fresh root ginger piece, peeled and finely grated",
+        "1 tablespoon caster sugar",
+        "2 teaspoons mirin"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "2 servings",
+    "tags": "Browning, Asian, Main Dishes, Steaming, Baking, Boiling, Grilling, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Glazed-Black-Cod-1610222",
+    "recipeName": "Miso-Glazed Black Cod",
+    "recipePhoto": "https://lh3.googleusercontent.com/VomtqppZ8HWx27x1snHpFyMYzEgmxTx_yPMeKjbYgXdsVNdLmz1seMI9amuujlCIVUAS9VOOL7VwPsKijgHg",
+    "ingredients": [
+        "3 tablespoons white miso paste",
+        "2 tablespoons water",
+        "2 tablespoons mirin Japanese sweet wine",
+        "2 tablespoons sake",
+        "1 tablespoon brown sugar",
+        "2 black cod fillets 7 ounce"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "2 servings",
+    "tags": "Oven, Baking, Asian, Main Dishes, Broiling, Marinating, Browning, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso_marinated-Salmon-With-Cucumber_daikon-Relish-Epicurious",
+    "recipeName": "Miso-Marinated Salmon with Cucumber-Daikon Relish",
+    "recipePhoto": "https://lh4.ggpht.com/t_w2B7OHbenuVV30-NYp0AoTrmZI5AdtrosxH7FcZEY0TlqV-lwt1IKObP2jdF1K076fRP1FazHFGIVFRTGdw1k",
+    "ingredients": [
+        "1/4 cup white miso fermented soybean paste*",
+        "1/4 cup mirin sweet Japanese rice wine*",
+        "2 tablespoons rice vinegar unseasoned",
+        "2 tablespoons green onions minced",
+        "1 1/2 tablespoons fresh ginger minced",
+        "2 teaspoons sesame oil oriental",
+        "36 ounces salmon fillets Alaskan, with skin",
+        "vegetable oil spray Nonstick",
+        "relish Cucumber-Daikon",
+        "1 1/2 teaspoons sesame seeds toasted",
+        "1/2 cup radish sprouts",
+        "1/2 nori 8x8-inch sheet dried, * cut with scissors into matchstick-size strips"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "6 servings",
+    "tags": "Baking, Asian, Main Dishes, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Green-Tea-Petits-Fours-Allrecipes",
+    "recipeName": "Japanese Green Tea Petits Fours",
+    "recipePhoto": "https://lh3.ggpht.com/Z5PiGx-4BP9A2V4aMW7hIvP0R0RSt-8V2kL9zAZo8DAQRrANWhDz_db1hVEntC_SyWVV51DmKoptKOtHpug0",
+    "ingredients": [
+        "2 eggs",
+        "3 egg yolks",
+        "6 tablespoons white sugar",
+        "1/3 cup cake flour",
+        "2 tablespoons cornstarch",
+        "1 tablespoon green tea powdered",
+        "2 egg whites",
+        "1/8 teaspoon cream of tartar",
+        "2 tablespoons white sugar",
+        "1 cup heavy cream",
+        "2 teaspoons green tea powdered",
+        "4 teaspoons superfine sugar",
+        "6 tablespoons almond paste",
+        "1 teaspoon green tea powdered",
+        "confectioners sugar for dusting"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "12 servings",
+    "tags": "Oven, Desserts, Asian, Baking, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Cod-with-Asian-Zoodles-1256148",
+    "recipeName": "Miso Cod with Asian Zoodles",
+    "recipePhoto": "https://lh3.googleusercontent.com/p3nQtauEBzCBme_jMpfRqZ0CJS4OX8cjkLkFN1-OoEIDrzLgRr9EOwQrM9hOCJBxN1WqCR0dn8s9f504wctZ",
+    "ingredients": [
+        "1/4 cup mirin",
+        "1/4 cup sake",
+        "1/4 cup white miso paste",
+        "3 tablespoons sugar",
+        "800 grams black cod wild Alaskan",
+        "spring onions to garnish",
+        "2 zucchini large, shredded/spiralized",
+        "1 carrot medium, shredded/spiralized",
+        "2 tablespoons rice vinegar",
+        "1 garlic grated",
+        "1 tablespoon ginger grated",
+        "1 tablespoon soy",
+        "1 tablespoon sesame oil",
+        "1 tablespoon water",
+        "3 tablespoons extra virgin olive oil /olive oil",
+        "1 tablespoon sugar sugar or honey",
+        "black pepper to taste",
+        "seaweed",
+        "toasted sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "3 servings",
+    "tags": "Baking, Asian, Main Dishes, Oven, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Deconstructed-Sushi-Roll-2241629",
+    "recipeName": "Deconstructed Sushi Roll",
+    "recipePhoto": "https://lh3.googleusercontent.com/YCxWsdiS4iMYIw3mYzT6lJTErPJlJlcLmUYR-uBY0XtNpU8bG1fmEam-e5KkAy-KZK-ezcVztHBxWLbDuQ-O",
+    "ingredients": [
+        "1/2 cup long grain rice",
+        "black sesame seeds to sprinkle",
+        "salt to taste",
+        "2 turnips baby blush, thinly sliced on mandolin",
+        "1/2 cup white vinegar",
+        "1 tablespoon sugar",
+        "1 teaspoon salt",
+        "1 avocado large, ripe",
+        "1 lime",
+        "20 grams wasabi paste",
+        "1 pinch salt",
+        "3 tablespoons capers salted",
+        "3 stems leaves salted caper, stalks discarded",
+        "1/4 cup seaweed dried wakame",
+        "1 lime",
+        "4 tablespoons soy sauce",
+        "2 tablespoons mirin",
+        "1 1/2 teaspoons caster sugar",
+        "1 centimeter young ginger piece, peeled and finely grated",
+        "400 grams kingfish bloodline and skin removed",
+        "1 turnip baby blush, cut into thin matchsticks"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "Asian, Blending, Japanese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Vegetarian-Katsudon-2081096",
+    "recipeName": "Vegetarian Katsudon",
+    "recipePhoto": "https://lh3.googleusercontent.com/ccVLEYZoYgK8AXNjniDLKmZa1UHq6a_GBqvzD5fs_pgvHdUutGcvqh7SnL_vuGHPgjErGqF_slf8X-BKKnR5vFU",
+    "ingredients": [
+        "4 sticky rice servings of",
+        "400 grams firm tofu",
+        "1/2 cup plain flour",
+        "1/2 cup water",
+        "2 cups panko Panko are Japanese breadcrumbs. They are different to English breadcrumbs, but I couldn\u2019t get any here so I used English breadcrumbs, which worked fine.",
+        "spring onions to garnish",
+        "6 tablespoons soy sauce",
+        "4 tablespoons mirin",
+        "2 tablespoons sugar",
+        "3 tablespoons sake cooking, I actually left this out as I don\u2019t have any",
+        "1 onion",
+        "200 grams silken tofu",
+        "1 tablespoon cornflour or \u2018corn starch\u2019, if you\u2019re American! mixed with the same amount of water"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Browning, Asian, Main Dishes, Baking, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Curry-Beef-Baked-Rice-1088274",
+    "recipeName": "Japanese Curry Beef Baked Rice",
+    "recipePhoto": "https://lh3.googleusercontent.com/-Dbb5nYGF_BGOt9f563vNLVnOPMKDQL5aW9QW8cRX1FGfox4P5WADtnPclSxS66bRMHpwWzBaGg1nr4YEP6Q",
+    "ingredients": [
+        "450 grams beef shabu, / thinly sliced beef",
+        "4 cooked white rice servings of",
+        "1 cup mozzarella cheese",
+        "2 russet potatoes cubed",
+        "2 carrot medium, cut into 1/2 inch rounds",
+        "1/2 yellow onion diced",
+        "4 eggs room temp",
+        "curry roux Japanese",
+        "water as stated on package",
+        "salt",
+        "pepper",
+        "spring onions Chopped, for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Baking, Main Dishes, Japanese, Oven, Sauteeing, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Cod-with-Asian-Zoodles-1048367",
+    "recipeName": "Miso Cod with Asian Zoodles",
+    "recipePhoto": "https://lh3.googleusercontent.com/RKG3TqmRQ26cTMVmLe7cQzViHFWtCAQkOhyE4wuqLRzAlzAWD4eCh9Osz84IYIHfrWmIcIffjDIAi_VWLI7E",
+    "ingredients": [
+        "1/4 cup mirin",
+        "1/4 cup sake",
+        "1/4 cup white miso paste",
+        "3 tablespoons sugar",
+        "800 grams black cod wild Alaskan",
+        "spring onions to garnish",
+        "2 zucchini large, shredded/spiralized",
+        "1 carrot medium, shredded/spiralized",
+        "2 tablespoons rice vinegar",
+        "1 garlic grated",
+        "1 tablespoon ginger grated",
+        "1 tablespoon soy",
+        "1 tablespoon sesame oil",
+        "1 tablespoon water",
+        "3 tablespoons extra virgin olive oil /olive oil",
+        "1 tablespoon sugar sugar or honey",
+        "black pepper to taste",
+        "seaweed",
+        "toasted sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "3 servings",
+    "tags": "Baking, Asian, Main Dishes, Oven, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Salmon-Teriyaki-578996",
+    "recipeName": "Salmon Teriyaki",
+    "recipePhoto": "https://lh3.ggpht.com/fwO3MybeMbrBYwuKqmJLvU_h3LUvCwmqUQLhR5fbHghecWHlR4i9kAHSPnNgwDsPjYqQ3U-D_QG5XNPnBukgKQ",
+    "ingredients": [
+        "24 ounces salmon fillets",
+        "1/2 cup teriyaki sauce see below",
+        "1/2 tablespoon cornstarch mixed into 1 tablespoon water",
+        "1/3 cup soy sauce",
+        "1/3 cup mirin",
+        "1/3 cup sake",
+        "2 tablespoons sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Teriyaki, Broiling, High Protein, Japanese, Main Dishes, Oven, Baking, Boiling, Marinating, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/ROASTED-SWEET-POTATO-SUSHI-1630449",
+    "recipeName": "ROASTED SWEET POTATO SUSHI",
+    "recipePhoto": "https://lh3.googleusercontent.com/7qaYPy-J9nB8joiYCQYo1S0rJ45hqAzlp8m-QjCp4KzIlJ1LwPPN0-e_7aCLshqRONnS60LzEGBBNWCifbL-Yw",
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 tablespoon maple syrup",
+        "1 teaspoon sesame oil",
+        "1 pound sweet potato",
+        "1 cup sushi rice",
+        "1 1/3 cups water",
+        "1 1/2 tablespoons rice vinegar",
+        "3/4 tablespoon salt",
+        "3 nori sheets",
+        "2 scallions",
+        "toasted sesame seeds",
+        "pickled ginger",
+        "soy sauce"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "3 servings",
+    "tags": "Oven, Baking, Side Dishes, Asian, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Ramen-Bacon-Yakitori-Miso-Glaze-Ramen-Sesame-Crunch-2255323",
+    "recipeName": "Miso Ramen Bacon Yakitori Miso Glaze Ramen-Sesame Crunch",
+    "recipePhoto": "https://lh3.googleusercontent.com/kauhlUv62hiZ1bjHhV7J-WEoEBv6Y1_uTp4I4-3GMedLwIlu08n0Z43lWD0N9dCyOPcv0QGOCHu5WzQcxbWZ4w",
+    "ingredients": [
+        "5 1/4 ounces shrimp diced, 1/4 inch max.",
+        "2 1/3 tablespoons bacon fat smoked, minced",
+        "7/8 ounce whole egg beaten",
+        "7/8 tablespoon mirin",
+        "7/8 tablespoon shiro miso",
+        "1 1/3 teaspoons oyster sauce",
+        "1 1/8 teaspoons cornstarch",
+        "3/16 milliliter black pepper",
+        "3 1/2 ounces ramen noodles JSL cooked, cut into 1-2 inch",
+        "1 3/4 ounces bacon rendered small diced*",
+        "1 1/8 tablespoons green onions shaved",
+        "6 1/2 tablespoons shiro miso light color - soy/rice based",
+        "1 2/3 tablespoons mirin",
+        "3 1/8 tablespoons granulated sugar",
+        "7/8 ounce ramen noodles deep-fried JSL",
+        "1 2/3 tablespoons sesame seeds, toasted unhulled",
+        "1 tablespoon shallots fried",
+        "1 1/8 tablespoons garlic fried",
+        "5/8 tablespoon Sriracha sauce flakes",
+        "4 1/8 tablespoons shiso dried red",
+        "2/3 tablespoon katsuobushi shaved/thin strips",
+        "rendered bacon fat As needed",
+        "1 pork skewers",
+        "5/8 teaspoon glaze miso",
+        "5 shiso leaves ribbons fresh, shaved",
+        "3 grams ramen Sesame-, Crunch"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "Baking, Asian, Appetizers, Grilling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Teriyaki-Glazed-Wings-Martha-Stewart-239222",
+    "recipeName": "Teriyaki-Glazed Wings",
+    "recipePhoto": "https://lh5.ggpht.com/zpMXhwirmyg3iPZNN8--U17wNyngYMhw-amWprG1lEwTg6Vi7KEf8jNXnCsPx9Tav-XndYvQA43nA1pYgVh8I3M",
+    "ingredients": [
+        "2/3 cup low sodium soy sauce",
+        "1 1/3 cups sake or dry white wine",
+        "1/4 cup mirin",
+        "1 piece fresh ginger minced, 2 tablespoons",
+        "2 cloves garlic minced, 2 tablespoons",
+        "2 tablespoons granulated sugar",
+        "2 pounds chicken wings whole",
+        "1 tablespoon vegetable oil",
+        "1/2 teaspoon coarse salt",
+        "2 carrots peeled and cut into sticks",
+        "1/2 daikon radish peeled and sliced",
+        "1/2 English cucumber cut into spears"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "4 servings",
+    "tags": "Oven, Source of Omega-3s, Glazing, Asian, Appetizers, Wings, High Potassium, High Protein, High Iron, Baking, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Marinated-Salmon-with-Cucumber-Daikon-Relish-1448916",
+    "recipeName": "Miso-Marinated Salmon with Cucumber-Daikon Relish",
+    "recipePhoto": "https://lh3.googleusercontent.com/z5zlSGM_wezkusiTBp1Bd-S_68kOQGPRKThUdFuKoreOcEj-ldIzU-6UI3ENOPGqvVq9DShyvZu0YtFooAodUQ",
+    "ingredients": [
+        "1/4 cup white miso fermented soybean paste*",
+        "1/4 cup mirin sweet Japanese rice wine*",
+        "2 tablespoons rice vinegar unseasoned",
+        "2 tablespoons green onions minced",
+        "1 1/2 tablespoons fresh ginger minced",
+        "2 teaspoons sesame oil oriental",
+        "36 ounces salmon fillets Alaskan, with skin",
+        "vegetable oil spray Nonstick",
+        "relish Cucumber-Daikon",
+        "1 1/2 teaspoons sesame seeds toasted",
+        "1/2 cup radish sprouts",
+        "1/2 nori 8x8-inch sheet dried, * cut with scissors into matchstick-size strips"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "6 servings",
+    "tags": "Baking, Asian, Main Dishes, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Cured-Black-Cod-with-Chilled-Cucumbers-recipe-_-Epicurious_com-2357309",
+    "recipeName": "Miso-Cured Black Cod with Chilled Cucumbers recipe | Epicurious.com",
+    "recipePhoto": "https://lh3.googleusercontent.com/QulCoPVM8BMpor6umAJeanMhfRWNIrpMDWX2Ihuy2WgyqP5LK1Bxr2vXIUFkyAMX0wU73O2l1gRtkNP5vAIRhQ",
+    "ingredients": [
+        "3/4 pound black cod fillet skin-on",
+        "kosher salt",
+        "3/4 cup white miso",
+        "3 tablespoons mirin",
+        "3 tablespoons sake",
+        "1 dried kombu 8x2\" piece",
+        "1 ounce katsuobushi shaved, dried bonito flakes; about 4 cups",
+        "2 tablespoons rice vinegar unseasoned",
+        "4 teaspoons sugar",
+        "4 persian cucumbers or Japanese",
+        "kosher salt",
+        "1 piece ginger peeled, cut into very thin matchsticks",
+        "katsuobushi Find, at Japanese markets or online."
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Browning, Asian, Broiling, Baking, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Quinoa-Sushi-Bowl-with-Baked-Tofu-761022",
+    "recipeName": "Quinoa Sushi Bowl with Baked Tofu",
+    "recipePhoto": "https://lh4.ggpht.com/1fldSGGjkc95M5KmihWDpiUFVnKD3dyFG01q0nVIzO1AdkhUnpN46IiLk_WfQxO1dtIRLT1RoRCn-G6WC_2UgA",
+    "ingredients": [
+        "15 ounces extra firm tofu block",
+        "3 tablespoons liquid aminos Bragg's, or low sodium soy sauce",
+        "1 teaspoon toasted sesame oil",
+        "1 teaspoon fresh ginger minced",
+        "1 clove garlic minced",
+        "1 cup quinoa uncooked",
+        "1 1/2 cups vegetable broth or water",
+        "1 1/2 cups frozen shelled edamame thawed and warmed",
+        "4 leaves napa cabbage thinly sliced",
+        "2 mangoes sliced",
+        "1 avocado sliced",
+        "sliced green onions",
+        "nori toasted and crumbled",
+        "sesame seeds",
+        "1 orange",
+        "6 tablespoons liquid aminos Bragg's, or low sodium soy sauce",
+        "3 tablespoons mirin",
+        "2 teaspoons toasted sesame oil",
+        "1 tablespoon fresh ginger minced",
+        "1 garlic clove small, minced"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Asian, Main Dishes, Boiling, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Mirin-Chicken-With-Sushi-Rice-1662206",
+    "recipeName": "Miso Mirin Chicken With Sushi Rice",
+    "recipePhoto": "https://lh3.googleusercontent.com/n5BkspZqWm8DEWTKGyit0ELyGHhspRNCKhNtBck-nthiTd4Nu-hjxuXwnveTRdRSGtffipXsA63CYsfWguWiQrU",
+    "ingredients": [
+        "16 ounces chicken breasts boneless skinless",
+        "salt",
+        "cracked pepper",
+        "1 garlic",
+        "1 tablespoon soy sauce",
+        "1 tablespoon ginger grated",
+        "1 teaspoon sesame oil",
+        "1 teaspoon vegetable oil",
+        "sushi rice",
+        "2 cups sushi rice rinsed several times, to decrease starch",
+        "2 cups cold water",
+        "1 tablespoon mirin",
+        "sugar",
+        "1 tablespoon vegetable oil",
+        "1 onion sliced",
+        "1 cup chicken stock",
+        "2 tablespoons mirin rice wine vinegar<",
+        "2 tablespoons soy sauce good quality",
+        "1 tablespoon barley malt optional",
+        "1 tablespoon miso paste",
+        "2 carrot julienne cut",
+        "3 green onion sliced"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Sauteeing, Oven, Source of Omega-3s, Asian, Main Dishes, Baking, Boiling, Grilling, Low Sugar, Low Saturated Fat, High Carb, High Potassium, High Protein, High Iron, High Fiber, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Pork-Cutlet-Donburi-1668153",
+    "recipeName": "Pork Cutlet Donburi",
+    "recipePhoto": "https://lh3.googleusercontent.com/1RO_e9t3XZh_IZYH5-SdnfXZdUMyv_VWsUM7PP2DM4eFNUwmkklcwAOXL-Nt2kh5jOJCL1D1QmeeUka06WzwnQ",
+    "ingredients": [
+        "5 cups japanese rice",
+        "5 ounces pork cutlets boneless",
+        "2 ounces soy sauce",
+        "1 teaspoon dashi Japanese bonito soup stock",
+        "2 tablespoons dark brown sugar",
+        "2 ounces mirin Japanese sweet cooking rice wine",
+        "2/3 cup water",
+        "2 cups all purpose flour",
+        "6 large eggs",
+        "1/2 yellow onion large",
+        "2 green onions",
+        "1 cup japanese bread crumbs panko",
+        "vegetable oil for frying"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "1 servings",
+    "tags": "Baking, Japanese, Main Dishes, Frying"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Nobu_s-Black-Cod-With-Miso-Recipezaar",
+    "recipeName": "Nobu's Black Cod with Miso",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "4 fish fillets",
+        "5/8 cup mirin",
+        "1 5/8 cups white miso",
+        "1 1/8 cups granulated sugar",
+        "sake",
+        "pickled ginger for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT20M",
+    "serve": "4 servings",
+    "tags": "Browning, Easy, Asian, Main Dishes, Oven, Drying, Baking, Boiling, Grilling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso_crusted-Salmon-Recipezaar",
+    "recipeName": "Miso-Crusted Salmon",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 garlic clove minced",
+        "2 tablespoons white miso",
+        "1 tablespoon tahini",
+        "2 teaspoons rice vinegar",
+        "1 teaspoon mirin or 1 teaspoon sweet sherry",
+        "1 pound salmon fillet"
+    ],
+    "ratings": null,
+    "cookTime": "PT15M",
+    "serve": "4 servings",
+    "tags": "Oven, Quick and Easy, Low Sodium, Japanese, Baking, Main Dishes, Quick, Easy, Low Sugar, Low Saturated Fat, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Roasted-Japanese-Sweet-Potatoes-With-Scallion-Butter-Food_com-93729",
+    "recipeName": "Roasted Japanese Sweet Potatoes With Scallion Butter",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "8 Japanese sweet potatoes small, 4 to 5 pounds total or 8 small garnet sweet potatoes, 4 to 5 pounds total",
+        "3/4 cup unsalted butter well softened",
+        "1 1/2 tablespoons miso preferably white",
+        "3 tablespoons scallions finely chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "8 servings",
+    "tags": "Baking, Easy, Thanksgiving, Side Dishes, Japanese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chicken-Teriyaki-_Tori-No-Teriyaki_-Food_com-104162",
+    "recipeName": "Chicken Teriyaki (Tori No Teriyaki)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "3 pounds chicken pieces",
+        "1 tablespoon gingerroot grated",
+        "1 garlic clove crushed",
+        "2/3 cup soy sauce",
+        "1 tablespoon sake",
+        "1/4 cup mirin",
+        "3 tablespoons sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Teriyaki, Frying, High Protein, Japanese, Main Dishes, Oven, Grilling, Browning, Drying, Baking, Marinating, High Iron, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Soy-Glazed-Sweet-Potato-Recipezaar",
+    "recipeName": "Japanese Soy Glazed Sweet Potato",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "2 tablespoons brown sugar",
+        "3 tablespoons low sodium soy sauce",
+        "2 tablespoons mirin sweet rice wine",
+        "1 tablespoon dark sesame oil",
+        "4 garlic cloves minced",
+        "3 sweet potatoes diced",
+        "1 tablespoon toasted sesame seeds",
+        "1 sheet toasted nori"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Baking, Side Dishes, Japanese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Sticky-Chicken-2184155",
+    "recipeName": "Japanese Sticky Chicken",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "1 tablespoon fresh ginger minced",
+        "1/4 cup mirin",
+        "1/4 cup honey",
+        "1/4 cup low sodium soy sauce",
+        "1 tablespoon rice vinegar",
+        "1 tablespoon sesame oil",
+        "1 teaspoon spice blend togarashi, optional",
+        "2 chicken breasts bone-in, skin-on",
+        "4 bone in, skin-on chicken legs",
+        "3 scallions chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT31M",
+    "serve": "5 servings",
+    "tags": "Low Sodium, Browning, Asian, Main Dishes, Low Saturated Fat, Low Carb, Low Calorie, Low Fat, Baking, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso_glazed-Kabocha-Squash-Recipezaar",
+    "recipeName": "Miso-Glazed Kabocha Squash",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "6 tablespoons white miso",
+        "3 inches fresh ginger peeled and very finely grated",
+        "1/4 cup sake or 1/4 cup fino sherry wine",
+        "3 tablespoons vegetable oil",
+        "2 tablespoons rice vinegar not seasoned",
+        "2 tablespoons soy sauce",
+        "2 tablespoons light brown sugar firmly packed",
+        "1/2 kabocha squash seeded and cut into 1/4-in . slices, about 1 1/2 lbs.",
+        "2 teaspoons toasted sesame oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "8 servings",
+    "tags": "Oven, Baking, Asian, Blending, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Cotton-Soft-Japanese-Cheesecake-Recipezaar",
+    "recipeName": "Cotton Soft Japanese Cheesecake",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "5 ounces granulated sugar extra finely",
+        "6 egg whites",
+        "6 egg yolks",
+        "1/4 teaspoon cream of tartar",
+        "2 ounces butter",
+        "9 ounces cream cheese",
+        "3 fluidounces milk fresh",
+        "1 tablespoon lemon juice",
+        "2 ounces cake flour or 2 ounces superfine flour",
+        "1 ounce cornstarch",
+        "1/4 teaspoon salt"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT1H45M",
+    "serve": "12 servings",
+    "tags": "Desserts, Cheesecake, Browning, Japanese, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Baked-Haddock-With-Miso-And-Shitake-Mushrooms-Recipezaar",
+    "recipeName": "Baked Haddock With Miso and Shiitake Mushrooms",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "2 fillets haddock or 2 other fish",
+        "1/2 cup celery root julienned, celeriac",
+        "1 teaspoon fresh ginger chopped",
+        "2 cups shiitake sliced",
+        "2 teaspoons miso brown",
+        "1/4 cup mirin rice wine",
+        "1/2 teaspoon salt",
+        "1 teaspoon five-spice powder",
+        "3/4 cup warm water"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "3 servings",
+    "tags": "Oven, Baking, Asian, Main Dishes, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Salmon-Teriyaki-Noodles-2413181",
+    "recipeName": "Salmon Teriyaki Noodles",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "12 ounces salmon cut into two pieces",
+        "salt",
+        "ground black pepper",
+        "6 ounces rice noodles",
+        "white sesame seeds Black and",
+        "1 tablespoon scallion chopped",
+        "3 tablespoons gluten free soy sauce San-J Tamari, or San-J Teriyaki Sauce",
+        "1/2 cup mirin",
+        "2 tablespoons sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT22M",
+    "serve": "2 servings",
+    "tags": "Baking, Asian, Quick, Main Dishes, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Soy-Glazed-Sweet-Potato-2611074",
+    "recipeName": "Japanese Soy Glazed Sweet Potato",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "2 tablespoons brown sugar",
+        "3 tablespoons low sodium soy sauce",
+        "2 tablespoons mirin sweet rice wine",
+        "1 tablespoon dark sesame oil",
+        "4 garlic cloves minced",
+        "3 sweet potatoes diced",
+        "1 tablespoon toasted sesame seeds",
+        "1 sheet toasted nori"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "4 servings",
+    "tags": "Baking, Side Dishes, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Chicken-Wings-_-Teriyaki-_-Recipezaar",
+    "recipeName": "Japanese Chicken Wings ( Teriyaki )",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "4 pounds chicken wings",
+        "1 egg beaten",
+        "1 cup flour",
+        "1 cup butter",
+        "wing sauce chicken",
+        "3 tablespoons soy sauce",
+        "1 cup sugar",
+        "1 teaspoon Accent Seasoning optional",
+        "3 tablespoons water",
+        "1/2 cup vinegar",
+        "1/2 teaspoon salt",
+        "wing sauce chicken, could be doubled"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Baking, Oven, Wings, Appetizers, Japanese, Browning, Frying"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Teriyaki-Garlic-Chicken-1573314",
+    "recipeName": "Teriyaki Garlic Chicken",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1 chicken thigh",
+        "4 stalks broccolini",
+        "1/4 yellow bell pepper",
+        "2 cloves garlic sliced",
+        "2 tablespoons soy sauce",
+        "1 tablespoon mirin",
+        "1 tablespoon sugar",
+        "1 tablespoon sake",
+        "1 tablespoon honey",
+        "2 tablespoons mayonnaise",
+        "1 1/3 ounces shredded cheese",
+        "1 slice green onions"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Oven, High Vitamin C, Browning, Japanese, Main Dishes, High Protein, Low Carb, Low Calorie, Baking, Marinating"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Tsukimi-Udon-_full-Moon-Udon_-Recipezaar",
+    "recipeName": "Tsukimi Udon (full Moon Udon)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "10 ounces noodles thin",
+        "boiling water",
+        "1 cup cold water",
+        "2 leeks",
+        "6 tablespoons soy sauce",
+        "2 tablespoons mirin",
+        "1/2 tablespoon sugar",
+        "salt to taste",
+        "3 1/2 cups chicken broth",
+        "4 eggs",
+        "pepper"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Japanese, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-and-Sable-Fish-1665741",
+    "recipeName": "Miso and Sable Fish",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1 cup sake",
+        "1 cup mirin Japanese sweet rice wine",
+        "3 tablespoons soy sauce",
+        "1/4 cup brown sugar packed",
+        "1 cup miso paste",
+        "16 ounces sablefish fillets fresh, about 1 inch thick- wherever you buy the sablefish, ask",
+        "2 tablespoons green onion chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Oven, High Protein, Asian, Broiling, Main Dishes, Japanese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Confit-Salmon_-Miso-Garlic-Butter_-Edamame-Puree-2149797",
+    "recipeName": "Confit Salmon, Miso Garlic Butter, Edamame Puree",
+    "recipePhoto": "https://lh3.googleusercontent.com/OVxMb9hbesHcp2bacQZ8wAbH6vhqT5g8VkZWwORTqOqU6PxoSeuZG_Tn8pL0X4tt-9dWM6OGd9tr7k4IaOmR",
+    "ingredients": [
+        "3/4 kilogram fresh salmon cut into pieces with desired size",
+        "2 1/2 liters cold water",
+        "3 tablespoons sea salt",
+        "1 tablespoon sugar",
+        "300 milliliters olive oil",
+        "1/2 head garlic skin on",
+        "1 teaspoon olive oil",
+        "2 tablespoons white miso paste",
+        "1 tablespoon mirin",
+        "1 tablespoon butter",
+        "2 cups edamame beans",
+        "1/2 teaspoon wasabi paste",
+        "2 tablespoons soy sauce",
+        "1 teaspoon dashi powder",
+        "1 cup cream",
+        "salmon Skin",
+        "1/2 cup edamame beans",
+        "2 radishes small, sliced thinly",
+        "1 tablespoon seasoning Japanese nori"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Baking, Asian, Main Dishes, Puree, Roasting, Brining, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Takoyaki-Cream-Puff-896639",
+    "recipeName": "Takoyaki Cream Puff",
+    "recipePhoto": "https://lh4.ggpht.com/Nsuy3QaAnKVATiON-erptRNijMoTFcVRyiR41E3ivB2XcGldWqwdnx5DyNOtvs9QfuY4EM9Fj3Vd6LHXG4R5",
+    "ingredients": [
+        "7 tablespoons butter",
+        "250 water",
+        "1 teaspoon salt",
+        "1 cup cake flour",
+        "3 medium eggs",
+        "2 yolks",
+        "6 1/4 tablespoons cornstarch",
+        "6 tablespoons sugar",
+        "2 1/8 cups milk",
+        "1 teaspoon vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Desserts, Japanese, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Grilled-Chicken-2448999",
+    "recipeName": "Miso Grilled Chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/6y6gsQnfs64zbVGSrtMuTzEVDsWp-C4Cb37a5yb_8atEBTroazqAQBVObuwFsx4JKd7Y6Ogq9siwp1cKOq9sGQ",
+    "ingredients": [
+        "1/4 cup miso paste yellow",
+        "3 tablespoons mirin",
+        "2 tablespoons sake",
+        "1 tablespoon sugar",
+        "1 tablespoon soy sauce",
+        "4 chicken thighs see note"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "Low Sugar, Japanese, Baking, Main Dishes, High Protein, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Cotton-Cheesecake-1044459",
+    "recipeName": "Japanese \u2018Cotton\u2019 Cheesecake",
+    "recipePhoto": "https://lh5.ggpht.com/lkh6C93TW3s1HWWzgHsNNDkH2_W8WWdPOml4YKLQMDZs5adOXPFOTc7DaBsxwoE1sXBConuFlqqeqHj7R7xVCA",
+    "ingredients": [
+        "1 1/8 cups fine granulated sugar",
+        "6 egg whites",
+        "6 egg yolks",
+        "1/4 teaspoon cream of tartar",
+        "3 1/2 tablespoons butter",
+        "1 1/16 cups cream cheese",
+        "6 3/4 tablespoons milk fresh",
+        "1 tablespoon lemon juice",
+        "7 tablespoons cake flour",
+        "2 3/4 tablespoons cornflour cornstarch",
+        "1/4 teaspoon salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Desserts, Cheesecake, Browning, Japanese, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miso-Salmon-2032566",
+    "recipeName": "Miso Salmon",
+    "recipePhoto": "https://lh3.googleusercontent.com/KZwpNxr8p6vb5VbuJkWxni-jyYSSbWK1hlNGsLxPAKlE8HUvCqrRkkc-wHz4VpshHQ2Mxi529Z__LB7IMWRO",
+    "ingredients": [
+        "2 tablespoons white miso paste",
+        "1 tablespoon soy sauce",
+        "1 tablespoon sake",
+        "1 tablespoon mirin",
+        "1 tablespoon sesame oil",
+        "4 salmon fillets weighing about 140g, 5oz each"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Easy, Low Sugar, Baking, Asian, Main Dishes, Low Saturated Fat, High Protein, Low Carb, Low Calorie, Marinating, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/VEGAN-MISO-GLAZED-EGGPLANT-_NASU-DENGAKU_-2498151",
+    "recipeName": "VEGAN MISO GLAZED EGGPLANT (NASU DENGAKU)",
+    "recipePhoto": "https://lh3.googleusercontent.com/pFx4pS0Vxnk8BpfZKYyWickUjtDa03Qhq5Zj-FYeeqCFTQUdg3yi9vU2UCx6eH2rhDG8lP93Aoc65jLDOildfXc",
+    "ingredients": [
+        "4 eggplants medium sized black",
+        "1 pinch sea salt flakes",
+        "2 tablespoons mirin",
+        "2 tablespoons sake cooking",
+        "2 tablespoons raw sugar",
+        "1 tablespoon wine Shiaoxing",
+        "1 tablespoon sesame oil",
+        "1 teaspoon ginger finely grated",
+        "4 2/3 tablespoons white miso paste",
+        "black sesame seeds",
+        "chives",
+        "herb"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Low Saturated Fat, Glazing, Asian, High Potassium, Low Calorie, Low Fat, High Fiber, Browning, Drying, Baking, Boiling, Japanese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Japanese-Very-Airy-Cheesecake-420272",
+    "recipeName": "Japanese Very Airy Cheesecake",
+    "recipePhoto": "https://lh6.ggpht.com/X_pQM6Ogo0c1FU_FJI-9zzoov4wX4j5__x7LjPtSODTdHbzJfu-c8Ukey76xVuSq-6uaTOh80Za4t3yxSXaJQg",
+    "ingredients": [
+        "2 1/8 cups cream cheese room temperature",
+        "6 7/8 tablespoons cornflour",
+        "5 3/4 tablespoons milk room temperature",
+        "1 1/4 cups caster sugar divided",
+        "5 eggs separated",
+        "5 tablespoons lemon juice",
+        "2 tablespoons vanilla extract or Cointreau"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H",
+    "serve": "12 servings",
+    "tags": "Desserts, Cheesecake, Japanese, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Panko-Crusted-Tofu-With-Bacon-Dashi_-Poached-Egg-And-Pickled-Spring-Onions-1470755",
+    "recipeName": "Panko Crusted Tofu With Bacon Dashi, Poached Egg And Pickled Spring Onions",
+    "recipePhoto": "https://lh3.googleusercontent.com/VyF2mR2mCdKzirm_Nb0v1I1wnivBPiZ5OfnavI6KpFtu2vQHj3wO1JG120atPBzunBlvEi7gywSqFCZuhLY2nQ",
+    "ingredients": [
+        "7/8 pound firm tofu silken, cut into 4 equal squares",
+        "5 3/8 tablespoons rice vinegar",
+        "1 1/2 tablespoons light soy sauce",
+        "1 tablespoon mirin",
+        "4 spring onions finely sliced, white and green parts reserved separately",
+        "4 1/4 ounces bacon short",
+        "1 teaspoon dashi powder instant, see note",
+        "5 eggs",
+        "salt",
+        "white pepper",
+        "2 tablespoons plain flour",
+        "1/2 cup panko breadcrumbs see note",
+        "vegetable oil to shallow fry",
+        "shichimi togarashi see note, to serve"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Frying, Japanese, Oven, Baking, Boiling, Poaching"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Panko-Crusted-Tofu-With-Bacon-Dashi_-Poached-Egg-And-Pickled-Spring-Onions-898438",
+    "recipeName": "Panko Crusted Tofu With Bacon Dashi, Poached Egg And Pickled Spring Onions",
+    "recipePhoto": "https://lh3.ggpht.com/iEIJ_k99oBBqjRbF7bsvxUpAPi2pOkmEa5tANynIKrAlG4lNCOGE7IilDPMhWB0gvgspK2JDdCChU35ZlXVq",
+    "ingredients": [
+        "7/8 pound firm tofu silken, cut into 4 equal squares",
+        "5 3/8 tablespoons rice vinegar",
+        "1 1/2 tablespoons light soy sauce",
+        "1 tablespoon mirin",
+        "4 spring onions finely sliced, white and green parts reserved separately",
+        "4 1/4 ounces bacon short",
+        "1 teaspoon dashi powder instant, see note",
+        "5 eggs",
+        "salt",
+        "white pepper",
+        "2 tablespoons plain flour",
+        "1/2 cup panko breadcrumbs see note",
+        "vegetable oil to shallow fry",
+        "shichimi togarashi see note, to serve"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Baking, Oven, Japanese, Boiling, Poaching, Frying"
+}

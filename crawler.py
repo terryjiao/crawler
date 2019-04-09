@@ -1,104 +1,248 @@
 import time
 from bs4 import BeautifulSoup
-from selenium import webdriver
 import requests
-from queue import Queue
+import threading
+import json as js
+
+amount = 0
+urlSet = set()
+cuisines = ["American", "Asian", "Barbecue", "Cajun&Creole", "Chinese", "Cuban", "English", "French", "German",
+            "Greek", "Hawaiian", "Hungarian", "Indian", "Irish", "Italian", "Japanese", "Kid-Friendly",
+            "Mediterranean", "Mexican", "Moroccan", "Portuguese", "Southern&SoulFood", "Southwestern", "Spanish",
+            "Swedish", "Thai"]
+technique = ["Baking", "Blending", "Boiling", "Braising", "Brining", "Broiling", "Browning", "Canning", "Drying",
+             "Frosting", "Frying", "Glazing", "Grilling", "Marinating", "Microwaving", "Pickling", "Poaching",
+             "Pressure", "Cooking", "Roasting", "Sauteeing", "Slow", "Cooking", "Steaming", "Stir", "Frying",
+             "Stuffing"]
 
 
-def parseRecipe(url, driver, queue, basicUrl, set, f):
-    # init the driver
-    driver.get(url)
-    # wait for dynamically loading the webpages
-    time.sleep(3)
-    soup = BeautifulSoup(driver.page_source, 'lxml')
-    f.write("[\n")
-    # recipeUrl: string
-    f.write("recipeUrl: " + url + "\n")
+def parseWebpage(cuisine, tech, f):
+    attempts = 0
+    success = False
+    global amount
+    while attempts < 3 and not success:
+        try:
+            maxResult = 500
+            url = "https://www.yummly.com/recipes?allowedTechnique=technique%5Etechnique-" + tech + "&allowedCuisine=cuisine%5Ecuisine-" + cuisine + "&taste-pref-appended=true&maxResult=" + str(
+                maxResult)
+            req = requests.get(url)
+            soup = BeautifulSoup(req.text, 'lxml')
+            data = soup.find('div', class_="structured-data-info").script
+            dataJson = js.loads(data.text)
+            recipes = dataJson['itemListElement']
+            success = True
 
-    # recipeName: string
-    recipeName = soup.h1.string
-    f.write("recipeName: " + recipeName + "\n")
+            for recipe in recipes:
+                # init recipeUrl = None
+                recipeUrl = None
 
-    # recipePhoto: string
-    recipePhoto = soup.find('div', class_='recipe-details-image').img['src']
-    f.write("recipePhoto: " + recipePhoto + "\n")
+                # init recipeName = None
+                recipeName = None
 
-    # ingredients: string[]
-    f.write("ingredients: ")
-    ingredientLines = soup.find('div', class_='recipe-ingredients')
-    for line in ingredientLines.ul.find_all('li'):
-        ingredient = ""
-        for element in line.contents:
-            if hasattr(element, 'text'):
-                ingredient = ingredient + element.text
-        f.write(ingredient + ", ")
-    f.write("\n")
+                # init recipePhoto = None
+                recipePhoto = None
 
-    # ratings: float
-    reviews = soup.find('div', class_='primary-info-left-wrapper')
-    review = None
-    if len(reviews.contents) >= 3:
-        review = reviews.contents[2]
-        rate = 0.0
-        for fullStar in review.find_all('span', class_='full-star'):
-            rate = rate + 1.0
-        for halfStar in review.find_all('span', class_='half-star'):
-            rate = rate + 0.5
-        f.write("rating: " + str(rate) + "\n")
-    else:
-        f.write("rating: " + "None" + "\n")
+                # init ingredients = None
+                ingredients = None
 
-    # cookTime: string
-    cookTime = soup.find('div', class_='summary-item-wrapper').contents[1].span.string
-    f.write("cookTime: " + cookTime + "minutes\n")
+                # ratings = None
+                ratings = None
 
-    # serve: number
-    serving = soup.find('div', class_='servings').input['value']
-    f.write("servings: " + serving + "\n")
+                # cookTime = None
+                cookTime = None
 
-    f.write("]\n")
+                # serve = None
+                serve = None
 
-    # tags
-    # tags = soup.find('div', class_ = 'recipe')
-    # for tag in tags.contents:
-    #     print(tag.li.a['title'])
+                # init tags = recipe["keywords"]
+                tags = None
 
-    # add related recipes to crawler queue
-    relatedRecipes = soup.find('div', class_='related-carousel').find_all('div', class_='single-recipe')
-    for relatedRecipe in relatedRecipes:
-        fullUrl = basicUrl + relatedRecipe.a.get('href')
-        if fullUrl not in set:
-            if not queue.full():
-                set.add(fullUrl)
-                queue.put(fullUrl)
+                if 'url' in recipe:
+                    recipeUrl = recipe['url']
+                    if recipeUrl in urlSet:
+                        continue
+                    else:
+                        urlSet.add(recipeUrl)
 
+                if 'name' in recipe:
+                    recipeName = recipe['name']
+
+                if 'image' in recipe:
+                    recipePhoto = recipe['image']
+
+                if 'recipeIngredient' in recipe:
+                    ingredients = recipe['recipeIngredient']
+
+                if 'aggregateRating' in recipe:
+                    ratings = float(recipe["aggregateRating"]['ratingValue'])
+
+                if 'totalTime' in recipe:
+                    cookTime = recipe["totalTime"]
+
+                if 'recipeYield' in recipe:
+                    serve = recipe['recipeYield']
+
+                if 'keywords' in recipe:
+                    tags = recipe["keywords"]
+
+                # encode recipe to Json format
+                recipeOutput = dict(recipeUrl=recipeUrl,
+                                    recipeName=recipeName,
+                                    recipePhoto=recipePhoto,
+                                    ingredients=ingredients,
+                                    ratings=ratings,
+                                    cookTime=cookTime,
+                                    serve=serve,
+                                    tags=tags,
+                                    )
+                json_output = js.dumps(recipeOutput, indent=4)
+                f.write(json_output + "\n")
+                amount = amount + 1
+                if amount % 1000 == 0:
+                    print(str(amount) + " recipes have been added")
+
+        # handle http connection exceptions
+        except ConnectionError:
+            # retry for up to 3 attempts
+            attempts += 1
+            if attempts == 3:
+                break
+            time.sleep(1)
+        # handle other exceptions
+        except:
+            return
+
+
+def parseWebpageMuiltiThread(cuisine):
+    global amount
+    for tech in technique:
+        tech = tech.lower()
+        attempts = 0
+        success = False
+        f = open("output/output-" + cuisine + "-" + tech + ".txt", 'w+', encoding='utf-8')
+        while attempts < 3 and not success:
+            try:
+                maxResult = 500
+                url = "https://www.yummly.com/recipes?allowedTechnique=technique%5Etechnique-" + tech + "&allowedCuisine=cuisine%5Ecuisine-" + cuisine + "&taste-pref-appended=true&maxResult=" + str(
+                    maxResult)
+                req = requests.get(url)
+                soup = BeautifulSoup(req.text, 'lxml')
+                data = soup.find('div', class_="structured-data-info").script
+                dataJson = js.loads(data.text)
+                recipes = dataJson['itemListElement']
+                success = True
+
+                for recipe in recipes:
+                    # init recipeUrl = None
+                    recipeUrl = None
+
+                    # init recipeName = None
+                    recipeName = None
+
+                    # init recipePhoto = None
+                    recipePhoto = None
+
+                    # init ingredients = None
+                    ingredients = None
+
+                    # ratings = None
+                    ratings = None
+
+                    # cookTime = None
+                    cookTime = None
+
+                    # serve = None
+                    serve = None
+
+                    # init tags = recipe["keywords"]
+                    tags = None
+
+                    if 'url' in recipe:
+                        recipeUrl = recipe['url']
+                        # with lock:
+                        #     if recipeUrl in urlSet:
+                        #         continue
+                        #     else:
+                        #         urlSet.add(recipeUrl)
+
+                    if 'name' in recipe:
+                        recipeName = recipe['name']
+
+                    if 'image' in recipe:
+                        recipePhoto = recipe['image']
+
+                    if 'recipeIngredient' in recipe:
+                        ingredients = recipe['recipeIngredient']
+
+                    if 'aggregateRating' in recipe:
+                        ratings = float(recipe["aggregateRating"]['ratingValue'])
+
+                    if 'totalTime' in recipe:
+                        cookTime = recipe["totalTime"]
+
+                    if 'recipeYield' in recipe:
+                        serve = recipe['recipeYield']
+
+                    if 'keywords' in recipe:
+                        tags = recipe["keywords"]
+
+                    # encode recipe to Json format
+                    recipeOutput = dict(recipeUrl=recipeUrl,
+                                        recipeName=recipeName,
+                                        recipePhoto=recipePhoto,
+                                        ingredients=ingredients,
+                                        ratings=ratings,
+                                        cookTime=cookTime,
+                                        serve=serve,
+                                        tags=tags,
+                                        )
+                    json_output = js.dumps(recipeOutput, indent = 4)
+                    f.write(json_output + "\n")
+                    amount = amount + 1
+                    if amount % 1000 == 0:
+                        print(str(amount) + " recipes have been added")
+
+                f.close()
+            # handle http connection exceptions
+            except ConnectionError:
+                # retry for up to 3 attempts
+                attempts += 1
+                print("retry")
+                if attempts == 3:
+                    break
+                time.sleep(3)
+            # handle other exceptions
+            except AttributeError:
+                # retry for up to 3 attempts
+                attempts += 1
+                if attempts == 3:
+                    break
+                time.sleep(3)
+                print("retry")
+            # handle other exceptions
+            except:
+                break
+
+
+def crawler():
+    f = open("output1.txt", 'w+', encoding='utf-8')
+    f.write("{\n")
+    for cuisine in cuisines:
+        for tech in technique:
+            parseWebpage(cuisine.lower(), tech.lower(), f)
+    f.write("}\n")
+
+
+def multiThreadCrawler():
+    for cuisine in cuisines:
+        t = threading.Thread(target=parseWebpageMuiltiThread, args=(cuisine.lower(),))
+        t.setDaemon(True)
+        t.start()
+    t.join()
 
 def main():
-    target = 'https://www.yummly.com/recipes'
-    req = requests.get(url=target)
-    basicUrl = 'https://www.yummly.com'
-    html = req.text
-    bf = BeautifulSoup(html)
-    texts = bf.find_all('a', class_='link-overlay')
-    driver = webdriver.Chrome()
-    set = {basicUrl}
-    queue = Queue(1000)
-
-    # init file
-    f = open("output.txt", 'a', encoding='utf-8')
-    f.write("{\n")
-
-    # add first group of recipe to crawler queue
-    for link in texts:
-        fullUrl = basicUrl + link.get('href')
-        if fullUrl not in set:
-            set.add(fullUrl)
-            queue.put(fullUrl)
-
-    while not (queue.empty() & len(set) > 1000):
-        parseRecipe(url=queue.get(), driver=driver, queue=queue, basicUrl=basicUrl, set=set, f=f)
-
-    f.write("}")
+    crawler()
+    # multiThreadCrawler()
 
 
 if __name__ == '__main__':

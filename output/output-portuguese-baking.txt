@@ -1,0 +1,3506 @@
+{
+    "recipeUrl": "https://www.yummly.com/recipe/One-Skillet-Keto-Portuguese-Style-Chicken-2570336",
+    "recipeName": "One Skillet Keto Portuguese Style Chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/YxLpdlhRDB7iiSksykGNyYxxiHShl4cN1qUGXjPa2AwXNOmAi2QIEwvglNdIz2X990LhyTS4wttIGmfsLrJMTA",
+    "ingredients": [
+        "2 pounds chicken thighs bone in & skin on",
+        "1 tablespoon avocado oil or olive oil",
+        "4 slices lemon",
+        "1 1/2 cups zucchini diced",
+        "1/3 cup red bell pepper diced",
+        "1/4 cup olive oil",
+        "3 tablespoons lime juice",
+        "1 tablespoon red wine vinegar",
+        "3 cloves garlic peeled and minced",
+        "1/4 teaspoon crushed red pepper flakes",
+        "2 teaspoons paprika",
+        "1 teaspoon dried thyme",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "2 pounds bone chicken thighs, in & skin on",
+        "1 tablespoon avocado oil or olive oil",
+        "4 lemon slices",
+        "1 1/2 cups zucchini diced",
+        "1/3 cup red bell pepper diced",
+        "1/4 cup olive oil",
+        "3 tablespoons lime juice",
+        "1 tablespoon red wine vinegar",
+        "3 cloves garlic peeled and minced",
+        "1/4 teaspoon crushed red pepper flakes",
+        "2 teaspoons paprika",
+        "1 teaspoon dried thyme",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Browning, Main Dishes, Low Sugar, High Potassium, High Protein, High Iron, Low Carb, High Fiber, Baking, Grilling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Pasteis-de-Nata-_-Portuguese-Custard-Tarts-2306225",
+    "recipeName": "Paste\u0301is de Nata | Portuguese Custard Tarts",
+    "recipePhoto": "https://lh4.ggpht.com/X8OPRCNwLbyNJiacX4tU2VLiQbU5v5W_pAarEp0HnyLvAK3DfCvS574MX903zEC-WowD5vx8RHHWSWn5BHuL4g",
+    "ingredients": [
+        "2 tablespoons all-purpose flour",
+        "1/4 teaspoon sea salt",
+        "3/4 cup water",
+        "16 tablespoons unsalted butter room temperature, stirred until smooth",
+        "3 tablespoons all-purpose flour",
+        "1 1/4 cups milk divided",
+        "1 1/3 cups granulated sugar",
+        "1 cinnamon sticks",
+        "2/3 cup water",
+        "1/2 teaspoon pure vanilla extract",
+        "6 large egg yolks whisked",
+        "powdered sugar",
+        "cinnamon"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H30M",
+    "serve": "40 servings",
+    "tags": "Browning, Portuguese, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-_Pasteis-de-Nata_-2600646",
+    "recipeName": "Portuguese Custard Tarts (Paste\u0301is de Nata)",
+    "recipePhoto": "https://lh3.googleusercontent.com/YJbmusA7BdXRCyVtyGLPqjOJ_w_fwzj5dPBe8F5KoIE-8tdFf2bscSSWHXbVwuvN6qu23oNPXnbFOoxF6e27LQ",
+    "ingredients": [
+        "1 puff pastry roll ready-made",
+        "1 11/16 cups milk",
+        "2 egg yolks",
+        "1 whole egg",
+        "2 tablespoons plain flour",
+        "7/8 cup caster sugar",
+        "1/2 teaspoon vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "10 servings",
+    "tags": "Baking, Tart, Desserts"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Style-Parisienne-Potatoes-2418140",
+    "recipeName": "Portuguese Style Parisienne Potatoes",
+    "recipePhoto": "https://lh3.googleusercontent.com/ACh1T3Y6ZCF001y_W4jEpkWCczKuOXYN-HEfHpKUxf3R0L8edpPbIjIa55onwaxYmpQ3dy-ivnefV9vvLHphaA",
+    "ingredients": [
+        "1 pound potatoes",
+        "1/2 cup olive oil",
+        "1 tablespoon garlic salt",
+        "2 teaspoons paprika",
+        "2 tablespoons dried oregano",
+        "1 tablespoon roasted garlic",
+        "1 pound potatoes lb of parisienne, small potato balls",
+        "1/2 cup olive oil",
+        "1 tablespoon garlic salt",
+        "2 teaspoons paprika",
+        "2 tablespoons dried oregano",
+        "1 tablespoon roasted garlic and red pepper spice mix",
+        "2 tablespoons olive oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "4 servings",
+    "tags": "Easy, High Vitamin C, Baking, Side Dishes, Low Sodium, Low Sugar, High Carb, High Potassium, High Iron, High Fiber, Marinating"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Peri-Peri-Chicken_-the-spicy-Portuguese-chicken-2187843",
+    "recipeName": "Peri-Peri Chicken, the spicy Portuguese chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/7ol0vhM08eiG9Jpx0ucGWHnMpxQn8Sd-GwkdR2wmRactfK0wee8pM1xF10V3X_NvSRFkOf8Gv1OjIPBZYAji1A",
+    "ingredients": [
+        "4 tablespoons olive oil",
+        "10 chili bird's eye, depends on the heat level of your choice",
+        "4 cloves garlic or 1 1/2 tablespoon garlic powder for a thicker consistency",
+        "1 lemon about 1/4 cup",
+        "1 tablespoon paprika",
+        "1 bay leaf",
+        "1 teaspoon oregano",
+        "1 teaspoon sea salt",
+        "1/2 teaspoon pepper",
+        "4 chicken legs",
+        "sea salt extra, optional"
+    ],
+    "ratings": 4.6,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "Browning, High Vitamin C, Main Dishes, Blending, Baking, Grilling, Sugar Free, Low Sugar, High Potassium, High Protein, High Iron, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Coconut-Custard-Tarts-1003601",
+    "recipeName": "Portuguese Coconut \u203aCustard Tarts",
+    "recipePhoto": "https://lh5.ggpht.com/NlqvUW-xQe8HYH4w6eqjGKsnjiRyiWN5j4yI564qL_xQZNiPYl3mEhuTcAuvJhBR_k0_5qTZXDA5fHMmBkAKKA",
+    "ingredients": [
+        "2 tablespoons cornstarch",
+        "1 cup milk",
+        "1 cup sweetened shredded coconut",
+        "3 large eggs",
+        "1 cup granulated sugar",
+        "2 tablespoons unsalted butter melted",
+        "1/4 teaspoon lemon extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "10 servings",
+    "tags": "Desserts, Tart, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-_-Slimming-World-_-Weight-Watchers-Friendly-2699842",
+    "recipeName": "Portuguese Custard Tarts | Slimming World & Weight Watchers Friendly",
+    "recipePhoto": "https://lh3.googleusercontent.com/WXd2JVkMqsgA3iDhpbA6ZK5uOQAZ1pVaVsKBZ6r1nGY9IRC6SY2gLF14FuL-_VTfJaNo_fuIa3jNnYSlxy7M3g",
+    "ingredients": [
+        "6 ounces puff pastry Reduced Fat, Use a standard sized sheet - each cut circle weighs around 14 grams",
+        "1 large egg",
+        "1 large egg yolk",
+        "4 tablespoons sweetener Gold, Or any natural, granulated sweetener",
+        "6 3/4 tablespoons skimmed milk",
+        "1 teaspoon ground nutmeg"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Desserts, Low Sodium, Baking, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Cavacas-_Portuguese-Pastry_-1031152",
+    "recipeName": "Cavacas (Portuguese Pastry)",
+    "recipePhoto": "https://lh5.ggpht.com/60-PDr2d3nTDJ2JRuZ1VM0h4bfYWOc8iMg6hv8YLXg3Z87LeHSMj99HSAIkHMj4mWnlzY38wDGOXyfhBS0l9",
+    "ingredients": [
+        "2 cups flour",
+        "1 cup oil",
+        "1/2 cup whole milk",
+        "8 eggs at room temp",
+        "2 cups confectioner's sugar",
+        "1 lemon",
+        "2 tablespoons milk"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "Glazing, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-Rolls-Jo-Cooks-46050",
+    "recipeName": "Portuguese Sweet Bread Rolls",
+    "recipePhoto": "https://lh3.googleusercontent.com/UJOsMnxktj5A8Zic6yDJzCzX9iDmJJvqRrXRgrCjzWlB9zGAK9HXt3BgcsqM0hLxx9Gh1KdlXavUVEVAnpDu5w",
+    "ingredients": [
+        "4 tablespoons butter",
+        "5 1/16 tablespoons milk warm",
+        "3 eggs slightly beaten",
+        "5/8 cup sweetened condensed milk",
+        "3 1/2 cups all purpose flour",
+        "1/2 lemon",
+        "2 tablespoons brown sugar",
+        "1/2 teaspoon salt",
+        "1 package yeast 2\u00bc tsp or about 50 g of fresh yeast",
+        "1 egg for egg wash",
+        "sesame seeds or sugar, optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "12 servings",
+    "tags": "Breads, Baking, Portuguese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kuejadas-_Portuguese-Tart_-1795735",
+    "recipeName": "Kuejadas (Portuguese Tart)",
+    "recipePhoto": "https://lh3.googleusercontent.com/hNchKyfNzfuri5yhC0-UKgzarGxT_6SBPbNz0VLbd6KQA-RyDeylAZu0z_uUCI2mCk4j3mb_eGMVXxSR2wHTbvU",
+    "ingredients": [
+        "1 cup sugar",
+        "3 1/2 tablespoons margarine melted",
+        "2 eggs",
+        "1 cup flour",
+        "1 can condensed milk",
+        "2 cups milk"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "18 servings",
+    "tags": "Baking, Easy, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Porridge_-Mingau-or_-in-portuguese_-Papas-de-Aveia-2029812",
+    "recipeName": "Porridge, Mingau or, in portuguese, Papas de Aveia",
+    "recipePhoto": "https://lh3.googleusercontent.com/WfywjZryT2kAlWYL_KCifwMPQnxgK9OwH9xyac2In88KkJPgL3bjn1H4qs1I5kudrOa7zs9cJ1ENbrjVIqSEsA",
+    "ingredients": [
+        "100 oats flakes",
+        "1 1/2 cups milk water or soy milk, I mixed milk and water for it not become so strong",
+        "1 pinch salt hand harvested",
+        "2 tablespoons sugar or 1 of honey, this last one is more natural but leaves a stronger flavor!",
+        "1 apples",
+        "1 teaspoon cinnamon"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "2 servings",
+    "tags": "Easy, Baking, Portuguese, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Queijadas-Allrecipes",
+    "recipeName": "Queijadas",
+    "recipePhoto": "https://lh3.ggpht.com/qx5XKPQWW3-_xCwkLRTD2x6ndycoTyVO-5IKHP-PHIU6eXL6b8i8V2jZ6YwPY8y-t3b6hTfgbUtmW5BtP8z150k",
+    "ingredients": [
+        "3 eggs",
+        "2 cups white sugar",
+        "3 tablespoons butter",
+        "3/4 cup all-purpose flour",
+        "2 cups milk",
+        "1/2 teaspoon vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "18 servings",
+    "tags": "Oven, Browning, Portuguese, Blending, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Roasted-Potatoes-472702",
+    "recipeName": "Portuguese Roasted Potatoes",
+    "recipePhoto": "https://lh5.ggpht.com/4STz5xmFLoYjCb9WHACD92huplTatEVu4_YJgZgj4JEqvGjpknEmmUVvOjcpdaW6ltWUoC5PtE04WpLS94gbsw",
+    "ingredients": [
+        "3 cups water",
+        "3 tablespoons red wine vinegar",
+        "4 tablespoons smoked paprika",
+        "1 1/2 teaspoons salt",
+        "1 1/2 teaspoons white sugar granulated",
+        "1 1/2 tablespoons ground black pepper freshly",
+        "1 1/2 white onions medium sweet, chopped",
+        "1 1/2 tomatoes large, seeded & chopped",
+        "4 tablespoons fresh parsley chopped",
+        "6 baking potatoes large, scrubbed & cut into 2-inch chunks",
+        "1 1/2 pounds smoked sausage thinly sliced"
+    ],
+    "ratings": 4.333333333333333,
+    "cookTime": "PT15M",
+    "serve": "8 servings",
+    "tags": "High Vitamin C, Quick, Baking, Side Dishes, Portuguese, Oven, Low Sugar, High Potassium, High Protein, High Iron, High Fiber"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Biscuits-2080906",
+    "recipeName": "Portuguese Biscuits",
+    "recipePhoto": "https://lh3.googleusercontent.com/P7yMLqyFLy0GNneEf-VwzkdDdCdWPyVm43BDQszasBj1Ft6iEvBmRvECWectBx-mFQapVBDic0EYrhkOab0zJVQ",
+    "ingredients": [
+        "1/2 cup sugar",
+        "1/2 stick butter",
+        "3 eggs",
+        "3 cups flour",
+        "2 teaspoons baking powder"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Breads, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Marinated-Chicken-1189834",
+    "recipeName": "Portuguese Marinated Chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/aUpQkwWSGA9DoIU2sZ0TvtyVgscQWde8PMUi4Zs2KlQtnZdS0D4NwUDN2kJn9Hs7y9ivmCj4a5O-2HUJ-2VB6Q",
+    "ingredients": [
+        "chicken drumsticks any cut really - 2-3 lbs",
+        "juice Lemon, Juice of halved lemon",
+        "2 tablespoons olive oil",
+        "1 cup wine",
+        "1 teaspoon paprika",
+        "1/2 tablespoon crushed red pepper",
+        "4 cloves ; minced",
+        "sea salt Pinch",
+        "1/2 tablespoon parsley"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Baking, Main Dishes, Baked Chicken, Oven, Marinating"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Lemon-Cookies-2185604",
+    "recipeName": "Portuguese Lemon Cookies",
+    "recipePhoto": "https://lh3.googleusercontent.com/0EWQ3RU4S7TwJp_f21TeUYN73cchUBYwZoBVGOr772l7hp5FtIxNpVpQukRvhJuAikQqFmgl_MJ-EkOUnF4TSg",
+    "ingredients": [
+        "4 cups white flour 4 cups",
+        "1 cup granulated sugar",
+        "1 1/8 cups butter at room temperature",
+        "2 eggs",
+        "1 lemon"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT20M",
+    "serve": "4 servings",
+    "tags": "Desserts, Quick and Easy, Browning, Cookies, Quick, Easy, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Egg-Tarts-496879",
+    "recipeName": "Portuguese Egg Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/fpc5PWG9N14s7c1azEKLus9T8u-ZBkjxOUXPyZBpBtwTe7JNxOPR7FAxIjjWR0lGpO9j3TiL-uSfoBPvuK8V",
+    "ingredients": [
+        "1 box Betty Crocker Pie Crust Mix Net Wt 11 Oz or 1 frozen and rolled Pillsbury 9-inch pie crust",
+        "3 tablespoons melted butter",
+        "1/3 cup cold water",
+        "4 egg yolks",
+        "1/3 cup sugar or slightly less if you don\u2019t like your Portuguese egg tarts too sweet",
+        "1/3 cup heavy whipping cream",
+        "1/3 cup milk",
+        "3 drops vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "10 servings",
+    "tags": "Baking, Desserts, Portuguese, Tart, Oven, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-pie-2569136",
+    "recipeName": "Portuguese Custard pie",
+    "recipePhoto": "https://lh3.googleusercontent.com/SEFXgnAfihgXl80qzxjOnT0n2bMf3WWO4Xcb-v6lRXHo2ofD3R65TsGaR8t9YWX_yVow5Hk-IFgMv4ni4Z-9Jg",
+    "ingredients": [
+        "7 ounces puff pastry",
+        "2 tablespoons corn starch",
+        "6 egg yolks",
+        "1 cup granulated sugar",
+        "1 7/8 cups milk",
+        "1 lemon",
+        "1 cinnamon stick"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "12 servings",
+    "tags": "Baking, Pie, Easy, Desserts"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-1441511",
+    "recipeName": "Portuguese Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/Zfrbndycr_PdWs7OeWTATnVd9Gf9F4iAVAgvKXkJ2u5P7abEwy7nl1sOHMFbV410kqWFLBIm1s0ghNhJVZy77Yc",
+    "ingredients": [
+        "7/8 pound puff pastry /, 14 ounces",
+        "2 tablespoons corn starch",
+        "6 egg yolks",
+        "1 cup sugar /, 7 ounces",
+        "1 7/8 cups milk /, 1 3/4 cups and 2 1/2 tablespoons",
+        "1 lemon",
+        "1 cinnamon stick",
+        "cinnamon sugar for dusting"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Baking, Desserts, Tart, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Egg-Pudding-898039",
+    "recipeName": "Portuguese Egg Pudding",
+    "recipePhoto": "https://lh3.ggpht.com/fFX8M7hwdkffsWzz3T3S_4p2oSDxAya1JdOKUwLZLYApdU-X0Q_lCFnMNnZdCW8i4g6sxKNRSidh2dTlS94MtQ",
+    "ingredients": [
+        "8 eggs separated",
+        "1 1/4 cups sugar",
+        "6 3/8 tablespoons flour",
+        "1 pint milk",
+        "lemon peel",
+        "cinnamon powder to taste"
+    ],
+    "ratings": 4.5,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Easy, Baking, Portuguese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Orange_-Olive_-Honey-And-Almond-Cake-2559392",
+    "recipeName": "Portuguese Orange, Olive, Honey And Almond Cake",
+    "recipePhoto": "https://lh3.googleusercontent.com/0Dt64mOByahK6nxeG6mTVL8nfTyxJgkIyNrogEjLsSoM52vaaczjyGbVJ8vpA9ReUus2z647ibLmy6pYiVh3",
+    "ingredients": [
+        "2 cups plain flour",
+        "1 cup almond meal",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "4 eggs",
+        "1 1/4 cups honey",
+        "1 cup olive oil",
+        "3 oranges 1 cup juice",
+        "icing sugar to dust"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "Desserts, Easy, Baking, Cake"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sponge-Cake-1558730",
+    "recipeName": "Portuguese Sponge Cake",
+    "recipePhoto": "https://lh3.googleusercontent.com/gGF9st9y8Pc3U9zq_UKq2IhrTNy0dvjFP1_QxyD_2G7thSi_PJMHVGlERmt6GHGtHYvvuEfpqUsPprENra-vaA",
+    "ingredients": [
+        "9 eggs at room temperature",
+        "1 pinch salt",
+        "1 1/2 cups sugar",
+        "1 2/3 cups all purpose flour",
+        "1/4 teaspoon baking powder"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Baking, Sponge Cake, Cake"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Bread-Pudding-2134014",
+    "recipeName": "Portuguese Bread Pudding",
+    "recipePhoto": "https://lh3.googleusercontent.com/P5ZxBtUMjVU1W682968ekSIC8Myhx6gge6gFHqIzjdEfzj4PcgDk_FXdc-Pyruq6Kp-JOWTeftGN7RhOhsbQ",
+    "ingredients": [
+        "1 1/2 buns day old Portuguese, ex: papo secos",
+        "6 eggs",
+        "1 cup brown sugar",
+        "2 cups milk",
+        "liquid caramel to coat pan"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Desserts, Bread Pudding, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Simple-Apple-Cake-Portuguese-Style-2030935",
+    "recipeName": "Simple Apple Cake Portuguese-Style",
+    "recipePhoto": "https://lh3.googleusercontent.com/-S8atni44Cg2kuAub_nUKaKEF2-Hbur2aBbBOEHTGgLidkA3tm0Tu_D-TpItazbTMo0IqCwhaBOWFK_qkaDRZVA",
+    "ingredients": [
+        "3 cups flour",
+        "1 cup milk",
+        "1 cup oil",
+        "salt",
+        "1/2 cup sugar",
+        "1 teaspoon cinnamon",
+        "3 apples sliced"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cornbread-626883",
+    "recipeName": "Portuguese Cornbread",
+    "recipePhoto": "https://lh4.ggpht.com/PwkhKrcnsSWb39oUBIQmhrx5CsCdegsm2x2dGPZjWwGVWiqLbWcpN_VYBAgurnSsjzF1q1xqBY_9gjcorjyT",
+    "ingredients": [
+        "9/16 tablespoon dry active yeast",
+        "1 11/16 cups warm water",
+        "2 1/8 cups corn flour",
+        "3 3/8 cups all purpose flour",
+        "2 tablespoons olive oil",
+        "1 teaspoon sea salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Oven, Breads, Baking, Cornbread, Portuguese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Isi_s-Portuguese-Thermomix-Bread-_Reliable-and-Rewarding_-1442046",
+    "recipeName": "Isi's Portuguese Thermomix Bread (Reliable and Rewarding)",
+    "recipePhoto": "https://lh3.googleusercontent.com/XDbuNB_zDNbwCCZEcDxM3Wk2anfSdUBsXOjj0zQHOWiEfNhqBCmtnN9O_X8JFf3yAQWTwopnmQAKUFpjxNQl2iQ",
+    "ingredients": [
+        "4 cups flour I blend white/whole wheat. Remember you can grind your own!",
+        "1 tablespoon granulated yeast",
+        "1 1/4 cups lukewarm water",
+        "1 1/2 teaspoons salt",
+        "1 tablespoon sweetener honey, molasses, or Agave syrup",
+        "1 tablespoon olive oil mixed with 1 Tbsp water, for brushing top"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "10 servings",
+    "tags": "Oven, Breads, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-2027143",
+    "recipeName": "Portuguese Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/8V5St_MA1jk7_kasJyEuADLWi8Z9shIBc0k0CG9Nznaba_GR9TumPhSVJsDnlvs2i726lqOzK3PGM0tkjg0qAA",
+    "ingredients": [
+        "2 sheets puff pastry ready rolled",
+        "4 teaspoons caster sugar",
+        "4 tablespoons cornflour",
+        "4 tablespoons custard powder",
+        "4 cups milk",
+        "8 egg yolk",
+        "1 1/2 cups caster sugar",
+        "1 teaspoon vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "24 servings",
+    "tags": "Baking, Tart, Desserts, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Egg-Tarts---Pastel-de-Nata-_Part-I_-1767187",
+    "recipeName": "Portuguese Egg Tarts - Pastel de Nata (Part I)",
+    "recipePhoto": "https://lh3.googleusercontent.com/1hINQxi96F90yhFuJo2mJ_ZQ25bge6jLeCU05vm2hbBMzjM6-9WO4PiquIwTe5KeJjMFpbAF3FoxuXMsYKBmFw",
+    "ingredients": [
+        "3 cups milk a little less than 3 cups",
+        "5 egg yolks",
+        "3 lemon peels",
+        "3 tablespoons cornflour Maizena",
+        "1 1/4 cups sugar",
+        "puff pastry 270g or 9.5oz"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Baking, Tart, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-pie-2037692",
+    "recipeName": "Portuguese Custard pie",
+    "recipePhoto": "https://lh3.googleusercontent.com/QDJbnVk2GsuTzjbkaUWR6wHpy5BnM6Zd0epW77YQ-JmKQamh138ZlmtzZPK_oNYDG1H1LvDF3N2lXvxGX66XmA",
+    "ingredients": [
+        "7 ounces puff pastry /, 7 ounces",
+        "2 tablespoons corn starch",
+        "6 egg yolks",
+        "1 cup sugar /, 7 ounces",
+        "1 7/8 cups milk /, 1 3/4 cups and 2 1/2 tablespoons",
+        "1 lemon",
+        "1 cinnamon stick"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "12 servings",
+    "tags": "Baking, Pie, Easy, Desserts"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/BROA-DE-MILHO-_PORTUGUESE-CORN-BREAD_-1627447",
+    "recipeName": "BROA DE MILHO (PORTUGUESE CORN BREAD)",
+    "recipePhoto": "https://lh3.googleusercontent.com/HbXDhT4neYBlBld4zfrAEHzkVTbCzhGbY_HaFIo8J7UlHtQW1DTXuV5Snt14K4bPrAQqdThS5U-njA0COxbl",
+    "ingredients": [
+        "1 cup yellow cornmeal fine",
+        "2 cups plain flour all purpose flour*",
+        "3/4 cup hot water very",
+        "1 1/4 cups milk warm",
+        "2 teaspoons dry active yeast instant",
+        "1 teaspoon sea salt or normal salt",
+        "1 tablespoon honey",
+        "1 tablespoon olive oil",
+        "1 teaspoon fennel seeds optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Orange_-Olive_-Honey-And-Almond-Cake-2191719",
+    "recipeName": "Portuguese Orange, Olive, Honey And Almond Cake",
+    "recipePhoto": "https://lh3.googleusercontent.com/Ea7cJ0TBRA6d4WZ8xfdYNkE1pB_fyEcORDGFiZZyl2ro61a_fHE052ZuCePHNlSHe5UhDFnMKIl5_U_8sdax",
+    "ingredients": [
+        "2 cups plain flour",
+        "1 cup almond meal",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "4 eggs",
+        "1 1/4 cups honey",
+        "1 cup olive oil",
+        "3 oranges 1 cup juice",
+        "icing sugar to dust"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "8 servings",
+    "tags": "Desserts, Easy, Baking, Cake"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Pot-Roast-1021171",
+    "recipeName": "Portuguese Pot Roast",
+    "recipePhoto": "https://lh3.ggpht.com/A3TsHvvcvlwJQbpttfHJaGc0M66X8jYdjShP_iyylZ7PE_5I4qh00Gu_9JzKo3VSEeuPVeaEG8XjnmbcMYC5Og",
+    "ingredients": [
+        "5 pounds bottom round roast beef",
+        "1 onion large, sliced",
+        "2 cloves garlic minced - I used 4",
+        "2 bay leaves dried",
+        "1 teaspoon paprika optional - I used the paprika",
+        "salt",
+        "pepper",
+        "olive oil",
+        "1 cup beer or red wine - I used beer",
+        "1 cup water"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "4 servings",
+    "tags": "Pot Roast, Low Sodium, Baking, Main Dishes, Portuguese, Oven, Roast, Low Sugar, High Potassium, High Protein, High Iron, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Queijadas-_Portuguese-Custard-Cupcakes_-1029141",
+    "recipeName": "Queijadas (Portuguese Custard Cupcakes)",
+    "recipePhoto": "https://lh5.ggpht.com/R8cNuA9uAMooN8FcpZtmX2S4gYzX_yCxJWd49rZgJmjDDTNQT4bsNNOkbprGhzxPmeeJu4frfnNbaWWAL0d8ig",
+    "ingredients": [
+        "8 tablespoons butter cut into chunks",
+        "3 1/2 cups milk",
+        "1 1/2 cups flour",
+        "1 teaspoon baking powder",
+        "4 eggs",
+        "3 1/4 cups sugar",
+        "1 teaspoon vanilla extract",
+        "2 lemons",
+        "red food coloring Green and"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "30 servings",
+    "tags": "Baking, Desserts, Oven, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/My-_Toucinho-do-Ceu_-_Portuguese-traditional-desert_-2030751",
+    "recipeName": "My \"Toucinho do Ce\u0301u\" (Portuguese traditional desert)",
+    "recipePhoto": "https://lh3.googleusercontent.com/-SiTibnwZKBLdZa-FaFYAhnwcLCRiDmByQhqIJZG2U5JTmp3xGT-CjN0M_t-L3i-P0-MQS-8BOMj97w4py03Ths",
+    "ingredients": [
+        "1 3/8 cups brown sugar or light brown",
+        "4 eggs",
+        "3 egg yolks",
+        "1 13/16 cups ground almonds",
+        "1/3 cup gila fresh"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Baking, Desserts"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Portuguese-Cookies-Allrecipes",
+    "recipeName": "Easy Portuguese Cookies",
+    "recipePhoto": "https://lh6.ggpht.com/seSBXlSVOxjk6YGygzAx_pR1sWlem2BSac7F2k81LZkqwTeqsgTzg-wyKxE_wGXojBTnUV0d3vlNpT1-Kd7SHg",
+    "ingredients": [
+        "2 tablespoons cornstarch",
+        "1 cup white sugar",
+        "3 tablespoons butter",
+        "2 eggs",
+        "2 1/2 cups all-purpose flour",
+        "2 teaspoons baking powder"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "24 servings",
+    "tags": "Desserts, Quick, Browning, Cookies, Portuguese, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Style-Salt-Cod-813288",
+    "recipeName": "Portuguese-Style Salt Cod",
+    "recipePhoto": "https://lh6.ggpht.com/DVYMqhhcaNq-BbxMZpx-wQG17Hkv6jYoFw5VupI-2Ruwt2uNrLMto5MYabDrcEk4tx9lJonKBjsjQAoZciXnygk",
+    "ingredients": [
+        "1 1/8 pounds cod fish salted",
+        "1 onion",
+        "2 boiled potatoes",
+        "1/2 glass olive oil",
+        "2 boiled eggs",
+        "1 garlic clove finely chopped",
+        "3/4 cup pitted olives"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Low Sodium, Baking, Main Dishes, Oven, Low Sugar, Low Carb, Low Calorie, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-2569881",
+    "recipeName": "Portuguese Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/iKp_S5FQroYmdBNEKlKqtXzyvMnmXE6X-A4XIXOuwNoi948NK0cTOUghhULErSin93zpPGG0vKeqydTxhPHj6m8",
+    "ingredients": [
+        "7/8 pound puff pastry",
+        "2 tablespoons corn starch",
+        "6 egg yolks",
+        "1 cup granulated sugar",
+        "1 7/8 cups milk",
+        "1 lemon",
+        "1 cinnamon stick",
+        "cinnamon sugar for dusting"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "12 servings",
+    "tags": "Baking, Tart, Desserts"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sericaia_-or-Portuguese-Egg-Pudding-2055821",
+    "recipeName": "Sericaia, or Portuguese Egg Pudding",
+    "recipePhoto": "https://lh3.googleusercontent.com/S7U4q3p9lHzngeh2E_dLrrpr2lbdtvxHWiS6MTot6m3e9fvRqo3UYstQDNtN5RhbPuYOHJojjE5-mpbcpq7_4A",
+    "ingredients": [
+        "2 1/8 cups milk",
+        "2 strips lemon peel",
+        "1 cinnamon stick",
+        "6 eggs",
+        "1 1/4 cups white sugar",
+        "6 tablespoons all purpose flour",
+        "ground cinnamon to taste"
+    ],
+    "ratings": 3.0,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Boiling, Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Chocolate-Easter-Bread-1553902",
+    "recipeName": "Portuguese Chocolate Easter Bread",
+    "recipePhoto": "https://lh3.googleusercontent.com/jKCDYdJDrI9RJVxIjrEszxJD4mjn_XVgV0F_x5pKCWNQ0-WEVZJZ5L_kEGHkU7cp6_xF3nyq1vX6D5OsF2p3",
+    "ingredients": [
+        "3 cups all purpose flour",
+        "1 cup granulated sugar",
+        "3 tablespoons unsweetened cocoa powder",
+        "1 cup honey",
+        "1 teaspoon ground nutmeg",
+        "1 tablespoon butter",
+        "1 cup milk",
+        "1 teaspoon baking powder"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Oven, Breads, Glazing, Portuguese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-Rolls-2410992",
+    "recipeName": "Portuguese Sweet Bread Rolls",
+    "recipePhoto": "https://lh3.googleusercontent.com/zX0H8XsBRb1NqCxXVsCy7PILm-rGg3WdnjYoQXZG6xcO-B3HJnTslvRvWsVXPvTtGYEbUhboQQYVl-Dv6ULl8A",
+    "ingredients": [
+        "4 tablespoons butter",
+        "5 1/16 tablespoons milk warm",
+        "3 eggs slightly beaten",
+        "5/8 cup sweetened condensed milk",
+        "3 1/2 cups all purpose flour",
+        "1/2 lemon",
+        "2 tablespoons brown sugar",
+        "1/2 teaspoon salt",
+        "1 package yeast 2 1/4 tsp or about 50 g of fresh yeast",
+        "1 egg for egg wash",
+        "sesame seeds or sugar optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Breads, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Rolls-1562451",
+    "recipeName": "Portuguese Sweet Rolls",
+    "recipePhoto": "https://lh3.googleusercontent.com/D5ciOpm8mOJ13ltuo9P0UtwKkGsfeQL_b0eTLUSfcm6foQYIVlP9vswOF9_tE_PCCChiEzdfTwx0X2xrN4xy",
+    "ingredients": [
+        "3 1/2 cups ap flour",
+        "1/2 teaspoon salt",
+        "2 1/4 teaspoons active dry yeast",
+        "75 milliliters milk warm",
+        "2 tablespoons brown sugar",
+        "3/4 cup sweetened condensed milk",
+        "3 eggs",
+        "4 tablespoons butter",
+        "1/2 lemon or lime"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "24 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Boleima-Bread-from-Alter-do-Chao-897560",
+    "recipeName": "Portuguese Boleima Bread from Alter-do-Chao",
+    "recipePhoto": "https://lh5.ggpht.com/Zfr9gs8Et3QLu_HUzCVDJz8Tcz-ECYIiea7eMGfTc7bMAeNodvjn3MYpS6fPyczCzsxVR1e2wIgt7Q5SkWSAjQ",
+    "ingredients": [
+        "4 cups plain flour",
+        "1 3/8 cups brown sugar",
+        "3 eggs",
+        "5/8 cup olive oil",
+        "7/8 cup instant coffee",
+        "1 lemon zest",
+        "1 teaspoon cinnamon",
+        "1 teaspoon baking powder",
+        "sugar for garnish",
+        "cinnamon for garnish"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Portuguese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-1906076",
+    "recipeName": "Portuguese Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/MJSuDDnVztWJB-4hmdEVp1CcvZYbPWbkkQj_8QdmOOSlZ3zYT0YMN93fCJLXH0WRx5FSh-ffLu_pLuXQ23xL",
+    "ingredients": [
+        "4 egg yolks",
+        "1 cup caster sugar",
+        "2 tablespoons cornflour",
+        "1 11/16 cups milk light",
+        "2 teaspoons vanilla extract",
+        "2 sheets puff pastry"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "12 servings",
+    "tags": "Oven, Desserts, Tart, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Lindas-Portuguese-Baked-Beans-1122875",
+    "recipeName": "Linda\u2019s Portuguese Baked Beans",
+    "recipePhoto": "https://lh3.googleusercontent.com/4zotIO2OegqNmZAhguieMqqvgOsyrBbiimx9RTK6EuPv88TJwtsbzpkaYaJ_OvqKTlvTrDepYcomGBN2jOtg2g",
+    "ingredients": [
+        "1 tablespoon extra-virgin olive oil",
+        "1/2 green pepper small dice",
+        "1 cup onion small dice",
+        "1 pound portuguese chorizo skin removed, small dice",
+        "1 clove garlic minced",
+        "12 ounces tomato paste I used Hunts",
+        "2 cups water",
+        "3 tablespoons white vinegar",
+        "2 teaspoons paprika",
+        "1 1/2 cups light brown sugar packed",
+        "2 teaspoons kosher salt",
+        "64 ounces navy beans rinsed and drained"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "16 servings",
+    "tags": "Easy, Baked Beans, Browning, Oven, Sauteeing, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Rice-CakeXL-bolo-de-arroz-2099317",
+    "recipeName": "Portuguese Rice Cake\u2026XL bolo de arroz",
+    "recipePhoto": "https://lh3.googleusercontent.com/YxeQue9Z4gPRqFTpTMzVwdVfxik31svefMUwMKV1E7KydW8KX31Rjw_udtc9E-Wvd2jB8sY1llA-LfbZQUVh",
+    "ingredients": [
+        "6 medium eggs separate the whites from the yolks",
+        "4 1/4 tablespoons butter at room temperature",
+        "3/4 cup sugar",
+        "1 jigger whisky",
+        "1 cup rice flour",
+        "1 teaspoon baking powder"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Easy, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-_-Pasteis-De-Nata-2688958",
+    "recipeName": "Portuguese Custard Tarts / Paste\u0301is De Nata",
+    "recipePhoto": "https://lh3.googleusercontent.com/L3ZQNqRrExzxPo0FJvHtAO7oGDc7qtjs-rzUrhRy7VxMBeoczJH6xbG1LpeJJP6GjcECA8IhMcwYY_q6bqiL",
+    "ingredients": [
+        "1 1/4 cups milk",
+        "3 tablespoons cornflour",
+        "1 1/4 cups caster sugar",
+        "3 eggs yolks",
+        "2 teaspoons vanilla extract",
+        "1 1/8 pounds puff pastry Block",
+        "3 3/8 tablespoons water",
+        "vanilla pod optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Desserts, Quick, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Linda_s-Portuguese-Baked-Beans-2411680",
+    "recipeName": "Linda's Portuguese Baked Beans",
+    "recipePhoto": "https://lh3.googleusercontent.com/EB2nOjLQKZsOhGbq-ml5DpWIo54QrG_OE8h6n1VJCw0qZqbXcWrY-Rf6VSAaHga763oT5iUxLfihnHtQM95C1A",
+    "ingredients": [
+        "1 tablespoon extra virgin olive oil",
+        "1/2 green pepper small dice",
+        "1 cup onion small dice",
+        "1 pound chorizo Portuguese Cooked, skin removed, small dice",
+        "1 clove garlic minced",
+        "12 ounces tomato paste",
+        "2 cups water",
+        "3 tablespoons white vinegar",
+        "2 teaspoons paprika",
+        "1 1/2 cups light brown sugar",
+        "2 teaspoons kosher salt",
+        "64 ounces navy beans rinsed and drained"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Easy, Baked Beans, Browning, Sauteeing, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-2360706",
+    "recipeName": "Portuguese Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/XqBko_Cb_kiEs_bbUp_0g6udbEIChRTarJijVR4pkKfKo6TLM1l_5dDqTQQ_G7bV7bPjuTkZ8GZkIEvSYh37Q7U",
+    "ingredients": [
+        "2 sheets puff pastry ready rolled",
+        "4 teaspoons caster sugar",
+        "4 tablespoons cornflour",
+        "4 tablespoons custard powder",
+        "4 cups milk",
+        "8 egg yolks",
+        "1 1/2 cups caster sugar",
+        "1 teaspoon vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "24 servings",
+    "tags": "Baking, Tart, Desserts, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-472262",
+    "recipeName": "Portuguese Sweet Bread",
+    "recipePhoto": "https://lh4.ggpht.com/yFuR28TIUyjyxBtlJKtsgGGvetW1MxLVrJ85u1lpOfBO8sYu6W_tisIzI89Qd7Rx6cc09sFJIFmLMcfTLRHVn7Y",
+    "ingredients": [
+        "1/2 ounce active dry yeast",
+        "1/4 cup warm water 100 to 110 degrees F",
+        "1 cup white sugar granulated",
+        "1 cup milk hot scalded",
+        "1/4 cup unsalted butter",
+        "1 teaspoon salt",
+        "3 large eggs well beaten",
+        "7 1/2 cups all purpose flour sifted, measure, then sift"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "2 servings",
+    "tags": "Oven, Baking, Quick, Breads, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Potato-Hash-with-Linguica_-Peppers-_-Olives-2568907",
+    "recipeName": "Portuguese Potato Hash with Linguica, Peppers & Olives",
+    "recipePhoto": "https://lh3.googleusercontent.com/C6azAlrgVpjCP9NPeCMLn4VekZxpKoDuWk86KEamaPgMYnAmubsQt9r8Cfq3NJnUTH3-eZKcc-_BJze2rCxucN8",
+    "ingredients": [
+        "2 pounds russet potatoes scrubbed and diced in uniform 1/2 inch pieces",
+        "cooking oil Extra, for frying",
+        "1 yellow onion medium, diced",
+        "2 cloves garlic minced",
+        "3/4 cup garbanzo beans canned, rinsed and drained",
+        "2 teaspoons sweet paprika",
+        "3/4 teaspoon smoked paprika",
+        "1 1/2 teaspoons salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "3/4 cup roasted red peppers Lindsay, drained and diced",
+        "1/3 cup green olives Lindsay Naturals, drained and halved",
+        "1/3 cup black olives Lindsay Naturals, drained and halved",
+        "4 large eggs",
+        "1/4 cup chopped parsley fresh",
+        "chopped parsley Extra, for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Browning, Main Dishes, Source of Omega-3s, Low Sugar, Low Saturated Fat, High Carb, High Potassium, High Protein, High Iron, High Fiber, Baking, Frying"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Quick-version-of-portuguese-Christmas-cake-_Bolo-Rei_-2615538",
+    "recipeName": "Quick version of portuguese Christmas cake (Bolo-Rei)",
+    "recipePhoto": "https://lh3.googleusercontent.com/55x7YZrHAiWu41g1AAnl4dP38-5_EnArkiMfdQPjv0HN-W1sNxiULDCDNMW4JX23f_hRKsO2CRZnZ1YNP4uQtw",
+    "ingredients": [
+        "2 3/4 cups all purpose flour",
+        "2 3/8 tablespoons sugar",
+        "1/4 teaspoon fine salt",
+        "2 teaspoons baking powder",
+        "9/16 pound natural yoghurt",
+        "5 5/8 tablespoons melted butter",
+        "1 Orange",
+        "1 lemon",
+        "1 teaspoon cinnamon",
+        "1 tablespoon port wine",
+        "1 5/16 cups candied fruit chopped, usually use coloured pumpkin and cherries",
+        "1 3/8 cups chopped nuts roughly, /dried fruits, usually use pine nuts, walnuts, almonds, raisins",
+        "1 egg wisked",
+        "sugar powder for decoration",
+        "candied fruits",
+        "nuts"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Desserts, Christmas, Browning, Cake, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Black-Olive-Cookies-2373352",
+    "recipeName": "Portuguese Black Olive Cookies",
+    "recipePhoto": "https://lh3.googleusercontent.com/BZ8DWcWNV493WK9tBKKmhEI0g5uMebXvfBWWxXmWHJTnEjisXerharmlLugrrtq3N1HRUCD5aHWHExYL05LgdQ",
+    "ingredients": [
+        "1/4 cup sugar",
+        "2 tablespoons grated orange zest freshly",
+        "1 1/2 cups all purpose flour",
+        "1/2 cup oil cured black olives pitted & chopped, about 1/3 cup when chopped",
+        "1/4 teaspoon baking powder",
+        "1/4 teaspoon kosher salt",
+        "1 large egg",
+        "1/4 cup extra-virgin olive oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Desserts, Baking, Cookies"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Francesinha-Sandwich-898068",
+    "recipeName": "Portuguese Francesinha Sandwich",
+    "recipePhoto": "https://lh3.ggpht.com/ul9AzbV0MD78ANE9Jl3ej_n9t8-PTkRi0EpzlM_o-L3sc4wS7bzzKG4MnPaZheePBhduYRyk4sw_tdaJhI297R8",
+    "ingredients": [
+        "1 beef stock cube",
+        "1 deciliter milk",
+        "1 beer",
+        "2 bay leaves",
+        "1 tablespoon margarine",
+        "1 cup port wine",
+        "1 tablespoon cornstarch",
+        "2 tablespoons tomato paste",
+        "hot chili to taste",
+        "2 slices bread",
+        "ham to taste",
+        "sausages to taste",
+        "sausage to taste",
+        "steak",
+        "roast beef",
+        "roast beef",
+        "cheese to taste",
+        "french fries to accompany",
+        "1 fried egg"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Baking, Lunch, Sandwich, Oven, Boiling, Browning, Roasting"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts---Pasteis-de-Nata-1902234",
+    "recipeName": "Portuguese Custard Tarts - Pasteis de Nata",
+    "recipePhoto": "https://lh3.googleusercontent.com/nEmcXj_220jbdjEEcEa-eP2HyWZBaT1ZbEi0Nf3F1eXqkLL5k2ygqLY-GbGKgXHtnecgJ6RP08AsROIZKCVe",
+    "ingredients": [
+        "1 cup milk",
+        "3 tablespoons cornstarch",
+        "1/2 vanilla bean",
+        "1 cup white sugar",
+        "6 egg yolks",
+        "17 1/2 ounces frozen puff pastry thawed"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "12 servings",
+    "tags": "Oven, Desserts, Tart, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Puff-Pastry-with-Marinated-Portuguese-Sardines-898027",
+    "recipeName": "Puff Pastry with Marinated Portuguese Sardines",
+    "recipePhoto": "https://lh3.ggpht.com/lOCbujqSwiJY6jlJqY__RsjlV74hM-0ZBh_wy3nXr1FV84_tD7Kcr_2KNCGPpAIokcuGaiYAyST2BkwVUiJ7kMQ",
+    "ingredients": [
+        "1 package puff pastry",
+        "2 cans sardines marinated portuguese, with the bones removed",
+        "1 egg for brushing"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Easy, Portuguese, Marinating"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Rice-Pudding-_Arroz-Doce_-2512360",
+    "recipeName": "Portuguese Sweet Rice Pudding (Arroz Doce)",
+    "recipePhoto": "https://lh3.googleusercontent.com/fJPNSMyeU6tGhw__YMY0B5OwE2bsoQxALh7COfDvCG8jtYQsSh7OU_RQpPRp69ytXQJvK8j1Ywe4YHP8dbdz",
+    "ingredients": [
+        "1 cup milk 1/2 cup cold and 1/2 cup hot",
+        "3 tablespoons cornstarch",
+        "1 cup white sugar",
+        "1 vanilla bean or 1/2 teaspoon pure vanilla extract",
+        "6 egg yolks",
+        "1 package frozen puff pastry thawed",
+        "2 tablespoons unsalted butter room temperature",
+        "powdered sugar",
+        "cinnamon"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Baking, Quick, Rice Pudding, Desserts, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-style-Baked-Rockfish-2397565",
+    "recipeName": "Portuguese-style Baked Rockfish",
+    "recipePhoto": "https://lh3.googleusercontent.com/wbvXVuY_YMoFVY9RmLHLoRRiGaPGGR3x2nOnC8KxDwRt6f6xRMzYPETyXaD0VVVeitROF8C87ry1BAs93FtA",
+    "ingredients": [
+        "4 rockfish steaks, 2-3 inches thick",
+        "6 potatoes small Red and white, chopped into 2 inch pieces",
+        "2 plum tomatoes chopped 2 inch pieces",
+        "1 small onion sliced",
+        "1 clove garlic minced",
+        "1 tablespoon olive oil",
+        "1 teaspoon paprika",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon pepper",
+        "1 tablespoon fresh parsley chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Easy, High Vitamin C, Baking, Main Dishes, Portuguese, Low Sodium, Low Sugar, High Potassium, High Protein, High Iron, High Fiber"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Tarts-_Pastel-de-Nata_-2061322",
+    "recipeName": "Portuguese Tarts (Pastel de Nata)",
+    "recipePhoto": "https://lh3.googleusercontent.com/fc36vRVhbpb_Hr_S7ABpXo6qY2sRMGKH7dlMiYtc1HmHYMVfXKp8evoR-7Y3YUBdm1xEt5N7IZtIzl9IGchClw",
+    "ingredients": [
+        "1 sheet puff pastry thawed",
+        "1 tablespoon unsalted butter melted",
+        "1/2 cup sugar",
+        "3 tablespoons cornstarch",
+        "4 egg yolks",
+        "1 egg",
+        "2 1/8 cups milk",
+        "2 tablespoons corn syrup",
+        "1/2 teaspoon vanilla extract",
+        "1 stick cinnamon",
+        "cinnamon uncheckedGround, to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT1M",
+    "serve": "4 servings",
+    "tags": "Desserts, Tart, Baking, Quick, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Plaice-fillets-in-the-oven-with-Portuguese-cornbread-1488204",
+    "recipeName": "Plaice fillets in the oven with Portuguese cornbread",
+    "recipePhoto": "https://lh3.googleusercontent.com/7DiIOXf-i0P0BecsEFL87jJYWD2eGjKLv82a-AtLNfotoHdCTOm6sW8x5fqmmAsVv0XFuq8_2QrIOopJOK_o1Q",
+    "ingredients": [
+        "1 1/8 pounds plaice fillets /, 17 1/2 ounces",
+        "5 cups cornbread /, 10 1/2 ounces Portuguese",
+        "parsley to taste",
+        "coriander to taste",
+        "5/8 cup olive oil /, 1/2 cup and 2 tablespoons",
+        "pepper to taste",
+        "1 lemon",
+        "4 cloves garlic",
+        "salt to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Portuguese, Main Dishes"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Pizza-1878623",
+    "recipeName": "Portuguese Pizza",
+    "recipePhoto": "https://lh3.googleusercontent.com/HopwaTaQPL1MNw2l0NvN7qs02WH5rQSFPBKkFu1Bsw2F7HFRrN6tVXxw0YsnRoB8tP3Ttu-5d0WESszCBYgAaw",
+    "ingredients": [
+        "1 pound pizza dough",
+        "1 cup pizza sauce homemade",
+        "3 cups shredded mozzarella",
+        "3 slices cooked ham uncured slow",
+        "1 onion large, thinly sliced",
+        "2 hard boiled eggs sliced",
+        "25 black olives I used kalamata olives",
+        "oregano to taste",
+        "olive oil to drizzle"
+    ],
+    "ratings": null,
+    "cookTime": "PT10M",
+    "serve": "4 servings",
+    "tags": "Baking, Main Dishes, Easy, Pizza, Oven, Quick and Easy, Quick"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Pasteis-de-nata-_Portuguese-custard-tarts_-1443835",
+    "recipeName": "Paste\u0301is de nata (Portuguese custard tarts)",
+    "recipePhoto": "https://lh3.googleusercontent.com/dexqfJGWq5QQQ0pqlwp5XTqh_OyVktzpHITdizeWlxR60iVP9-8QPrBUz13iUXIzGV_JwjfFvhLN_3uj6N1ynw",
+    "ingredients": [
+        "1 roll ready-made puff pastry",
+        "1 11/16 cups milk",
+        "2 egg yolks",
+        "1 whole egg",
+        "2 tablespoons corn flour",
+        "7/8 cup caster sugar",
+        "1/2 teaspoon vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Rolls-1778302",
+    "recipeName": "Portuguese Sweet Rolls",
+    "recipePhoto": "https://lh3.googleusercontent.com/3FH6HL2E1DvRs8rueyYA3pPxNg9hRJaz00Tb2ZIWWWD-4oCV_M7Ads4HN_dMAHIRVCYu3u8sSCQRR_2TEzZD2PA",
+    "ingredients": [
+        "3 1/2 cups ap flour",
+        "1/2 teaspoon salt",
+        "2 1/4 teaspoons active dry yeast",
+        "75 milliliters milk warm",
+        "2 tablespoons brown sugar",
+        "3/4 cup sweetened condensed milk",
+        "3 eggs",
+        "4 tablespoons butter",
+        "1/2 lemon or lime"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "24 servings",
+    "tags": "Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Baked-Creamy-Coconut-Chicken-1088135",
+    "recipeName": "Portuguese Baked Creamy Coconut Chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/cw__cGieQWA7s2ZyMcHopXhYXcvZstp5CpxvrDM3LYCsp7Ms0EKfvXTzPSDxYr8jnsqWe7cEgjjVlhKfcUMH-w",
+    "ingredients": [
+        "1 pound chicken thigh fillets",
+        "2 red potatoes 1-inch dice",
+        "3 carrots 1-inch dice",
+        "1 onion diced",
+        "1/2 green bell pepper seeds removed, diced",
+        "1/2 cup chicken broth",
+        "3/4 cup coconut milk",
+        "1/2 cup grated parmesan cheese",
+        "2 garlic gloves, minced",
+        "1 teaspoon turmeric powder",
+        "1/2 teaspoon cumin powder",
+        "ground black pepper",
+        "oil",
+        "3 teaspoons soy sauce",
+        "1 teaspoon Shaoxing wine",
+        "1 teaspoon corn starch",
+        "1 1/2 teaspoons sugar",
+        "1/2 teaspoon ginger juice",
+        "1/8 teaspoon salt",
+        "ground white pepper"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H15M",
+    "serve": "4 servings",
+    "tags": "Browning, High Vitamin C, Main Dishes, Oven, Baking, Marinating, Source of Omega-3s, Low Sugar, High Potassium, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Peri-Peri-Chicken-2270697",
+    "recipeName": "Portuguese Peri Peri Chicken",
+    "recipePhoto": "https://lh3.googleusercontent.com/0YfQtB4Jqb-Mc1DGEzB8t2xEklB9HgSJHSfiVCcjZb5qWrm-IEGBUld3p_tM1ptBUNTtDZqDHdOC0_P4RVQ29A",
+    "ingredients": [
+        "4 pounds chicken or 1 1/2kg to 2kg Sauce Whole",
+        "1 teaspoon smoked paprika",
+        "1 tablespoon seasoning salt Heat",
+        "1 teaspoon fresh rosemary",
+        "3 cloves minced Garlic",
+        "4 tablespoons fresh lemon juice",
+        "1/4 cup apple cider vinegar Heat",
+        "4 tablespoons olive oil",
+        "1 bay leaf",
+        "1 teaspoon tarragon",
+        "1 teaspoon basil",
+        "1/4 cup cold water",
+        "4 pounds whole chicken or 1 1/2kg to 2kg",
+        "marinade Piri Piri",
+        "10 Bird's eye chiles",
+        "3 serrano pepper chilies",
+        "red chili flakes or substitute for",
+        "1 tablespoon paparika",
+        "1 teaspoon smoked paprika",
+        "1 tablespoon seasoning salt",
+        "1 teaspoon fresh rosemary",
+        "3 cloves minced Garlic",
+        "4 tablespoons fresh lemon juice",
+        "1/4 cup apple cider vinegar",
+        "4 tablespoons olive oil",
+        "1 bay leaf",
+        "1 teaspoon tarragon",
+        "1 teaspoon basil",
+        "1/4 cup cold water"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "2 servings",
+    "tags": "Baking, Main Dishes, Drying, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-Iv-Allrecipes",
+    "recipeName": "Portuguese Sweet Bread IV",
+    "recipePhoto": "https://lh4.ggpht.com/0lXnlAJaDP18UkoKJ13eAfFnASYOwut1_xtFaVl2XIxiQxwJS58W1umYG9nJ7EQ74-pfLGs9E2OYkRCdGhkN2b4",
+    "ingredients": [
+        "3 cups milk",
+        "1 cup butter",
+        "1/2 cup shortening",
+        "5 cups white sugar",
+        "3/4 ounce active dry yeast",
+        "1/2 cup warm water 110 degrees F/45 degrees C",
+        "12 eggs beaten",
+        "16 cups all-purpose flour",
+        "1 egg",
+        "2 tablespoons water"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "75 servings",
+    "tags": "Oven, Breads, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Wine-and-Garlic-Pork-_Portuguese-Vina-Dosh_-2163451",
+    "recipeName": "Wine and Garlic Pork (Portuguese Vina Dosh)",
+    "recipePhoto": "https://lh3.googleusercontent.com/TnmTxngnaAfM_vzAjYCp8_99_c1hsp_nLA0_avzBF2f28AYQ3ckuszAQOibZLLOPE96fKpu_AejqER_ZqUVTNw",
+    "ingredients": [
+        "1 1/2 cups red wine vinegar",
+        "3/4 cup red wine",
+        "7 cloves garlic crushed",
+        "3 bay leaves",
+        "8 whole cloves or to taste",
+        "2 tablespoons ground black pepper",
+        "2 teaspoons salt",
+        "1/2 teaspoon dried thyme",
+        "3 pounds boneless pork shoulder cut into 1-inch cubes",
+        "2 tablespoons vegetable oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "8 servings",
+    "tags": "Sugar Free, Baking, Main Dishes, Source of Omega-3s, Low Sugar, Low Saturated Fat, High Protein, Low Carb, Low Calorie, Low Fat"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Pizza-_Pizza-a-Portuguesa_-2100035",
+    "recipeName": "Portuguese Pizza (Pizza a\u0300 Portuguesa)",
+    "recipePhoto": "https://lh3.googleusercontent.com/_rgEHQ18segZzIIpC6SzrXsdmULpCVjVVAZa-xncv1Uts0AFppf5cofdC07GNbh8RtYwg4Xs5-FpZrnffwHU",
+    "ingredients": [
+        "1 pound pizza dough recipe here or a ready-made raw crust",
+        "4 tablespoons pizza sauce",
+        "3 cups shredded mozzarella divided",
+        "8 slices deli ham Black Forest",
+        "1 cup onions thinly sliced",
+        "12 green olives",
+        "2 boiled eggs thinly sliced",
+        "1 pinch oregano",
+        "extra-virgin olive oil for drizzling, about 1 tablespoon"
+    ],
+    "ratings": null,
+    "cookTime": "PT15M",
+    "serve": "5 servings",
+    "tags": "Baking, Main Dishes, Quick, Pizza"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-African-Mixed-Vegetables-2036547",
+    "recipeName": "Portuguese African Mixed Vegetables",
+    "recipePhoto": "https://lh3.googleusercontent.com/lObaQFIVrJLd0mpa0YrTFrRn1TsF_MacEAQU4nwY8sr3vRYovYL-nZl9mvAF-FP6HJybRpPUeTdNbxBMdmsC",
+    "ingredients": [
+        "1 eggplant large, trimmed and cut into cubes",
+        "2 large potatoes peeled and cut into cubes",
+        "2 carrots peeled and cut into chunks",
+        "1 red pepper . seeded and cut into chunks",
+        "3 tablespoons oil",
+        "1 onion cut into chunks",
+        "2 ginger \u2033 piece, peeled and minced finely",
+        "2 jalapeno peppers minced",
+        "4 garlic cloves minced",
+        "3 tablespoons tomato paste",
+        "2 tablespoons paprika",
+        "1/2 teaspoon ground ginger",
+        "salt",
+        "pepper",
+        "1 cup coconut milk",
+        "3 tablespoons peanut butter",
+        "1 bunch cilantro minced"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Sauteeing, Blending, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Maria_s-Portuguese-Bacalau-Allrecipes",
+    "recipeName": "Maria's Portuguese Bacalau",
+    "recipePhoto": "https://lh3.ggpht.com/1OAUJNUUvI1V26tBwEvBmAd3ipSBafxAfseV4DBYGWI1W_ZbCrCArg3lnPZK6LWQ6JtkGRfevAAcB56fmPvHlg",
+    "ingredients": [
+        "2 pounds cod fish dried salted",
+        "4 yukon gold potatoes",
+        "3 tablespoons butter",
+        "2 yellow onions thinly sliced",
+        "2 cloves garlic chopped, divided",
+        "1/2 cup fresh parsley chopped, divided",
+        "3/4 cup olive oil",
+        "1 1/2 teaspoons red pepper flakes",
+        "freshly ground pepper to taste",
+        "4 eggs hard cooked, chopped",
+        "10 green olives pitted",
+        "10 pitted black olives"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H",
+    "serve": "8 servings",
+    "tags": "Low Sodium, Browning, Main Dishes, Oven, Low Sugar, High Iron, Low Carb, Low Calorie, Sauteeing, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Broa-_Portuguese-Corn-Bread_-1258725",
+    "recipeName": "Broa (Portuguese Corn Bread)",
+    "recipePhoto": "https://lh3.googleusercontent.com/lnQnBtY099JR2cL3dHjiFY04j8vVyeiWGb-izlmDr0ndpl0t5yUFsoLdRXbpy0vWAk2UB71RfyfMV7xsLNSePg",
+    "ingredients": [
+        "1 cup yellow cornmeal",
+        "3/4 cup hot water",
+        "1/2 cup milk warmed",
+        "2 teaspoons instant yeast",
+        "2 1/2 cups unbleached all purpose flour",
+        "1 1/2 teaspoons salt",
+        "3 tablespoons honey",
+        "1 tablespoon olive oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "10 servings",
+    "tags": "Oven, Breads, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-1102489",
+    "recipeName": "Portuguese Sweet Bread",
+    "recipePhoto": "https://lh3.googleusercontent.com/9M8EHGzHEx8JI_0REDtxb8Qk5Vi6t7ehQpLZfpxqIPY05vmpjOfhTllqqVBz5_VCjUwH5GPnxpRbPZ9m7pP5eAs",
+    "ingredients": [
+        "1/2 cup bread flour",
+        "1 tablespoon sugar",
+        "2 1/4 teaspoons instant yeast",
+        "1/2 cup water",
+        "6 tablespoons sugar",
+        "1 teaspoon salt",
+        "1/4 cup powdered milk",
+        "4 tablespoons unsalted butter",
+        "2 large eggs",
+        "1 teaspoon lemon or almond extract",
+        "1 teaspoon orange extract",
+        "1 teaspoon vanilla extract",
+        "3 cups bread flour",
+        "6 tablespoons water room temperature",
+        "1 egg whisked with 1 Teaspoon water"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT6H",
+    "serve": "20 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Antonia_s-Portuguese-Stuffing-2583219",
+    "recipeName": "Antonia's Portuguese Stuffing",
+    "recipePhoto": "https://lh3.googleusercontent.com/Xi84v_I5szxXA0oZqtuqLLdCcLUrmbToG092dtMsne-OymmPbcTgg_9_eYwmlcY1EJy99SIZ-Plk4MhnEhQctA",
+    "ingredients": [
+        "1 pound ground beef 90/10",
+        "12 ounces chorizo peeled and small dice",
+        "1 tablespoon butter melted",
+        "2 celery stalks small dice",
+        "1/4 cup red onion small dice",
+        "2 cloves garlic minced",
+        "2 tablespoons fresh parsley chopped",
+        "12 ounces stuffing mix I used Pepperidge Farm Country Style",
+        "2 1/2 cups fat free chicken broth"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "18 servings",
+    "tags": "Easy, Low Sugar, Browning, Side Dishes, High Protein, High Iron, Sauteeing, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Broa-_Portuguese-Corn-Bread_-2020142",
+    "recipeName": "Broa (Portuguese Corn Bread)",
+    "recipePhoto": "https://lh3.googleusercontent.com/n8qn8kVLT6BrVVI8Pb98Hsyeiqz-F2uoTtqUQNbr6sg6aEAXU1kU0FizehxAslN9IpQuoqkO_qB2KmGehUMEGg",
+    "ingredients": [
+        "1 cup yellow cornmeal",
+        "3/4 cup hot water",
+        "1/2 cup milk warmed",
+        "2 teaspoons instant yeast",
+        "2 1/2 cups unbleached all purpose flour",
+        "1 1/2 teaspoons salt",
+        "3 tablespoons honey",
+        "1 tablespoon olive oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "10 servings",
+    "tags": "Breads, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-King-Cake-1436208",
+    "recipeName": "Portuguese King Cake",
+    "recipePhoto": "https://lh3.googleusercontent.com/5fT_4go3_dBPIgi_7PjBNaw0iloM4GNvmy7OGxlHyzp2CJ8WrSOEHgTRuQu50-pVzX15C5IxJxPviOPO90KXAQE",
+    "ingredients": [
+        "3 cups all purpose flour /, 13 1/3 ounces",
+        "1 tablespoon yeast dry baker\u2019s",
+        "5 1/16 tablespoons water /, 5 tablespoons",
+        "1/2 cup sugar /, 3 1/2 ounces",
+        "1/2 teaspoon cinnamon",
+        "1 lemon",
+        "2 eggs",
+        "1 11/16 tablespoons port wine /, 1 3/4 tablespoons",
+        "3 5/8 tablespoons margarine /, 1 3/4 ounces, to room temperature",
+        "2/3 cup candied fruit /, 2 2/3 ounces",
+        "5 1/3 tablespoons dried fruits /, 2 2/3 ounces",
+        "1 egg for brushing",
+        "candied fruit",
+        "dried fruit",
+        "powdered sugar for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Browning, Cake, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/The-Most-Delicious-Pasteis-de-Nata-Portuguese-Custard-Tarts-1681908",
+    "recipeName": "The Most Delicious Pasteis de Nata \u2013 Portuguese Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/jVFISrQoRFxn1E_eA_YFKWMhtSLVtxqMavXOvWfpXNhXzDkaaA-9-gHaUnQcfQr6pF8GKpvmJ_SN857m7rlZEw",
+    "ingredients": [
+        "butter for greasing",
+        "2 1/8 cups milk",
+        "1/2 lemon peel",
+        "1 cinnamon stick",
+        "1 vanilla bean",
+        "9/16 cup all purpose flour",
+        "6 egg yolks large",
+        "7/8 cup water",
+        "2 1/4 cups sugar castor",
+        "1 3/8 pounds puff pastry roughly 2 packets",
+        "confectioners' sugar for dusting",
+        "cinnamon ground. For dusting"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Tart, Browning, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Potato-Hash-with-Linguica_-Peppers-_-Olives-1610906",
+    "recipeName": "Portuguese Potato Hash with Linguica, Peppers & Olives",
+    "recipePhoto": "https://lh3.googleusercontent.com/MjuKL8PZLtCaaiV3GTAjgltiX4oiLP22qe0yL04IDPnl-0MpsHb_Be1pVAD3oEqDb57-ZR3g0qQhbNX44YyUbA",
+    "ingredients": [
+        "1/2 pound sausage lingui\u00e7a, diced, if you don't have access to lingui\u00e7a select the most flavorful substitute you can find",
+        "2 pounds russet potatoes scrubbed and diced in uniform \u00bd inch pieces",
+        "cooking oil Extra, for frying",
+        "1 yellow onion medium, diced",
+        "2 cloves garlic minced",
+        "3/4 cup garbanzo beans canned, rinsed and drained",
+        "2 teaspoons sweet paprika",
+        "3/4 teaspoon smoked paprika",
+        "1 1/2 teaspoons salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "3/4 cup roasted red peppers, drained Lindsay, and diced",
+        "1/3 cup green olives Lindsay Naturals, drained and halved",
+        "1/3 cup black olives Lindsay Naturals, drained and halved",
+        "4 large eggs",
+        "1/4 cup chopped parsley fresh",
+        "chopped parsley Extra, for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Frying, Main Dishes, Oven, Source of Omega-3s, Low Sugar, High Carb, High Potassium, High Protein, High Iron, High Fiber, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Alheira-Garlic-Sausages-and-Spring-Cabbage-Pie-898106",
+    "recipeName": "Portuguese Alheira Garlic Sausages and Spring Cabbage Pie",
+    "recipePhoto": "https://lh5.ggpht.com/iOLjwEMyCH3C9K7dGeunr4zTvYpA7gLVfPg3bdmFCGsxC7YFgpoxYz3hwauTv5NReR7qx0wtj8e3lT0YQhxLPA",
+    "ingredients": [
+        "cabbage Spring, sliced",
+        "2 cups rice",
+        "1 onion chopped",
+        "2 garlic cloves chopped",
+        "4 cups vegetable broth boiling",
+        "2 Topiteu alheiras (Portuguese garlic sausages)",
+        "4 eggs",
+        "olive oil",
+        "salt to taste"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Baking, Pie, Main Dishes, Sauteeing, Browning, Frying"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Donuts-2576646",
+    "recipeName": "Portuguese Donuts",
+    "recipePhoto": "https://lh3.googleusercontent.com/ylD6SMOB30ju7DgFHsSEAXuEQu5uC0m6mGMyAYCfBP3-49dAnzFCYUMopIkfW5yNYh9rijowr7XgHfxrU56B",
+    "ingredients": [
+        "4 cups bread cubes dried white or cinnamon swirl, 6 to 7 slices",
+        "1/3 cup raisins dried cranberries, or other snipped dried fruit",
+        "2 eggs slightly beaten",
+        "2 cups milk",
+        "1/4 cup butter melted",
+        "1/2 cup sugar",
+        "1 teaspoon ground cinnamon",
+        "1/2 teaspoon ground nutmeg",
+        "1 teaspoon vanilla",
+        "3 cups all purpose flour",
+        "1/2 cup brown sugar packed",
+        "2 1/2 teaspoons baking powder",
+        "1 1/2 teaspoons pumpkin spice",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon baking soda",
+        "1/2 cup pumpkin pure\u00e9",
+        "2 eggs",
+        "1/4 cup milk",
+        "1/4 cup butter",
+        "1/4 cup sugar",
+        "1/4 teaspoon pumpkin spice",
+        "1/4 teaspoon cinnamon",
+        "2 cups sugar",
+        "12 eggs",
+        "1 bar butter",
+        "1 can milk and \u00bd to 1 can of milk",
+        "lemon Boil, slivers with milk",
+        "2 tablespoons salt",
+        "3 yeast",
+        "1 tablespoon sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Glazing, Doughnut, Browning, Baking, Frying"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Snow-Drops-1920296",
+    "recipeName": "Portuguese Snow Drops",
+    "recipePhoto": "https://lh3.googleusercontent.com/fIl7rJVGVOhNTRIrHvCqijjfxAuZ5ev63gbqZ5ZA77VxXO-AuxdzKLUUkIGMpyhNj3BXV-M828m0qY6-bQPSWw",
+    "ingredients": [
+        "3 egg whites",
+        "1 cup white sugar",
+        "1/2 teaspoon lemon juice"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "10 servings",
+    "tags": "Oven, Desserts, Quick and Easy, Browning, Quick, Easy, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Pavlova-2055547",
+    "recipeName": "Portuguese Pavlova",
+    "recipePhoto": "https://lh3.googleusercontent.com/xn_heGFHKcWvilAoioSVqTpaYPbC3ofAMFE7Cnw1UUUuKU11K6NrnG-IFytfgjgahCtbc6r9885bzFMhtl3Leg",
+    "ingredients": [
+        "6 egg whites",
+        "2 1/4 cups powdered sugar",
+        "1 pinch fine salt",
+        "1 1/2 teaspoons vinegar",
+        "3 cornstarch teapoons",
+        "6 egg yolks",
+        "1 1/4 cups sugar",
+        "6 3/4 tablespoons water",
+        "11/16 cup almonds coarsely chopped",
+        "2 tablespoons sugar",
+        "1 tablespoon water",
+        "cinnamon to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Desserts, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-2346281",
+    "recipeName": "Portuguese Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/nx9Y6YaNKqUAlJLtsjbC9t9oJlfDfgCYxCPYZhT4ez-GSN3Y7U7wP4Vb-3PbFS-tJMKBqmJ65qDMUDiQpYHjLG8",
+    "ingredients": [
+        "butter for greasing",
+        "3 egg yolks free-range",
+        "1 cup caster sugar",
+        "4 1/8 tablespoons cornflour",
+        "1 vanilla pod split, seeds scraped out",
+        "3/4 cup full-fat milk",
+        "1 cup double cream",
+        "2/3 pound puff pastry ready-rolled",
+        "plain flour for dusting",
+        "icing sugar for dusting"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "12 servings",
+    "tags": "Desserts, Tart, Browning, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Ling-fish-in-the-oven-with-Portuguese-cornbread-2163993",
+    "recipeName": "Ling fish in the oven with Portuguese cornbread",
+    "recipePhoto": "https://lh3.googleusercontent.com/Zm4VmKu4cd-QrIFXqKVKfCIuBPau_DMBKL9QMSnwjWtgifp6oUI4b_cG74BfFRLF5QKasmTCavPGSd9XbP3P",
+    "ingredients": [
+        "2 fish steaks ling, about 450 grams /, 1 pound",
+        "6 3/4 tablespoons olive oil /, 6 3/4 tablespoons",
+        "1 tomato medium ripe",
+        "1 onion medium",
+        "1/2 lemon",
+        "2 lemon slices",
+        "pepper to taste",
+        "1 1/4 cups cornbread /, 2 2/3 ounces Portuguese",
+        "coriander to taste",
+        "2 cloves garlic",
+        "salt to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "2 servings",
+    "tags": "Baking, Main Dishes"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Bread-French-Toast-Allrecipes",
+    "recipeName": "Portuguese Bread French Toast",
+    "recipePhoto": "https://lh4.ggpht.com/32rzAMQ_lxrf3bj8GEyJWgnf4OBiiflFwkDm8dKkCsIBjZxIttpzWENDuzwY2tZy5gWcOurlv_kK8lDaE4JJvQ",
+    "ingredients": [
+        "5 eggs",
+        "4 cups milk",
+        "1/4 cup white sugar",
+        "1/2 teaspoon ground cinnamon",
+        "1/2 teaspoon grated nutmeg freshly",
+        "1 teaspoon orange zest",
+        "1 pound portuguese sweet bread",
+        "2 tablespoons unsalted butter cubed"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "6 servings",
+    "tags": "Oven, Easy, French Toast, High Vitamin D, Breakfast and Brunch, Baking, High Calcium, High Protein"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Egg-Tarts-AllRecipes-36932",
+    "recipeName": "Portuguese Egg Tarts",
+    "recipePhoto": "https://lh5.ggpht.com/aCjsGJxPZFUEh35UsuGIHhamU3KujhlJ67uY0-88bzNCa8sy7J82tHZktLeKr_GF2PGkl4cbsijzfHUnqC_A7w",
+    "ingredients": [
+        "cooking spray",
+        "11 ounces pie crust mix, such as Betty Crocker\u00ae",
+        "3 tablespoons butter cold, cubed",
+        "1/3 cup cold water",
+        "4 egg yolks",
+        "1/3 cup white sugar or to taste",
+        "1/3 cup heavy cream",
+        "1/3 cup milk",
+        "3 drops vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "12 servings",
+    "tags": "Oven, Baking, Desserts, Tart, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cod-Fish-Casserole-1605771",
+    "recipeName": "Portuguese Cod Fish Casserole",
+    "recipePhoto": "https://lh3.googleusercontent.com/zADv_VvBM4O5C0pHLVbZUogAzSTUcQBxAt_VzUIfxq1np0MKLQdUBVMNfiQxXGBLYDJrovs7JJNpyEF4TTM_",
+    "ingredients": [
+        "2 pounds cod fish salted",
+        "5 large potatoes peeled and sliced",
+        "3 onions large, sliced",
+        "3/4 cup olive oil",
+        "2 cloves garlic minced",
+        "1 tablespoon fresh parsley chopped",
+        "1 1/2 teaspoons crushed red pepper flakes",
+        "1 teaspoon paprika",
+        "3 tablespoons tomato sauce"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT1H5M",
+    "serve": "12 servings",
+    "tags": "Oven, Casserole, High Vitamin C, Baking, Main Dishes, Low Sodium, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sausage-Dressing-My-Recipes",
+    "recipeName": "Portuguese Sausage Dressing",
+    "recipePhoto": "https://lh3.ggpht.com/xLddh-KWX2fFgAH_JOU7_p1wZ-dA9x5qv-oSy08Nq-Un13UHWUmqagRbc5hUzwyuRB_wnyLrUZlBSUlrJqWCww",
+    "ingredients": [
+        "1 cup marinade from Hawaiian-Portuguese Smoked Turkey",
+        "1/2 cup butter",
+        "3 cups chopped celery finely",
+        "2 cups chopped onion",
+        "1 3/4 cups low sodium chicken broth",
+        "1 teaspoon poultry seasoning",
+        "1 teaspoon fresh sage minced",
+        "1 tablespoon minced garlic",
+        "1 ounce sausages lingui\u00e7a, Portuguese",
+        "16 cups white bread 3/4-in. cubes coarse, crusty",
+        "1/2 cup flat leaf parsley chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "16 servings",
+    "tags": "Oven, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cornbread-1607943",
+    "recipeName": "Portuguese Cornbread",
+    "recipePhoto": "https://lh3.googleusercontent.com/aGaiV6D9tAol594sseUCa9T7CMkQ_JzD1iPcEMRWwPkvXZyzpl_6sYzt0FXJba1c1dKvf10pVTS3KV6ivQt0CA",
+    "ingredients": [
+        "1 1/2 cups cornmeal",
+        "1 1/2 teaspoons salt",
+        "1 cup boiling water",
+        "2 tablespoons olive oil",
+        "1/4 ounce active dry yeast",
+        "1 teaspoon white sugar",
+        "1/4 cup warm water 110 degrees F/45 degrees C",
+        "2 cups all purpose flour"
+    ],
+    "ratings": 4.0,
+    "cookTime": "PT2H",
+    "serve": "12 servings",
+    "tags": "Oven, Breads, Blending, Cornbread, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-for-the-Bread-Machine-1876937",
+    "recipeName": "Portuguese Sweet Bread for the Bread Machine",
+    "recipePhoto": "https://lh3.googleusercontent.com/grUY_s6DcYHnCXrMu8iBhHftVRvSbCsAPCimc7-apHLAvLdZORUOqIHt_DlgwUlkDcio1lhTvSUrauJSzWJud7c",
+    "ingredients": [
+        "3 cups bread flour",
+        "1/3 cup sugar",
+        "3/4 teaspoon salt",
+        "2 tablespoons margarine",
+        "1 egg",
+        "2 1/2 teaspoons yeast",
+        "1 cup milk"
+    ],
+    "ratings": null,
+    "cookTime": "PT3M",
+    "serve": "4 servings",
+    "tags": "Breads, Quick, Baking, Portuguese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Egg-Custard-Tarts-1669900",
+    "recipeName": "Portuguese Egg Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/jE6hYVph-gMzf0kwysoLei42xdxYE8lm5dMDlyPAvlOfvzAcbpUZWd7dMLJ2wWPXwIaSE33ZEgDcUdetbQl3xFY",
+    "ingredients": [
+        "1 1/2 cups flour",
+        "1 teaspoon salt",
+        "1 cup butter softened",
+        "2 1/2 cups heavy cream",
+        "9 egg yolks",
+        "9 tablespoons sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Desserts, Tart"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Olive-Oil-Orange-Cake-1669905",
+    "recipeName": "Portuguese Olive Oil Orange Cake",
+    "recipePhoto": "https://lh3.googleusercontent.com/Eidzk7v1LkZAsuM6IPRhDptQYhfghO3_nNHXbSN92IljMbHvdpa_p0vrgVIoMhwAlBg3ajriS15oD8gqxTAznw",
+    "ingredients": [
+        "1 1/2 cups extra-virgin olive oil",
+        "1 1/2 cups orange juice preferably freshly squeezed",
+        "5 eggs",
+        "3 1/2 cups all purpose flour",
+        "1 1/2 teaspoons baking powder",
+        "1 3/4 teaspoons kosher salt",
+        "3 cups granulated sugar",
+        "3 zest oranges",
+        "1 cup confectioner sugar",
+        "2 teaspoons orange juice"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Easy, Glazing, Cake, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Muffins-2186557",
+    "recipeName": "Portuguese Muffins",
+    "recipePhoto": "https://lh3.googleusercontent.com/q6Pw3cbamLzGV9-pynb-to5ipEBr4Ab2MTi8ViMYfO3qtKj9gKiz1An1rA2aZeuF9DCKcNWQbFIT9sHL4j21UQ",
+    "ingredients": [
+        "1 cup milk",
+        "1/4 cup butter soft",
+        "3 1/2 cups flour King Arthur Unbleached All-Purpose, or 3 3/4 cups Pastry Flour Blend",
+        "1/4 cup potato flour optional, See \"tips\", below.",
+        "1/4 cup soy flour optional, See \"tips\", below.",
+        "1/4 cup sugar",
+        "2 1/2 teaspoons instant yeast",
+        "1 1/2 teaspoons salt",
+        "2 eggs",
+        "2 teaspoons vanilla extract",
+        "1/8 teaspoon lemon oil or 1 tablespoon grated lemon peel or 1 teaspoon Sweet Dough Flavor"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H38M",
+    "serve": "10 servings",
+    "tags": "Breads, Muffins, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Gluten-Free-Portuguese-Masa-1657688",
+    "recipeName": "Gluten-Free Portuguese Masa",
+    "recipePhoto": "https://lh3.googleusercontent.com/wE837DGg1QZ6GGX-4rvC2BOQ3P6IiS7G8CjnNxjDKXe0-ryhn9XWTB7qQZXwacWTwI1dPzvatH8drXLSqTeHKQ",
+    "ingredients": [
+        "1 1/2 cups sorghum flour",
+        "2 cups brown rice flour",
+        "1 cup Quinoa Flour",
+        "1 cup white rice flour",
+        "2 cups arrowroot starch",
+        "1/2 cup millet flour",
+        "8 teaspoons xanthan gum",
+        "1 package yeast",
+        "1/4 cup warm water",
+        "3/4 cup milk I used unsweetened vanilla almond milk",
+        "8 tablespoons unsalted butter",
+        "3 eggs",
+        "1 cup sugar",
+        "2 tablespoons whiskey omit if extremely gluten-free, this has gluten in it",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon almond extract",
+        "1/2 teaspoon lemon extract",
+        "1 zest lemon"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Breads"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-Abm-Food_com-119920",
+    "recipeName": "Portuguese Sweet Bread Abm",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "7/8 cup milk",
+        "2 eggs",
+        "2 tablespoons butter",
+        "1/3 cup sugar",
+        "1 teaspoon salt",
+        "3 cups bread flour",
+        "2 teaspoons yeast"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H40M",
+    "serve": "1 servings",
+    "tags": "Baking, Portuguese, Breads, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-White-Bread-Food_com-113825",
+    "recipeName": "Portuguese White Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1 1/4 cups water",
+        "1/4 cup butter",
+        "1 tablespoon sugar",
+        "1 1/2 teaspoons salt",
+        "3 1/2 cups bread flour",
+        "2 teaspoons yeast"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H40M",
+    "serve": "1 servings",
+    "tags": "Breads, Baking, Portuguese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Chicken-Madeira-Recipezaar",
+    "recipeName": "Portuguese Chicken Madeira",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 roasting chicken 2.5 lbs, aprox.",
+        "4 garlic cloves",
+        "8 whole black peppercorns",
+        "1/3 cup Madeira wine",
+        "3 tablespoons olive oil",
+        "salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H1M",
+    "serve": "5 servings",
+    "tags": "Baked Chicken, Oven, High Vitamin C, Drying, Main Dishes, Low Sodium, Sugar Free, Low Sugar, High Protein, High Iron, Low Carb, Low Calorie, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-For-The-Bread-Machine-Recipezaar",
+    "recipeName": "Portuguese Sweet Bread for the Bread Machine",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1 cup milk",
+        "1 eggs beaten",
+        "2 tablespoons margarine",
+        "1/3 cup sugar",
+        "3/4 teaspoon salt",
+        "3 cups bread flour",
+        "2 1/2 teaspoons yeast"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H3M",
+    "serve": "1 servings",
+    "tags": "Baking, Portuguese, Breads, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Tea-Pudding-_pudim-De-Cha_-Recipezaar",
+    "recipeName": "Portuguese Tea Pudding (Pudim De Cha)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "1 cup sugar",
+        "4 eggs",
+        "8 egg yolks",
+        "2 cups tea very strong",
+        "1 cup heavy cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "8 servings",
+    "tags": "Baking, Desserts, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Cod-Fish-Casserole-_portuguese-Style_-Recipezaar",
+    "recipeName": "Cod fish Casserole (portuguese style)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1 1/2 pounds cod",
+        "1 cup olive oil",
+        "5 onions large, sliced",
+        "3 tomatoes sliced thinly",
+        "1/2 bunch collard greens chopped",
+        "6 potatoes large white, sliced"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H",
+    "serve": "6 servings",
+    "tags": "High Vitamin C, Casserole, Frying, Main Dishes, Oven, Low Sodium, Low Sugar, High Potassium, High Protein, High Fiber, Browning, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-Recipezaar_1",
+    "recipeName": "Portuguese Sweet Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1/2 cup water",
+        "1 cup milk",
+        "1 1/2 cups sugar",
+        "2 teaspoons salt",
+        "1/2 ounce yeast",
+        "1/2 cup butter",
+        "6 eggs one for brushing on massa before baking",
+        "9 cups flour"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H40M",
+    "serve": "36 servings",
+    "tags": "Oven, Breads, Baking, Portuguese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Rolls-2471409",
+    "recipeName": "Portuguese Sweet Rolls",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "7/8 cup milk",
+        "1 large egg",
+        "1/4 cup sugar",
+        "1 teaspoon salt",
+        "1 teaspoon lemon juice",
+        "1/4 teaspoon vanilla extract",
+        "3 cups bread flour",
+        "1 1/2 teaspoons yeast rapid rise or bread machine yeast"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H",
+    "serve": "4 servings",
+    "tags": "Breads, Baking, Portuguese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Mountain-Rice-_arroz-Da-Serra_-_-Portuguese-Brazil-Recipezaar",
+    "recipeName": "Mountain Rice (Arroz Da Serra) - Portuguese Brazil",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "2 cups rice",
+        "1 pound ground beef",
+        "6 bananas green",
+        "1 tablespoon vegetable oil",
+        "1/2 pound fresh goat cheese"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "7 servings",
+    "tags": "Oven, Easy, Browning, Sauteeing, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-Recipezaar",
+    "recipeName": "Portuguese Custard Tarts",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "3 sheets frozen puff pastry",
+        "2 tablespoons custard powder",
+        "2 tablespoons caster sugar",
+        "1 11/16 cups cream",
+        "1 orange zest of",
+        "1 teaspoon vanilla essence",
+        "icing sugar to dust"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "12 servings",
+    "tags": "Baking, Quick, Desserts, Tart, Oven, Boiling, Easy, Quick and Easy"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Hidden-Cod-_bacalhau-Escondido_-Recipezaar",
+    "recipeName": "Portuguese Hidden Cod (Bacalhau Escondido)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "1 cup cod precooked",
+        "2 onions chopped",
+        "1 1/2 pints heavy cream",
+        "16 ounces frozen potatoes o'brien",
+        "2 cups cheese shredded",
+        "1 tablespoon tomato ketchup",
+        "1 1/2 cups breadcrumbs"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "20 servings",
+    "tags": "Frying, Easy, Main Dishes, Oven, Baking, Stir Frying, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Queijadas-De-Feijao-_portuguese-Bean-Tarts_-Recipezaar",
+    "recipeName": "Queijadas de Feijao (Portuguese Bean Tarts)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "12 eggs separated",
+        "2 cans beans drained and mashed",
+        "2 cups sugar",
+        "2 tablespoons margarine",
+        "water"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "24 servings",
+    "tags": "Desserts, Easy, Baking, Portuguese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Orange-Torte-Recipezaar",
+    "recipeName": "Portuguese Orange Torte",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "3/4 cup sugar",
+        "3 eggs",
+        "1 orange juice and zest of",
+        "1 pinch cinnamon",
+        "1/2 cup sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H40M",
+    "serve": "6 servings",
+    "tags": "Desserts, Browning, Torte, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Creme-Caramel-_Portuguese_-Food_com-134217",
+    "recipeName": "Creme Caramel (Portuguese)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "5 1/16 tablespoons cold water",
+        "1 cup white sugar",
+        "1 cup white sugar",
+        "12 eggs",
+        "4 1/4 cups milk",
+        "1 cinnamon stick",
+        "1 strip lemon rind",
+        "1 teaspoon vanilla essence"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Baking, Desserts, Oven, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cinnamon-Wreaths-Recipezaar",
+    "recipeName": "Portuguese Cinnamon Wreaths",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1 cup butter softened, or margarine",
+        "3/4 cup sugar remove 2 Tablespoons of sugar & set aside",
+        "2 egg yolks",
+        "2 cups flour sifted",
+        "3/4 teaspoon salt",
+        "1/4 cup sherry wine",
+        "1/4 teaspoon cinnamon"
+    ],
+    "ratings": null,
+    "cookTime": "PT38M",
+    "serve": "20 servings",
+    "tags": "Desserts, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Batatas-a-Murro-Food_com-102914",
+    "recipeName": "Portuguese Batatas a Murro",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "5 baking potatoes large, Yukon Gold work best",
+        "extra-virgin olive oil",
+        "8 garlic cloves crushed",
+        "ground pepper fresh",
+        "green onion chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "5 servings",
+    "tags": "Easy, Baking, Portuguese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cinnamon-Butter-Cookies-_raivas_-Recipezaar",
+    "recipeName": "Portuguese Cinnamon Butter Cookies (Raivas)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "2 cups unbleached all purpose flour",
+        "1 teaspoon cinnamon",
+        "5 tablespoons unsalted butter softened",
+        "1/2 cup sugar",
+        "3 large eggs"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "24 servings",
+    "tags": "Oven, Desserts, Baking, Cookies"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cornbread-_Broa_-Food_com-292836",
+    "recipeName": "Portuguese Cornbread (Broa)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "1 1/2 cups yellow cornmeal",
+        "1 1/2 teaspoons salt",
+        "1 1/4 cups boiling water",
+        "1 tablespoon olive oil",
+        "1/2 ounce dry yeast",
+        "2 cups bread flour approx"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H40M",
+    "serve": "10 servings",
+    "tags": "Breads, Baking, Cornbread, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cornbread-_-Broa-Recipezaar",
+    "recipeName": "Portuguese Cornbread - Broa",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "1 1/2 cups yellow cornmeal pulverized in a blender until fine",
+        "1/2 teaspoon salt",
+        "1 cup boiling water",
+        "1 tablespoon olive oil",
+        "1 teaspoon olive oil",
+        "1/4 ounce active dry yeast or 1 compressed yeast cake",
+        "1 teaspoon sugar",
+        "1/4 cup water 110 to 115 degrees",
+        "2 cups all-purpose flour"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H10M",
+    "serve": "1 servings",
+    "tags": "Baking, Cornbread, Breads, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-_bacon-From-Heaven_-_toucinho-Do-Ceu_-Recipezaar",
+    "recipeName": "Portuguese 'bacon from Heaven' (Toucinho Do Ceu)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "2 cups sugar",
+        "1/2 cup water",
+        "2 cups ground blanched almonds finely",
+        "4 egg yolks beaten",
+        "6 egg yolks beaten",
+        "1 teaspoon ground cinnamon"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "7 servings",
+    "tags": "Oven, Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Egg-Bread-Recipezaar",
+    "recipeName": "Portuguese Egg Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "5 pounds flour",
+        "4 cups sugar",
+        "4 cakes compressed yeast, pkgs.",
+        "2 tablespoons salt",
+        "1/2 pound margarine 2 sticks",
+        "1/2 pound crisco 1 cup",
+        "9 eggs",
+        "1 quart milk 4 cups",
+        "1 quart water 4 cups"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H",
+    "serve": "50 servings",
+    "tags": "Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Chicken-Baked-With-Potatoes-And-Garlic-Recipezaar",
+    "recipeName": "Portuguese Chicken Baked With Potatoes and Garlic",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "3 pounds chicken cut into 12 pieces",
+        "2 pounds potatoes peeled and quartered",
+        "1 onion sliced",
+        "20 sprigs fresh rosemary",
+        "8 tablespoons olive oil",
+        "20 garlic cloves unpeeled",
+        "pepper",
+        "salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "5 servings",
+    "tags": "Baked Chicken, Oven, High Vitamin C, Baking, Main Dishes, Portuguese, Low Sodium, Low Sugar, High Potassium, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Paella-Recipezaar",
+    "recipeName": "Portuguese Paella",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "6 chicken thighs skinless, about 1 1/2 lbs.",
+        "1 teaspoon fresh rosemary chopped, or 1/4 teaspoon dried rosemary",
+        "3/4 teaspoon salt divided",
+        "1/4 teaspoon ground black pepper fresh",
+        "2 teaspoons canola oil",
+        "1 chourico link Portuguese, sliced in rounds",
+        "1 cup onion chopped",
+        "1/2 cup red bell pepper chopped",
+        "1 1/2 cups arborio rice uncooked, or 1 1/2 cups other medium grain rice",
+        "1/2 cup plum tomato diced",
+        "1 teaspoon sweet paprika",
+        "1/4 teaspoon saffron thread, crushed",
+        "1 garlic clove minced",
+        "3 cups chicken broth",
+        "3/4 pound large shrimp peeled and deveined",
+        "1 cup asparagus cut diagonally",
+        "1/2 cup frozen peas thawed"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "6 servings",
+    "tags": "Oven, High Vitamin C, Browning, Paella, Main Dishes, Spanish, Low Sodium, Source of Omega-3s, Low Sugar, High Protein, High Iron, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Rolls-Recipezaar",
+    "recipeName": "Portuguese Sweet Rolls",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1 cup water",
+        "1 potato medium, peeled and sliced",
+        "6 cups all purpose flour 6 to 6 1/2 cups",
+        "2/3 cup sugar",
+        "1/2 ounce fast rising yeast",
+        "2 teaspoons grated lemon peel optional",
+        "1 teaspoon salt",
+        "1/2 cup milk",
+        "1/2 cup butter or 1/2 cup margarine, cut into pieces",
+        "3 eggs",
+        "powdered sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H40M",
+    "serve": "20 servings",
+    "tags": "Baking, Breads, Oven, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Molotoff-_unique-Portuguese-Meringue-Pudding_-Recipezaar",
+    "recipeName": "Molotoff (Unique Portuguese Meringue Pudding)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "6 cups water",
+        "12 egg whites room temperature",
+        "12 tablespoons sugar 1 for each egg you are using",
+        "4 tablespoons caramel sauce",
+        "2 cups caramel sauce"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "7 servings",
+    "tags": "Oven, Desserts, Browning, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sardinhas-A-Setubal-_-Portuguese-Baked-Sardines-Recipezaar",
+    "recipeName": "Sardinhas a Setubal / Portuguese Baked Sardines",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "2 1/4 pounds sardines fresh, 1 kg, cleaned & scales removed",
+        "salt",
+        "pepper",
+        "1 tablespoon olive oil",
+        "1 1/4 cups tomatoes peeled, seeded, diced",
+        "2 garlic cloves",
+        "1 onion small, finely diced",
+        "4 tablespoons fresh parsley chopped",
+        "4 tablespoons fresh dill chopped",
+        "1 cup dry white wine"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "High Vitamin D, Baking, Main Dishes, Oven, High Calcium, Low Sugar, High Potassium, High Protein, High Iron, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Apple-Cake-Recipezaar",
+    "recipeName": "Portuguese Apple Cake",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "2 cups flour",
+        "2 cups sugar",
+        "1 cup oil",
+        "1/2 cup milk",
+        "4 eggs",
+        "3 teaspoons baking powder",
+        "1 teaspoon vanilla",
+        "3 cups apples 6 to 8, or 3 cups pears",
+        "3 tablespoons sugar",
+        "3 tablespoons cinnamon"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "8 servings",
+    "tags": "Oven, Desserts, Easy, Cake, Baking, Portuguese, Apple Cake"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Corn-Bread-_broa_-Recipezaar",
+    "recipeName": "Portuguese Corn Bread (Broa)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "1/4 ounce active dry yeast",
+        "1 teaspoon sugar",
+        "1 1/4 cups water warm",
+        "3/4 cup milk warm",
+        "1 teaspoon salt",
+        "1 tablespoon olive oil",
+        "2 cups yellow cornmeal",
+        "3 cups all-purpose flour"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H55M",
+    "serve": "6 servings",
+    "tags": "Breads, Baking, Cornbread, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Banana-Bread-With-Cashews-_pao-De-Banana_-_-Portuguese-Mozambiq-Recipezaar",
+    "recipeName": "Banana Bread With Cashews (Pao De Banana) - Portuguese Mozambiq",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "1/2 cup butter or margarine",
+        "1 1/3 cups sugar",
+        "3 eggs",
+        "1/2 teaspoon vanilla",
+        "1 cup mashed banana about 2",
+        "2 cups flour",
+        "2 teaspoons baking powder",
+        "1/4 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "3 tablespoons milk",
+        "1/2 cup cashews chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "10 servings",
+    "tags": "Easy, Breads, Baking, Banana Bread, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-French-Toast-Recipezaar",
+    "recipeName": "Portuguese French Toast",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "5 eggs",
+        "4 cups skim milk",
+        "1/4 cup white sugar",
+        "1/2 teaspoon cinnamon",
+        "1/2 teaspoon nutmeg",
+        "1 teaspoon orange zest",
+        "16 ounces portuguese sweet bread",
+        "2 tablespoons unsalted butter cubed"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "6 servings",
+    "tags": "Easy, French Toast, High Vitamin D, Breakfast and Brunch, Baking, Oven, High Calcium, High Protein"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Roasted-Potatoes-Recipezaar",
+    "recipeName": "Portuguese Roasted Potatoes",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "3 cups water",
+        "2 tablespoons red wine vinegar",
+        "3 tablespoons smoked paprika",
+        "1 teaspoon sugar",
+        "1 teaspoon salt",
+        "1 tablespoon ground pepper fresh",
+        "1 spanish onion medium, sweet onion, chopped",
+        "1 tomato large, seeded and chopped",
+        "3 tablespoons fresh parsley chopped",
+        "4 baking potatoes large, scrubbed and cut into 2-inch chunks",
+        "1 pound smoked sausage",
+        "1 can chorizo"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H15M",
+    "serve": "6 servings",
+    "tags": "High Vitamin C, Baking, Side Dishes, Portuguese, Oven, Low Sugar, High Potassium, High Protein, High Iron, High Fiber"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese_style-Baked-Fish-Recipezaar",
+    "recipeName": "Portuguese-Style Baked Fish",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "2 pounds fish fillets cod, haddock or other white fish.",
+        "2 tablespoons olive oil",
+        "1 onion chopped",
+        "1 leek cleaned and sliced, white part only",
+        "4 garlic cloves minced",
+        "1 1/2 cups plum tomatoes canned, about 1 medium sized can",
+        "2 tablespoons tomato paste",
+        "1 cup white wine",
+        "1/2 teaspoon cumin",
+        "1/2 teaspoon oregano",
+        "1/2 teaspoon rosemary",
+        "pepper",
+        "salt",
+        "1 green pepper sliced",
+        "1 lemon sliced",
+        "1 bunch fresh parsley minced"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "5 servings",
+    "tags": "Oven, High Vitamin C, Sauteeing, Main Dishes, Low Sodium, High Vitamin D, Low Sugar, Low Saturated Fat, High Potassium, High Protein, Low Carb, Low Calorie, Low Fat, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Lasagna-Recipezaar",
+    "recipeName": "Portuguese Lasagna",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "4 cups water",
+        "1 1/2 teaspoons vegetable oil",
+        "1 teaspoon salt",
+        "1 cup white cornmeal",
+        "1/2 cup chopped cilantro divided",
+        "1 pound ground beef",
+        "1 onion medium, chopped",
+        "26 ounces marinara sauce divided",
+        "2 cups shredded mozzarella cheese divided",
+        "4 ounces sliced mushrooms drained"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "8 servings",
+    "tags": "Oven, Low Sugar, Lasagna, Baking, Main Dishes, High Protein, High Iron, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Pao-De-Milho-_-Portuguese-Cornbread-_-Recipezaar",
+    "recipeName": "Pao De Milho ( Portuguese Cornbread )",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "1 1/4 cups white cornmeal fine",
+        "2 teaspoons salt",
+        "1 1/4 cups boiling water",
+        "1 teaspoon granulated sugar",
+        "1 cup water lukewarm, divided",
+        "1 tablespoon active dry yeast or 1 15 mL pkg",
+        "3 cups all-purpose flour",
+        "1/2 cup cornflour white, approx. measure or 1/2 cup yellow cornflour, approx. measure"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H40M",
+    "serve": "20 servings",
+    "tags": "Browning, Breads, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cornbread-Recipezaar",
+    "recipeName": "Portuguese Cornbread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "1 1/2 cups cornmeal",
+        "1 1/2 teaspoons ground pepper",
+        "1 1/2 teaspoons salt",
+        "1 cup boiling water",
+        "1/4 ounce yeast fast rise",
+        "1 teaspoon sugar",
+        "1/4 cup hot water 125 F to 130 F.",
+        "1 tablespoon olive oil",
+        "2 cups bread flour",
+        "olive oil for greasing pan"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H15M",
+    "serve": "10 servings",
+    "tags": "Browning, Breads, Cornbread, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Massa-Sovada---Portuguese-Sweet-Bread-Food_com-136152",
+    "recipeName": "Massa Sovada - Portuguese Sweet Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "active dry yeast 2 packages",
+        "1/4 cup water",
+        "1 cup milk scalded",
+        "1 cup sugar",
+        "2 teaspoons cinnamon",
+        "1/2 cup butter",
+        "1/2 teaspoon salt",
+        "all-purpose flour 6 cans",
+        "4 eggs",
+        "2 cups raisins optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT5H30M",
+    "serve": "10 servings",
+    "tags": "Baking, Breads, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Pao-De-Mel-_portuguese-Honey-Bread_-Recipezaar",
+    "recipeName": "Pao De Mel (portuguese Honey Bread)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "cooking spray",
+        "3 cups flour",
+        "1 cup sugar",
+        "3 tablespoons unsweetened baking cocoa",
+        "1 teaspoon ground cloves or 1 teaspoon nutmeg",
+        "2 teaspoons baking powder",
+        "2 eggs",
+        "1 cup honey",
+        "1 cup milk",
+        "1 tablespoon butter pure irish, melted",
+        "5 ounces semisweet chocolate melted"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "10 servings",
+    "tags": "Oven, Breads, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-Recipezaar_4",
+    "recipeName": "Portuguese Sweet Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "1/2 ounce active dry yeast",
+        "1/2 cup water warm potato",
+        "3 tablespoons sugar",
+        "1 cup mashed potatoes",
+        "1/8 teaspoon ground ginger",
+        "1/2 cup milk",
+        "2 teaspoons salt",
+        "6 eggs",
+        "1 3/4 cups sugar",
+        "1/2 cup butter",
+        "10 cups flour"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H15M",
+    "serve": "40 servings",
+    "tags": "Breads, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Caramel-Cake-Recipezaar",
+    "recipeName": "Portuguese Caramel Cake",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "2 1/16 cups caster sugar",
+        "1/2 cup cream",
+        "1/2 cup milk",
+        "7/8 cup butter softened",
+        "3 eggs",
+        "1 teaspoon vanilla",
+        "2 cups flour",
+        "1 1/2 teaspoons baking powder"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "10 servings",
+    "tags": "Oven, Desserts, Easy, Baking, Cake, Portuguese"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chocolate-Chip-Portuguese-Sweet-Bread-Pudding-Recipezaar",
+    "recipeName": "Chocolate Chip Portuguese Sweet Bread Pudding",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "3 1/2 cups whole milk",
+        "1 cup sugar",
+        "1 vanilla beans split lengthwise",
+        "7 large eggs",
+        "5 large egg yolks",
+        "2 1/2 cups heavy cream",
+        "6 cups portuguese sweet bread cut into 1 inch cubes",
+        "3/4 cup semi sweet chocolate chips"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "8 servings",
+    "tags": "Baking, Desserts, Bread Pudding, Oven, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Baked-Cod-Portuguese-Recipezaar_1",
+    "recipeName": "Baked Cod Portuguese",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 onion peeled and chopped",
+        "2 garlic cloves peeled and chopped",
+        "1 green pepper cored and chopped",
+        "14 ounces tomatoes chopped",
+        "2 teaspoons paprika",
+        "4 steaks or 4 fillets",
+        "fresh parsley chopped, to garnish",
+        "garlic powder",
+        "pepper",
+        "salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Baking, Quick and Easy, High Vitamin C, Main Dishes, Oven, Frying, Quick, Easy, Low Sodium, Low Sugar, High Potassium, High Protein, High Iron, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-_-Pao-Doce-Recipezaar",
+    "recipeName": "Portuguese Sweet Bread - Pao Doce",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "2 tablespoons active dry yeast",
+        "1/4 cup warm water",
+        "1 cup milk lukewarm, scalded, then cooled",
+        "3/4 cup sugar",
+        "1 teaspoon salt",
+        "3 eggs",
+        "1/2 cup butter softened",
+        "6 cups all-purpose flour",
+        "1 eggs",
+        "1 teaspoon sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT4H35M",
+    "serve": "11 servings",
+    "tags": "Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-Recipezaar",
+    "recipeName": "Portuguese Sweet Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "2 1/4 ounces dry yeast",
+        "1/2 cup warm water",
+        "1 cup milk",
+        "1/2 cup butter",
+        "2 teaspoons salt",
+        "7 eggs room temperature",
+        "1 cup sugar",
+        "9 cups flour sifted",
+        "2 tablespoons butter melted"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "24 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Emeril-Lagasse_s-Portuguese-Sweet-Bread-Recipezaar",
+    "recipeName": "Emeril Lagasse's Portuguese Sweet Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "4 cups milk I use whole",
+        "1 teaspoon salt",
+        "1/2 pound lard",
+        "3/4 ounce active dry yeast",
+        "5 pounds all-purpose flour divided",
+        "12 large eggs",
+        "4 cups sugar",
+        "1 lemon zest of, grated",
+        "1 large eggs",
+        "1 tablespoon water"
+    ],
+    "ratings": null,
+    "cookTime": "PT7H",
+    "serve": "50 servings",
+    "tags": "Browning, Breads, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Famous-Recipe-Portuguese-Chicken-Recipezaar",
+    "recipeName": "Famous Recipe Portuguese Chicken",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "3 tablespoons chili powder",
+        "4 tablespoons flour",
+        "2 tablespoons cooking oil",
+        "1 1/2 cups water can add more",
+        "1 cup chicken broth",
+        "1 green bell pepper large, chopped",
+        "8 green onions chopped",
+        "28 ounces diced tomatoes stewed",
+        "8 chicken breasts halved",
+        "1 1/2 cups shredded mozzarella cheese"
+    ],
+    "ratings": null,
+    "cookTime": "PT20M",
+    "serve": "7 servings",
+    "tags": "Quick and Easy, High Vitamin C, Baking, Main Dishes, Oven, Quick, Easy, Low Sodium, Source of Omega-3s, Low Sugar, Low Saturated Fat, High Potassium, High Protein, Low Carb, Low Calorie, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Baked-Fish-Recipezaar",
+    "recipeName": "Portuguese Baked Fish",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "2 pounds haddock fillets",
+        "1 can cod",
+        "salt to taste",
+        "pepper to taste",
+        "4 tablespoons butter",
+        "1 sweet onion large, chopped",
+        "2 celery ribs chopped",
+        "15 ounces diced tomatoes undrained",
+        "1/2 cup vegetable juice or 1/2 cup tomato juice",
+        "2 tablespoons lemon juice",
+        "1/2 teaspoon sugar",
+        "4 garlic cloves crushed",
+        "1 bay leaf"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "6 servings",
+    "tags": "High Vitamin C, Sauteeing, Main Dishes, Oven, Low Sodium, Low Sugar, High Protein, Low Carb, Low Calorie, Low Fat, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cornbread-Stuffing-Recipezaar",
+    "recipeName": "Portuguese Cornbread Stuffing",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "24 ounces cornbread stuffing mix",
+        "2 onions medium, chopped",
+        "1 bunch celery chopped",
+        "2 garlic cloves minced",
+        "1 pound chorizo sausage beef, or 1 lb vegetarian chorizo",
+        "2 linguica links turkey, chopped",
+        "4 tablespoons margarine parve if making kosher",
+        "12 ounces chicken broth",
+        "1 cup dry white wine optional",
+        "1 teaspoon cumin I like a little more",
+        "1 teaspoon turmeric",
+        "2 teaspoons paprika mild or spicy",
+        "3 tablespoons cilantro chopped, also optional",
+        "4 tablespoons extra virgin olive oil e.v.o.o.",
+        "6 ounces black olives drain liquid & chop coarsely",
+        "1 teaspoon kosher salt can be adjusted to personal taste",
+        "2 teaspoons ground black pepper can be adjusted to personal taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT11H30M",
+    "serve": "11 servings",
+    "tags": "Source of Omega-3s, Browning, Side Dishes, Oven, Low Sugar, High Protein, High Iron, Low Carb, Sauteeing, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/No_knead-Broa-_portuguese-Corn-Bread_-Recipezaar",
+    "recipeName": "No-Knead Broa (Portuguese Corn Bread)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "3 cups water lukewarm",
+        "1 1/2 tablespoons yeast",
+        "1 1/2 tablespoons salt",
+        "1/4 cup honey",
+        "2 tablespoons olive oil",
+        "1 1/2 cups stone ground cornmeal",
+        "5 cups unbleached all purpose flour",
+        "cornmeal for pizza peel and dusting the top"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "Baking, Breads, Oven, Broiling, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Chicken-Casserole-Recipezaar",
+    "recipeName": "Portuguese Chicken Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "2 1/2 pounds chicken cut into serving pieces",
+        "3 tomatoes peeled, seeded and chopped",
+        "6 ounces ham smoked, thinly sliced and cut into 1/2 inch squares, lean",
+        "8 boiling onions small",
+        "1 tablespoon dijon mustard",
+        "1 large garlic cloves finely minced, or crushed",
+        "6 tablespoons dry white wine",
+        "6 tablespoons tawny port or 6 tablespoons white port",
+        "salt",
+        "pepper",
+        "4 tablespoons butter",
+        "3 tablespoons brandy"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Baked Chicken, High Vitamin C, Browning, Main Dishes, Portuguese, Oven, Casserole, High Potassium, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Egg-Pudding-Allrecipes",
+    "recipeName": "Portuguese Egg Pudding",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "1/2 teaspoon butter",
+        "12 egg yolks",
+        "1 egg white",
+        "1 cup white sugar",
+        "1/4 cup hot water",
+        "1 1/3 cups white sugar",
+        "1/2 cup hot water",
+        "1 cinnamon stick",
+        "1 lemon peel"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "6 servings",
+    "tags": "Baking, Desserts, Oven, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cod-Casserole-Recipezaar",
+    "recipeName": "Portuguese Cod Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "2 onions thinly sliced",
+        "2 tablespoons olive oil",
+        "2 garlic cloves finely chopped",
+        "4 cups potatoes peeled and thinly sliced on a mandolin",
+        "3 plum tomatoes sliced, Roma potatoes work well",
+        "1/4 cup oil cured black olive, drained, pitted and finely chopped",
+        "2 pounds fish fillets fresh",
+        "1 cup chicken broth",
+        "pepper",
+        "salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H35M",
+    "serve": "6 servings",
+    "tags": "Casserole, High Vitamin C, Baking, Main Dishes, Oven, Low Sodium, High Vitamin D, Source of Omega-3s, Low Sugar, Low Saturated Fat, High Potassium, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Frittata-Recipezaar",
+    "recipeName": "Portuguese Frittata",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1 1/2 cups yukon gold potatoes Small Dice",
+        "3/4 cup red bell pepper Small Dice",
+        "1 tablespoon serrano peppers Small Dice",
+        "1/2 cup maui onion Small Dice",
+        "1/4 pound sausages linguica, Sliced thin",
+        "2 tablespoons unsalted butter",
+        "1 tablespoon hungarian paprika",
+        "1/2 teaspoon black ground pepper fresh",
+        "1 teaspoon fine sea salt",
+        "8 xtra-large eggs Brown",
+        "2 tablespoons heavy cream",
+        "1/3 cup cheese Casteloes Grated",
+        "1 navel oranges Sliced"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Breakfast and Brunch, Baking, Frittata, Oven, Low Sugar, High Protein, High Iron, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Baked-Cod-Portuguese-Recipezaar",
+    "recipeName": "Baked Cod Portuguese",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "3 ounces unsalted butter",
+        "2 pounds fish fillets skin on, cut into 4 pieces",
+        "1 onion large, cut into quarters and sliced finely",
+        "4 plum tomatoes skinned, seeded and chopped",
+        "4 sundried tomatoes packed in olive oil drained and finely chopped",
+        "1 1/4 cups fish stock",
+        "1/2 cup white wine",
+        "2 tablespoons fresh parsley chopped",
+        "black ground pepper",
+        "salt",
+        "parsley to garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Frying, Main Dishes, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sausage-Popcorn-Muffins-Recipezaar",
+    "recipeName": "Portuguese Sausage Popcorn Muffins",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "3 cups flour",
+        "1 1/2 cups corn ground hot-air popped",
+        "6 teaspoons baking powder",
+        "2 teaspoons salt",
+        "2 tablespoons sugar",
+        "4 tablespoons melted butter",
+        "2 cups milk",
+        "2 eggs well beaten",
+        "8 ounces chourico ground mild Portuguese",
+        "1/2 finely chopped onion",
+        "1 teaspoon fresh rosemary"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "12 servings",
+    "tags": "Oven, Easy, Low Sugar, Breads, Muffins, Microwaving, Portuguese, Low Saturated Fat, Low Calorie, Low Fat, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Turkey-Stuffing-Food_com-153932",
+    "recipeName": "Portuguese Turkey Stuffing",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 quart water",
+        "1 quart milk",
+        "1 1/2 pounds bread portuguese cornmeal bread",
+        "6 italian rolls about 11 ounces total",
+        "1 chourico large Portuguese, about 8 inches long",
+        "2 onions large, finely chopped",
+        "2 tablespoons sweet paprika",
+        "1/2 cup vegetable oil",
+        "1 cup parsley chopped",
+        "1/2 pound olive black and green olives, pitted and cut into small pieces",
+        "1/2 tablespoon tomato paste",
+        "1 teaspoon hot sauce",
+        "white pepper to taste",
+        "6 egg yolks",
+        "salt to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H",
+    "serve": "2 servings",
+    "tags": "Baking, Oven, Sauteeing, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-Oamc-Recipezaar",
+    "recipeName": "Portuguese Sweet Bread OAMC",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1/2 ounce active dry yeast",
+        "1 2/3 cups warm water",
+        "1 cup instant potato flakes",
+        "1 cup sugar",
+        "6 tablespoons margarine melted, or 6 tablespoons butter",
+        "2 teaspoons salt",
+        "4 eggs",
+        "1 tablespoon lemon zest",
+        "1 tablespoon orange zest",
+        "3/4 cup raisins",
+        "3/4 cup golden raisin",
+        "7 1/2 cups all purpose flour"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H35M",
+    "serve": "30 servings",
+    "tags": "Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Miss-Hilda_s-Portuguese-Dressing-Recipezaar",
+    "recipeName": "Miss Hilda's Portuguese Dressing",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "14 cups french bread day-old loaf, cubes, 1/2-inch cubes",
+        "4 cups milk",
+        "4 tablespoons extra-virgin olive oil",
+        "1/4 pound ground beef",
+        "1 pound chourico",
+        "1 pound chorizo sausage",
+        "1 1/2 cups yellow onions chopped",
+        "1 cup chopped green bell pepper",
+        "1/2 cup chopped celery",
+        "1 bay leaf",
+        "1 teaspoon salt",
+        "1 teaspoon crushed red pepper flakes",
+        "1/2 teaspoon ground black pepper fresh",
+        "1 tablespoon minced garlic",
+        "2 large eggs lightly beaten",
+        "1/4 cup chopped parsley"
+    ],
+    "ratings": null,
+    "cookTime": "PT20M",
+    "serve": "11 servings",
+    "tags": "Oven, Quick, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Massa-Sovada-_portuguese-Sweet-Bread_-Recipezaar",
+    "recipeName": "Massa Sovada (Portuguese Sweet Bread)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 cup milk",
+        "1 cup sugar",
+        "1/2 cup butter",
+        "1 1/2 teaspoons salt",
+        "2 1/4 teaspoons active dry yeast",
+        "1/4 cup water",
+        "1/2 teaspoon mace",
+        "1/2 teaspoon lemon extract optional",
+        "6 cups flour"
+    ],
+    "ratings": null,
+    "cookTime": "PT20M",
+    "serve": "20 servings",
+    "tags": "Oven, Browning, Breads, Quick, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Hawaiian-Sweet-Bread-2092917",
+    "recipeName": "Portuguese Hawaiian Sweet Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1/2 cup milk",
+        "4 tablespoons butter cubed",
+        "1/3 cup sugar",
+        "1 1/4 teaspoons salt",
+        "3 1/4 cups flour all-purpose",
+        "1 tablespoon active dry yeast",
+        "1 lemon",
+        "2 large eggs",
+        "1 large egg whites reserved",
+        "2 teaspoons vanilla"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Breads, Browning, Microwaving, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Bola-De-Carne-_-Portuguese-Meat-Pie-Recipezaar",
+    "recipeName": "Bola De Carne - Portuguese Meat Pie",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "2 cups milk room temperature",
+        "1 tablespoon yeast baker",
+        "4 cups flour",
+        "2 teaspoons salt",
+        "9/16 cup margarine melted",
+        "5 eggs",
+        "1 9/16 pounds chicken or 700 g pork or 700 g beef, cooked and cut into pieces",
+        "3 1/2 ounces sausages cooked and chopped",
+        "7 1/16 tablespoons ham smoked",
+        "1 egg yolks"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "6 servings",
+    "tags": "Oven, Source of Omega-3s, Baking, Low Sugar, High Carb, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Spice-Cookies-Food_com-145361",
+    "recipeName": "Portuguese Spice Cookies",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1 1/8 cups water",
+        "1 1/4 cups sugar",
+        "1 lemon grated",
+        "1 tablespoon anise seed",
+        "1/2 teaspoon cinnamon",
+        "1 teaspoon butter",
+        "1 1/2 cups breadcrumbs made from day-old firm, white bread",
+        "1 1/2 cups flour",
+        "1/2 cup sugar",
+        "1/8 teaspoon salt",
+        "2 tablespoons butter",
+        "2 eggs lightly beaten"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "24 servings",
+    "tags": "Desserts, Browning, Cookies, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Paella_-Portuguese-Style-Recipezaar",
+    "recipeName": "Paella, Portuguese Style",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "4 pounds fryer chickens broiler-, each cut into 8 pieces",
+        "1/2 cup olive oil",
+        "1 pound pork lean, cut into 1-inch cubes",
+        "2 cups onions chopped",
+        "2 garlic cloves crushed",
+        "1/4 teaspoon pepper",
+        "1 teaspoon dried oregano",
+        "2 teaspoons salt",
+        "2 cups long grain white rice",
+        "1/2 teaspoon saffron strand",
+        "1 pound italian sausage about 5 sausages",
+        "2 fresh tomatoes medium, peeled and chopped",
+        "1 bay leaf",
+        "4 cups condensed chicken broth undiluted, 3 - 10-1/2 oz size cans",
+        "1 1/2 pounds large shrimp shelled and deveined",
+        "10 ounces frozen peas thawed",
+        "2 ounces pimientos",
+        "2 lemons cut into 8 wedges"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "10 servings",
+    "tags": "High Vitamin C, Browning, Main Dishes, Spanish, Oven, Low Sugar, High Potassium, High Protein, High Iron, Sauteeing, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Walnut-Squares-Food_com-82813",
+    "recipeName": "Portuguese Walnut Squares",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1/2 cup softened butter not runny or whipped",
+        "1 tablespoon softened butter for glaze",
+        "3/4 cup light brown sugar packed",
+        "6 tablespoons flour",
+        "1 egg",
+        "1/2 teaspoon vanilla",
+        "2 tablespoons milk",
+        "6 tablespoons port wine Tawney or Ruby or Madeira, divided",
+        "1/2 teaspoon baking powder",
+        "1 1/4 cups walnuts divided",
+        "1 cup confectioners sugar",
+        "1 dash salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "16 servings",
+    "tags": "Oven, Desserts, Glazing, Blending, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread---Pao-Doce-2482811",
+    "recipeName": "Portuguese Sweet Bread - Pao Doce",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "2 loaves",
+        "2 tablespoons active dry yeast",
+        "1/4 cup warm water",
+        "1 cup milk lukewarm, scalded, then cooled",
+        "3/4 cup sugar",
+        "1 teaspoon salt",
+        "3 eggs",
+        "1/2 cup butter softened",
+        "6 cups all-purpose flour",
+        "1 egg for glaze",
+        "1 teaspoon sugar for glaze"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-_Punched_-Potatoes-551792",
+    "recipeName": "Portuguese \"Punched\" Potatoes",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "1 large garlic clove thinly sliced",
+        "4 tablespoons extra virgin olive oil good-quality",
+        "8 red potatoes small round, 1 to 1 1/2 pounds, scrubbed and unpeeled",
+        "1/2 teaspoon kosher salt",
+        "1/4 teaspoon freshly ground pepper"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Baking, High Vitamin C, Side Dishes, Portuguese, Oven, Roasting, Low Sugar, Low Saturated Fat, High Carb, High Potassium, High Iron, High Fiber"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cream-Tarts-Epicurious-51767",
+    "recipeName": "Portuguese Cream Tarts",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "17 1/4 ounces frozen puff pastry 2 sheets",
+        "1 tablespoon melted butter",
+        "1 cup granulated sugar",
+        "2 tablespoons all-purpose flour",
+        "2 1/2 cups heavy cream",
+        "1 lemon small, 1 1/4 teaspoons",
+        "8 large egg yolks",
+        "1/4 teaspoon salt",
+        "1 teaspoon vanilla",
+        "1 tablespoon confectioners sugar",
+        "1/2 teaspoon cinnamon"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "24 servings",
+    "tags": "Oven, Desserts, Tart, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Sweet-Bread-1876933",
+    "recipeName": "Portuguese Sweet Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "2 packages yeast",
+        "2 teaspoons salt",
+        "1/2 cup butter",
+        "9 cups flour",
+        "6 eggs",
+        "1 1/2 cups sugar",
+        "1/2 cup water",
+        "1 cup milk"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H",
+    "serve": "4 servings",
+    "tags": "Baking, Breads, Portuguese, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Broa---The-Portuguese-Bread-1279763",
+    "recipeName": "Broa - The Portuguese Bread",
+    "recipePhoto": "https://lh3.googleusercontent.com/XC3MGfA8sCVtqWowPgnXrpUdp3FPVWADckUphlY5EyMYbeVDiEyl4aREAtE4rI726I72OGTsMWW_uzhUsgd96g",
+    "ingredients": [
+        "1 cup yellow cornmeal",
+        "2 1/2 cups all purpose flour",
+        "1/2 cup milk warm",
+        "3/4 cup hot water",
+        "2 teaspoons instant dry yeast",
+        "1 1/2 teaspoons salt",
+        "2 tablespoons honey",
+        "1 tablespoon olive oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-_Pasteis-De-Nata_-968500",
+    "recipeName": "Portuguese Custard Tarts (Pasteis De Nata)",
+    "recipePhoto": "https://lh3.ggpht.com/vnUbGYTlJL2YDurxMcJ0ZXcNg8sV7wlOlGmO7Tvsi6jt0UF83aCIp0WlqojkXA47llx8lB2Ur3hNNx0S-rkf",
+    "ingredients": [
+        "1 puff pastry pack ready rolled",
+        "1 cup milk",
+        "3 tablespoons cornflour",
+        "1 2/3 cups caster sugar",
+        "1/2 teaspoon vanilla extract",
+        "1/4 teaspoon ground cinnamon",
+        "6 egg yolks"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "12 servings",
+    "tags": "Desserts, Tart, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Molotof-Portuguese-Pudding-1249150",
+    "recipeName": "Molotof Portuguese Pudding",
+    "recipePhoto": "https://lh3.googleusercontent.com/e65issa7GwXViGVd8Wx3uzKr-95ktgIMNovO2-C4YQsIrvf7AmPnmK2olycDeaSyJLFEr-PWJkPUQWoofM_Pmw",
+    "ingredients": [
+        "10 egg whites",
+        "3/4 cup sugar",
+        "3/4 cup sugar",
+        "3 3/8 tablespoons water",
+        "2 tablespoons lemon juice"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Nando_s-Portuguese-Chicken-Burgers-2562827",
+    "recipeName": "Nando's Portuguese Chicken Burgers",
+    "recipePhoto": "https://lh3.googleusercontent.com/PlyBQrpLXfuwYr4D7dyq8KJIBcBvNYWM7YvpOFV-Zp_1qsb_vLRUSz9YEIr_8M4bRW7Vg5GXul9rHjbNMSer",
+    "ingredients": [
+        "3 red chilies birds eye, 1 is mild, 3 is reasonably spicy, Note 1",
+        "1 red bell pepper large, / capsicum, cut into chunks",
+        "5 garlic cloves",
+        "3 tablespoons vegetable oil",
+        "4 tablespoons malt vinegar or any other plain brown vinegar except not balsamic",
+        "2 tablespoons paprika",
+        "1 tablespoon dried oregano",
+        "2 teaspoons onion powder",
+        "1 1/2 teaspoons white sugar",
+        "1 1/2 teaspoons salt",
+        "black pepper",
+        "3 drops red food colouring optional",
+        "3 tablespoons peri-peri sauce",
+        "1/2 cup mayonnaise whole egg",
+        "1/4 cup sour cream or yoghurt",
+        "1 tablespoon olive oil",
+        "4 chicken thigh fillets skinless boneless, each large enough for a burger",
+        "4 soft rolls",
+        "2 tomatoes sliced",
+        "lettuce choice",
+        "3 potatoes large Sebago, peeled and each cut into 8 wedges, Note 1",
+        "1 teaspoon onion powder",
+        "1 1/2 teaspoons paprika",
+        "3/4 teaspoon salt",
+        "2 tablespoons olive oil"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Browning, Main Dishes, Burger, Source of Omega-3s, High Potassium, High Protein, High Iron, High Fiber, Blending, Baking, Marinating"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Traditional-Portuguese-Cookies-_Biscoitos_-1493322",
+    "recipeName": "Traditional Portuguese Cookies (Biscoitos)",
+    "recipePhoto": "https://lh3.googleusercontent.com/69Xr8Fbf0BCwU-2V2ZKgflW7R0EUs4H4SPFNn_Gv_spTewm-jCmWh40BG2b_K7upaE934q6epO_b8BUGvzgzQKs",
+    "ingredients": [
+        "7 cups all purpose flour we use unbleached",
+        "2 cups granulated sugar",
+        "4 teaspoons baking powder",
+        "2 teaspoons salt",
+        "9 ounces unsalted butter at room temperature, 255 g",
+        "6 large eggs at room temperature",
+        "1/3 cup orange juice freshly squeezed",
+        "2 tablespoons lemon rind"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "30 servings",
+    "tags": "Oven, Desserts, Baking, Cookies"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Papo-Secos---Portuguese-bread-rolls-1916991",
+    "recipeName": "Papo Secos - Portuguese bread rolls",
+    "recipePhoto": "https://lh3.googleusercontent.com/KOZMC7k2T8MbwB3ZmnZBAKqsKOJgzD-euUl4uZoVpWKCUGGKn9Lo90n-QnxuBIIVCMSMPgFLefIYDGqlQWGQyQ",
+    "ingredients": [
+        "1 cup all purpose flour",
+        "1 teaspoon instant yeast",
+        "1 cup lukewarm water",
+        "1/4 teaspoon salt",
+        "1 teaspoon sugar",
+        "1 1/2 cups whole wheat flour",
+        "2 tablespoons butter @ room temperature"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Breads"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Custard-Tarts-2472425",
+    "recipeName": "Portuguese Custard Tarts",
+    "recipePhoto": "https://lh3.googleusercontent.com/CcdLuDw_4v04DnGJpRRGaZaI5zGPT_9TSuGqIaYqVJCTCZfeJXJ0akj9bWmCxMsw_lyGfdJiux2jIIgCIY_GSQ",
+    "ingredients": [
+        "2 sheets puff pastry ready-rolled butter",
+        "4 teaspoons caster sugar",
+        "4 tablespoons cornflour",
+        "4 tablespoons custard powder",
+        "4 cups milk",
+        "8 egg yolks",
+        "1 1/2 cups caster sugar plus extra for sprinkling",
+        "1 teaspoon vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "24 servings",
+    "tags": "Baking, Tart, Desserts, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Chicken-with-Piri-Piri-Sauce-2352942",
+    "recipeName": "Portuguese Chicken with Piri Piri Sauce",
+    "recipePhoto": "https://lh3.googleusercontent.com/OIYnw9ml6pO_AWc7hVJxStyOdDgb4Qk9NrgfX2-cIHC2tOFxPmhIE3T_gJIbSpm679Ba11UDp6Ms3ga0vUFV4Q",
+    "ingredients": [
+        "2 onions large, chopped",
+        "2 lemons",
+        "4 chicken breasts skinless and boneless",
+        "3 garlic cloves crushed",
+        "2 tablespoons olive oil",
+        "2 teaspoons smoked paprika",
+        "1/2 teaspoon piri piri sauce or Tabasco",
+        "1 pinch sea salt",
+        "parsley chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Easy, High Vitamin C, Baking, Main Dishes, Low Sodium, Low Sugar, Low Saturated Fat, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Portuguese-Cupcakes-_Queijadas_-412199",
+    "recipeName": "Portuguese Cupcakes (Queijadas)",
+    "recipePhoto": "https://lh4.ggpht.com/Q9GR1iJfJUJBjx3ls3xMb1ndVUbGkKQTK4pA-AHDsZFPQcwT4ZToZ6_PDkHqwlPiKEJaZ8-vbmnmly57iazB",
+    "ingredients": [
+        "3 eggs",
+        "3 1/3 cups caster sugar",
+        "3 1/8 tablespoons unsalted butter",
+        "3/4 cup plain flour",
+        "2 cups milk",
+        "1/2 teaspoon vanilla extract"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "18 servings",
+    "tags": "Oven, Desserts, Cupcake, Easy, Browning, Portuguese, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Individual-Portuguese-Custard-Tarts-Made-Easy-2236733",
+    "recipeName": "Individual Portuguese Custard Tarts Made Easy",
+    "recipePhoto": "https://lh3.googleusercontent.com/LmRExRohzRYR4908Y_b09zyJjKu9vt_TybrT1360cCygGZXJMsoAlhBP_b24fuqWMTf05Wu193EodUFQc5dp",
+    "ingredients": [
+        "11/16 pound puff pastry ready rolled",
+        "1 tablespoon custard powder",
+        "3/4 cup golden caster sugar",
+        "1 teaspoon vanilla paste",
+        "3 egg yolks",
+        "1 cup full cream milk",
+        "5 1/16 tablespoons double cream heavy cream",
+        "11/16 pound puff pastry ready rolled",
+        "1 egg separated",
+        "2 tablespoons custard powder",
+        "1 1/4 cups golden caster sugar",
+        "2 teaspoons vanilla paste",
+        "5 egg yolks",
+        "2 1/8 cups full cream milk",
+        "5/8 cup heavy cream double cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "12 servings",
+    "tags": "Boiling, Desserts, Baking, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Pasteis-de-nata-_Portuguese-custard-tarts_-417528",
+    "recipeName": "Pasteis de nata (Portuguese custard tarts)",
+    "recipePhoto": "https://lh6.ggpht.com/2SQwe3Gc_YQGydZ3yLaBG0AwqmUK3p8YSqqdX3OMu2SAPo6jTD3bYUbPFdG9285iOJNGqJmCAAKhex-Q4w3q",
+    "ingredients": [
+        "1 1/8 pounds puff pastry",
+        "1 cup milk",
+        "3 tablespoons cornflour",
+        "1 2/3 cups caster sugar",
+        "1/2 vanilla bean",
+        "6 egg yolks"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "12 servings",
+    "tags": "Desserts, Browning, Oven, Baking"
+}

@@ -1,0 +1,3465 @@
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-poppy-seed-roll-Makos-kalacs-2610380",
+    "recipeName": "Hungarian poppy seed roll \u2013 Ma\u0301kos kala\u0301cs",
+    "recipePhoto": "https://lh3.googleusercontent.com/NrFuQ6G9e7CbK3oProaZ5pcskxeQtY010ivaOGyzj5Tqv7uZ6Hxv-LF0-rw7TtTwaHGH5FtZTI9AcEY8ypfn",
+    "ingredients": [
+        "3 1/4 cups all purpose flour ~3 1/3 cups",
+        "4 tablespoons sugar ~1/4 cup",
+        "1 pinch salt",
+        "1 2/3 tablespoons fresh yeast ~ 2 tsp dry yeast",
+        "1 whole egg + 1 egg yolk",
+        "2 1/16 tablespoons sour cream ~2 tbsp",
+        "2 1/8 tablespoons butter ~1/8 cup, melted",
+        "5/8 cup milk ~2/3 cup",
+        "9/16 pound ground poppy seeds ~2 cups",
+        "7/8 cup powdered sugar ~3/4 cup",
+        "6 3/4 tablespoons milk ~1/2 cup",
+        "1 egg for egg wash"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Noodles-2455710",
+    "recipeName": "Hungarian Noodles",
+    "recipePhoto": "https://lh3.googleusercontent.com/o1hXi4NI8aBuiv6r0LpOeiOyUdmiupsqXNy3HHVF2DVkigqx9QpDh3DNOweeqNBk3yZ9aLzVn42MNOtbosnK",
+    "ingredients": [
+        "3 chicken bouillon cubes",
+        "1/4 cup boiling water",
+        "1 can condensed cream of mushroom soup",
+        "1/2 cup chopped onion",
+        "1 sliced mushrooms small carton",
+        "2 tablespoons Worcestershire sauce",
+        "2 tablespoons poppy seeds",
+        "2 cloves garlic minced",
+        "1/4 teaspoon hot chili sauce",
+        "2 cups cottage cheese",
+        "2 cups sour cream",
+        "16 ounces noodles cooked and drained",
+        "1/4 cup shredded parmesan cheese",
+        "paprika"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "High Calcium, Baking, Hungarian, High Carb, High Potassium, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Apricot-Kolaches-An-Hungarian-Christmas-Cookie-1109974",
+    "recipeName": "Apricot Kolaches \u2013 An Hungarian Christmas Cookie",
+    "recipePhoto": "https://lh3.googleusercontent.com/6R9d5goIersgKsZb9w7HBbRbGWW9KzAUo2V-MCYVawCoRDVA_G0dCBUFxXRx0_SAN78hEYiAxMkrSGHKoxdC2Q",
+    "ingredients": [
+        "2 1/4 cups all purpose flour",
+        "1/2 teaspoon salt",
+        "8 ounces cream cheese",
+        "1 cup unsalted butter softened",
+        "1/2 cup granulated sugar for rolling",
+        "1 pound dried apricots",
+        "1 cup sugar"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H5M",
+    "serve": "64 servings",
+    "tags": "Desserts, Christmas, Blending, Cookies, Hungarian, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/K-for-Kiffles-_-Kiflis-_-Hungarian-Kiffles-2620649",
+    "recipeName": "K for Kiffles / Kiflis | Hungarian Kiffles",
+    "recipePhoto": "https://lh3.googleusercontent.com/lt_6QdGC5tqj9oTqSJiuE6T9IHQXK_uhj3rk0cIGXVXvjBYRYD7s30rQL__sxUqCiZH6OeOEJaGK8IkS9gawkQ",
+    "ingredients": [
+        "cream cheese plain \u2013 4 oz, softened",
+        "8 tablespoons unsalted butter",
+        "1 cup all purpose flour",
+        "1/2 teaspoon salt",
+        "apricot",
+        "prunes",
+        "Cake",
+        "pastry filling",
+        "flour \u2013 for dusting the surface when rolling",
+        "sugar \u2013 for sprinkling"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "48 servings",
+    "tags": "Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Nut-Roll-Cookies-2703445",
+    "recipeName": "Hungarian Nut Roll Cookies",
+    "recipePhoto": "https://lh3.googleusercontent.com/LN2huOB3Lyu3Wki9j_hCtSDtQ5dMLeTLMk6ztpIy0AV4x3SkIcuvwh8PNpL0DD3QEi7vWWhlyaq9ufnQ3CrFVA",
+    "ingredients": [
+        "2 1/2 cups flour",
+        "2 sticks oleo or butter",
+        "8 ounces cream cheese",
+        "1 1/2 cups walnuts or nutmeats, ground",
+        "1 cup sugar",
+        "milk"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Desserts, Easy, Baking, Cookies, Hungarian"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sajtos-Pogacsa---Hungarian-Cheese-Puffs-466659",
+    "recipeName": "Sajtos Pog\u00e1csa - Hungarian Cheese Puffs",
+    "recipePhoto": "https://lh4.ggpht.com/XMKfAHnWfVNjDX5FpSFprTDWpG4U4B5IRmFn7vdIdOgdXoot7M3w_4K8CX73WsZlVxFqf_Bw_4Qj6oGA8Y0S5g",
+    "ingredients": [
+        "4 cups flour I used all-purpose",
+        "1 package dry yeast mine was 7gram",
+        "1 teaspoon sugar",
+        "5/8 cup warm water",
+        "7/8 cup butter",
+        "1 tablespoon salt",
+        "2 eggs divided to yolks and egg whites",
+        "1/2 cup plain yogurt",
+        "2 3/16 cups cheese shredded, I used smoked cheese and cheddar"
+    ],
+    "ratings": 3.0,
+    "cookTime": "PT55M",
+    "serve": "1 servings",
+    "tags": "Baking, Hungarian, Breads, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kalacs_-the-Hungarian-Sweet-Braided-Bread-1574560",
+    "recipeName": "Kala\u0301cs, the Hungarian Sweet Braided Bread",
+    "recipePhoto": "https://lh3.googleusercontent.com/KuONHhXtjWQzXFzKxctsAH26gNR0ICxDzXgfgwr-7IgwnSmJppN3hMWFnv5WKfu8y3MU85XSgNuq383cndvj",
+    "ingredients": [
+        "1 11/16 cups milk lukewarm",
+        "1/2 teaspoon granulated sugar to rise the yeast",
+        "2 1/16 tablespoons fresh yeast",
+        "4 1/4 tablespoons butter melted",
+        "5 7/16 cups wheat flour all-purpose, sifted",
+        "1 egg organic, +1 for the egg wash",
+        "11 teaspoons granulated sugar",
+        "1/4 teaspoon salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "10 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Authentic-Hungarian-Pinwheels-1252562",
+    "recipeName": "Authentic Hungarian Pinwheels",
+    "recipePhoto": "https://lh3.googleusercontent.com/NdT9V9PH-naruY67rXQrwBftO_lFTi-sbJBx-gidChQLheUbI11D_c88_gbSL21mZ6wkiHlx6H0xfWJvfvIvuA",
+    "ingredients": [
+        "8 ounces full fat cream cheese softened",
+        "1/2 cup salted butter softened",
+        "1 cup all-purpose flour",
+        "1/2 cup strawberry jam or filling of choice",
+        "1 large egg + 1 tablespoon water, egg wash"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "10 servings",
+    "tags": "Browning, Pinwheel, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Nut-Roll-Cookies-1957618",
+    "recipeName": "Hungarian Nut Roll Cookies",
+    "recipePhoto": "https://lh3.googleusercontent.com/GHtS27lPPXknQF386_vs1SIERX9ppfUZI0Y892_eHemzRcGB0gHE9PbT8ziVAsceE0SmKIHCegXDpPK3nQF_8w",
+    "ingredients": [
+        "2 1/2 cups flour",
+        "2 sticks oleo or butter",
+        "8 ounces cream cheese",
+        "1 1/2 cups walnuts or nutmeats, ground",
+        "1 cup sugar",
+        "milk"
+    ],
+    "ratings": null,
+    "cookTime": "PT12M",
+    "serve": "66 servings",
+    "tags": "Desserts, Quick and Easy, Baking, Cookies, Hungarian, Quick, Easy"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sajtos-Pogacsa---Hungarian-Cheese-Puffs-1575920",
+    "recipeName": "Sajtos Poga\u0301csa - Hungarian Cheese Puffs",
+    "recipePhoto": "https://lh3.googleusercontent.com/RJKf4WGsNY3RlzKwCZTrZfcxtM5axL1p974RDHzsrgR1LWJKppiK8sGJj4nUHy6HXTVzmKDUPsURNHppYEVYRg",
+    "ingredients": [
+        "4 cups flour I used all-purpose",
+        "1 package dry yeast mine was 7gram",
+        "1 teaspoon sugar",
+        "6 1/3 cups warm water",
+        "7/8 cup butter",
+        "1 tablespoon salt",
+        "2 eggs divided to yolks and egg whites",
+        "1/2 cup plain yogurt",
+        "2 3/16 cups shredded cheese I used smoked cheese and cheddar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "1 servings",
+    "tags": "Oven, Baking, Breads"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Kiffles-1557855",
+    "recipeName": "Hungarian Kiffles",
+    "recipePhoto": "https://lh3.googleusercontent.com/7ukFeE5cr1ZkMGxVSfkl6AoytgiNze5fswD-HjDXDuLlU7lwV50tfmcdwSog9EvB-NtCMerbrS5o4oSoANb6Ng",
+    "ingredients": [
+        "3 cups flour unsifted",
+        "3 tablespoons sugar",
+        "1/4 teaspoon salt",
+        "2 sticks butter room temperature",
+        "8 ounces cream cheese room temperature",
+        "3 egg yolks",
+        "3/4 pound butter Apricot",
+        "confectioners' sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Desserts, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Dobosh-Torte-_Dobos-Torta_-2215657",
+    "recipeName": "Hungarian Dobosh Torte (Dobos Torta)",
+    "recipePhoto": "https://lh3.googleusercontent.com/ktLFPMiTD4ehji2mJSDLY8SpbZ1kofNMYXYKTdccaD0kJR4xyGSfzslSj933my7ohIh659H8ihs058DXZN3imA",
+    "ingredients": [
+        "8 ounces unsalted butter room-temperature",
+        "1 cup sugar",
+        "4 eggs large room-temperature, lightly beaten",
+        "1 1/2 cups flour all-purpose",
+        "1 teaspoon vanilla",
+        "8 ounces semisweet chocolate chopped",
+        "2 ounces unsweetened chocolate chopped",
+        "1 pound unsalted butter room-temperature",
+        "5 egg whites large room-temperature",
+        "1 cup sugar",
+        "2/3 cup sugar",
+        "1/3 cup water"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "16 servings",
+    "tags": "Desserts, Glazing, Torte, Browning, Microwaving, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Sausage-and-Potato-Casserole-Recipe---Rakott-Burgonya-2215546",
+    "recipeName": "Hungarian Sausage and Potato Casserole Recipe - Rakott Burgonya",
+    "recipePhoto": "https://lh3.googleusercontent.com/MAoO2SMoB9NTdC-DrOc61gJvNmGqliJd5tl_5R-bvhBGatFe2u6KbmWvLdQcR3GExFB7r7ZFWbciATRbajtaMg",
+    "ingredients": [
+        "1 stick butter plus additional butter to grease casserole dish",
+        "1/2 cup breadcrumbs fine, plus additional for dusting casserole dish",
+        "8 medium potatoes red, boiled al dente, peeled and thinly sliced",
+        "8 eggs hard-cooked, peeled, and sliced",
+        "salt to taste",
+        "black pepper to taste",
+        "1 pound sausage Hungarian, smoked mild, medium or hot, cut 1/4-inch thick",
+        "1 cup sour cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "7 servings",
+    "tags": "Casserole, High Vitamin C, Browning, Hungarian, Low Sugar, High Potassium, High Protein, High Iron, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Beigli-2607624",
+    "recipeName": "Beigli",
+    "recipePhoto": "https://lh3.googleusercontent.com/iP8BaxaHKQmdmlWdnYetumHytCDi-iQDR5reQvPEs07gbLmJFL6iJHF6ZsihbC9r931KbGgC-3INB5aJ63UZkA",
+    "ingredients": [
+        "4 cups flour ~4 cups",
+        "9/16 pound cold butter ~1 cup, cubed",
+        "2 egg yolks",
+        "5 5/8 tablespoons sugar ~1/3 cup castor",
+        "1 2/3 tablespoons fresh yeast 2 tsp dry yeast",
+        "6 3/4 tablespoons milk ~6 1/2 tbsp lukewarm",
+        "1 pinch salt",
+        "2/3 pound ground poppy seeds ~2 1/4 cups",
+        "1 cup sugar ~1 cup",
+        "7/8 cup milk ~3/4 cup",
+        "5 3/4 tablespoons semolina ~1/3 cup",
+        "1 Orange",
+        "7 1/8 tablespoons raisin ~1/3 cup, soaked in water or quince paste cut into small pieces",
+        "2 3/4 cups ground walnuts ~3 1/2 cups",
+        "3/4 cup sugar ~3/4 cup castor",
+        "5/8 cup milk ~2/3 cup",
+        "5 3/4 tablespoons semolina ~1/2 cup",
+        "1 lemon",
+        "7 1/8 tablespoons raisin ~1/3 cup, soaked in water or quince paste cut into small pieces",
+        "2 egg yolks",
+        "2 egg whites"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Kiffles-1952081",
+    "recipeName": "Hungarian Kiffles",
+    "recipePhoto": "https://lh3.googleusercontent.com/DTfn_QZnxR5v0PptDCuiNRGuPavYgRrC3-0lcxsV8utIWB8kiqhclEV8naf_m0XiZddW8pn2roNfBIK1ztAG",
+    "ingredients": [
+        "3 cups all purpose flour",
+        "3 tablespoons sugar",
+        "1/4 teaspoon salt",
+        "2 sticks butter room temperature",
+        "8 ounces cream cheese room temperature",
+        "3 egg yolks",
+        "3/4 pound butter apricot",
+        "1/2 cup sugar confectioners's, for sprinkling after baked"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "60 servings",
+    "tags": "Desserts, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/One-Skillet-Oven-Roasted-Paprikash-Chicken-Thighs-2666113",
+    "recipeName": "One Skillet Oven Roasted Paprikash Chicken Thighs",
+    "recipePhoto": "https://lh3.googleusercontent.com/CfUsFjLeItFmZvv5q9MAhnf4QBCU-VcmMP6ArD2y-rWIInvXfgMApCPDCmmefcAZSSqBGh0H0QAA20d0wD0glg",
+    "ingredients": [
+        "4 bone-in skin-on chicken thighs",
+        "salt",
+        "freshly ground pepper",
+        "1 tablespoon butter",
+        "1/2 onion chopped",
+        "2 cloves garlic sliced",
+        "1 1/2 tablespoons paprika Hungarian preferred",
+        "1/4 teaspoon cayenne",
+        "15 ounces crushed tomatoes",
+        "1/2 cup sour cream",
+        "egg noodles to serve",
+        "parsley if desired"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "3 servings",
+    "tags": "High Vitamin C, Browning, Main Dishes, Low Sugar, High Potassium, High Protein, High Iron, High Fiber, Drying, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Style-Potatoes-1329968",
+    "recipeName": "Hungarian Style Potatoes",
+    "recipePhoto": "https://lh3.googleusercontent.com/MukQJmr0dZncxnyQwzfw7MakyrtVitET8jiSbq1vFz7fiFzd2DrISJVkp3TY_bjbNHnJ2jftgHD_2pvYytwRQuU",
+    "ingredients": [
+        "2 hard-boiled eggs peeled and sliced into rounds",
+        "1 onion medium, sliced thinly",
+        "1 tablespoon butter",
+        "1 tablespoon olive oil",
+        "1 pinch red pepper flake",
+        "5 potatoes fist sized, peeled and sliced thinly",
+        "2 cups sour cream",
+        "1 cup shredded cheese or more, I used a blend",
+        "paprika",
+        "pepper",
+        "salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Baking, Side Dishes, Oven, High Calcium, High Carb, High Potassium, High Protein, High Iron, High Fiber, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Kifli-2608730",
+    "recipeName": "Hungarian Kifli",
+    "recipePhoto": "https://lh3.googleusercontent.com/RLBLC7L-dcfsp5lunGWPo3wua24AvLBQ2otGXrG3m0hsXq6SUa20JVwEeucoWeoiYh38gq9bqDHUdqjaDpFN",
+    "ingredients": [
+        "8 ounces cream cheese room temperature",
+        "11 ounces Betty Crocker Pie Crust Mix",
+        "3 cups ground walnuts finely, divided",
+        "1 1/4 cups granulated sugar divided",
+        "2 large egg whites well beaten, separated",
+        "2 tablespoons unsalted butter",
+        "1 teaspoon vanilla extract",
+        "confectioner's sugar for sprinkling",
+        "flour for dusting board"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "4 servings",
+    "tags": "Desserts, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kiflice-_Croatian-Rolls_-1195555",
+    "recipeName": "Kiflice (Croatian Rolls)",
+    "recipePhoto": "https://lh3.googleusercontent.com/Yeb6aza7qHpo76P7Z8A4wo_bXv6caaYZZgxTGHRRKYOnYCvrEkbYvnKNg5I2hlRRWyM9gbX5AhscGkVudl4VJGk",
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1 tablespoon dry active yeast",
+        "1 teaspoon sugar",
+        "2 tablespoons sour cream",
+        "3/4 cup milk",
+        "1/4 cup olive oil",
+        "1 egg",
+        "bratwurst",
+        "dried sausage",
+        "semi-hard cheese"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "4 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Zserbo-_Gerbeaud-Cake_-1171078",
+    "recipeName": "Hungarian Zserbo\u0301 (Gerbeaud Cake)",
+    "recipePhoto": "https://lh3.googleusercontent.com/h_0LNSR_VK5mXHpZzq57DmTNYnAmGsauSBUvopPDsRnS8T1yDEL4fgXbXjq0CEpZMCfRLH7PHwShnK1s-gH6",
+    "ingredients": [
+        "6 3/4 cups all-purpose flour",
+        "1/2 teaspoon baking powder",
+        "2 5/8 cups butter",
+        "5/8 cup sugar + 1 teaspoon",
+        "3 eggs",
+        "1 package active dry yeast 7 gram",
+        "7/8 cup milk + 2 tablespoons",
+        "3 1/4 cups walnut ground",
+        "1 1/2 cups sugar",
+        "1 9/16 cups apricot jam or preserve - the denser the better",
+        "7 3/4 ounces chocolate",
+        "4 tablespoons oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Baking, Desserts, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Dump-and-Bake-Chicken-Paprikash-and-Noodles-2544284",
+    "recipeName": "Dump-and-Bake Chicken Paprikash and Noodles",
+    "recipePhoto": "https://lh3.googleusercontent.com/Vr7vvbG54f7LxwaluRQKZQ_W0-djs6anhl3FDIc8BBbHVyyRCzvVNwc7hPhto4EaFHRkHaHBfOscdMQUzjRg_A",
+    "ingredients": [
+        "22 ounces Alfredo sauce 2 \u00bd cups",
+        "3 cups less sodium chicken broth",
+        "1/2 cup sour cream",
+        "1 tablespoon sweet paprika",
+        "1/2 teaspoon salt",
+        "12 ounces wide egg noodles uncooked",
+        "1 cup diced onion frozen, thawed, or 1 cup chopped fresh onion",
+        "1 pound boneless skinless chicken breasts uncooked, diced into bite-sized pieces",
+        "2 teaspoons minced garlic",
+        "fresh parsley Chopped, or dill",
+        "smoked paprika Optional garnish: dusting of"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "8 servings",
+    "tags": "High Calcium, Baking, Main Dishes, Low Sugar, High Carb, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kiflice-1497000",
+    "recipeName": "Kiflice",
+    "recipePhoto": "https://lh3.googleusercontent.com/vCkly4vtOO2Hbr-TDAhDb72qTFu9B0v4YS43bLunCzpOKxhx1o4ASqEHmEJHsXUTJ4lfOcTZs-j7EXF7PxkedQ",
+    "ingredients": [
+        "2 cups flour",
+        "7/8 cup butter",
+        "walnuts ground \u2013 100g",
+        "9/16 cup vanilla sugar",
+        "1 egg white",
+        "icing sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Easy, Baking, Hungarian"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/HUNGARIAN-NUT-ROLLS---BEIGLI-2610409",
+    "recipeName": "HUNGARIAN NUT ROLLS - BEIGLI",
+    "recipePhoto": "https://lh3.googleusercontent.com/WXnS5JdqWToiIptI3xveUD3goP3JqtINMkUfdr2NXCsr20KQ2LPIfCLFRgWlH-M7MjCacCK7iSFcQQGyqW-XNQ",
+    "ingredients": [
+        "9 1/2 cups flour",
+        "3/4 cup icing sugar",
+        "2 1/3 cups butter",
+        "5 eggs",
+        "5 1/4 teaspoons yeast",
+        "1 1/2 cups milk lukewarm",
+        "1 egg white"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Glazing, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Raspberry-Hungarian-Pastry-1091317",
+    "recipeName": "Raspberry Hungarian Pastry",
+    "recipePhoto": "https://lh3.googleusercontent.com/18Bw5JdF0gb7_Lw9Ymvlff_WTLRUHYvTZoxOlzW7_9A2EjVHzzy1mi-zYVs4SMsyxCbgkPzGXYp61XNDN8d4G08",
+    "ingredients": [
+        "3 large eggs separated",
+        "3/4 cup unsalted butter softened",
+        "3/4 cup sugar",
+        "1 1/2 teaspoons vanilla",
+        "2 1/4 cups flour",
+        "1/4 teaspoon baking soda",
+        "3/4 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 cup raspberry jam",
+        "1 cup chopped walnuts finely, divided"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "25 servings",
+    "tags": "Desserts, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Easy-Polish-Walnut-Kiflies-Holiday-Crescent-Cookies-2609282",
+    "recipeName": "Easy Polish Walnut Kiflies \u2013 Holiday Crescent Cookies",
+    "recipePhoto": "https://lh3.googleusercontent.com/99uzlaiSttFWuchUpf-6i-H-WVjmxsnkuPCy1nLJlnYBUAUBU4KsgIHYBRhAQL3lVWn0rwefIm5AwWcdjbH0fw",
+    "ingredients": [
+        "3 cups flour",
+        "1/2 pound cold butter diced",
+        "6 egg yolks",
+        "1/2 cup sour cream",
+        "6 egg whites",
+        "1/2 pound powdered sugar",
+        "3 cups walnuts finely chopped",
+        "3 cups flour",
+        "2 sticks cold butter diced",
+        "6 egg yolks",
+        "1/2 cup sour cream",
+        "6 egg whites",
+        "1/2 pound powdered sugar",
+        "3 cups walnuts finely chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "54 servings",
+    "tags": "Desserts, Blending, Cookies, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-1830256",
+    "recipeName": "Hungarian Goulash",
+    "recipePhoto": "https://lh3.googleusercontent.com/o4lwWaZXPV8Ja1rGQNEhNstrEskt3jdphEdDtGQ6-qcL174d-pLMNnexS6UMfhK-19rdzJVsNPQ1ICUnBp9IeA",
+    "ingredients": [
+        "3 pounds stew meat or top round, cut in large cubes",
+        "3 tablespoons flour",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "2 teaspoons paprika",
+        "1/4 cup oil",
+        "1 cup onion chopped",
+        "8 ounces tomato sauce",
+        "1 cup beef bouillon",
+        "1 clove garlic"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Easy, Goulash, Source of Omega-3s, Browning, Main Dishes, Hungarian, Oven, Low Sugar, High Potassium, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Tandoori-Style-Chicken-Paprikash-1118186",
+    "recipeName": "Tandoori Style Chicken Paprikash",
+    "recipePhoto": "https://lh3.googleusercontent.com/ZYAw5ZyS5VARJDmMLVqtm1JRbDsn-5YFB4TB0o5O4OzO6U0Gh8FBgkWhs-2RyJ_x-R1EGSFT8-pR5WjhGZ7oYh4",
+    "ingredients": [
+        "1 1/2 pounds chicken drumsticks",
+        "1/2 cup greek yogurt",
+        "1 tablespoon hungarian paprika sweet"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Oven, Easy, Low Sodium, Baking, Hungarian, Low Sugar, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cheese-Stuffed-Wax-Peppers-_Sajtos-Toltott-Paprika_-2319405",
+    "recipeName": "Hungarian Cheese-Stuffed Wax Peppers (Sajtos Toltott Paprika)",
+    "recipePhoto": "https://lh3.googleusercontent.com/YBqo14YFpGR87V6zEglIfylgccxmwTw0C_NqsvwlGLG8Aff1YnVIdntIKYn9ic5ypTz3gw0NwD3TFnlYaorsk1E",
+    "ingredients": [
+        "12 peppers Hungarian wax, seeds, and pith removed, tops reserved",
+        "1 pound curd cheese or farmer's cheese or ricotta",
+        "1/2 cup parmesan cheese",
+        "2 large eggs beaten",
+        "1 teaspoon salt",
+        "1 teaspoon fresh parsley chopped",
+        "2 cloves minced garlic",
+        "1 tablespoon neutral oil like canola or vegetable"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "3 servings",
+    "tags": "Source of Omega-3s, Baking, Hungarian, Low Sugar, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Split-Farmhouse-Loaf-1617985",
+    "recipeName": "Hungarian Split Farmhouse Loaf",
+    "recipePhoto": "https://lh3.googleusercontent.com/sWW5Fc-Ps2lFugkQTdM0_kgzP4egrzVWEuctRRjZ9mDSteUuZeXZlXy7wM_gBG0VKY_A9iCnnjw_mha2Cw1wzw",
+    "ingredients": [
+        "3 1/4 cups bread flour I used Five Roses all-purpose flour",
+        "1 1/2 teaspoons salt",
+        "1 tablespoon sugar fine",
+        "1 1/2 teaspoons instant yeast Fleischmann\u2019s",
+        "1/2 teaspoon fennel seeds crushed",
+        "1 1/4 cups warm water",
+        "1 3/4 tablespoons butter melted",
+        "1 egg white beaten",
+        "2 teaspoons fennel seeds for sprinkling",
+        "3 1/4 cups bread flour I used Canadian all-purpose flour",
+        "1 1/2 teaspoons salt",
+        "1 tablespoon sugar fine",
+        "1 1/2 teaspoons instant yeast Fleischmann\u2019s",
+        "1/2 teaspoon fennel seeds crushed",
+        "1 1/4 cups warm water",
+        "1 3/4 tablespoons butter melted"
+    ],
+    "ratings": null,
+    "cookTime": "PT32M30S",
+    "serve": "4 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Hazelnut-Torte-2655248",
+    "recipeName": "Hungarian Hazelnut Torte",
+    "recipePhoto": "https://lh3.googleusercontent.com/HMbYr4rPVplXj0zVIZWFxFM_tCi3RPV-rPsqRc-bqx-7jf9uhXeBrwLIJZx8ujTGfBhA1J_MkGvACd2QoS__Rg",
+    "ingredients": [
+        "2/3 cup chopped hazelnuts",
+        "4 large eggs separated, best if not cold",
+        "10 sugar tabelspoons, divided",
+        "4 tablespoons butter softened",
+        "3/4 cup confectioners sugar",
+        "1 tablespoon cocoa",
+        "1 teaspoon rum",
+        "1/2 teaspoon instant coffee",
+        "water as needed",
+        "6 tablespoons sugar",
+        "1 teaspoon butter",
+        "2 tablespoons water",
+        "breadcrumbs",
+        "non stick spray",
+        "whipped cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "8 servings",
+    "tags": "Roasting, Torte, Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Turos-Csusza-_pasta-With-Cottage-Cheese_-Allrecipes",
+    "recipeName": "Turos Csusza (Pasta with Cottage Cheese)",
+    "recipePhoto": "https://lh6.ggpht.com/1idOT4-zbUzvtMw57WLk6Z-4iV88PwdwXMC5M1PatnVOhxpe5u8ySqpBxoRkZzt5pRSBOeAGYhNoNbm2LF3Hmg",
+    "ingredients": [
+        "16 ounces egg noodles",
+        "3 1/2 slices smoked bacon",
+        "2 cups sour cream",
+        "12 ounces cottage cheese",
+        "salt to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "8 servings",
+    "tags": "Oven, Quick and Easy, Low Sodium, Baking, Main Dishes, Hungarian, Quick, Easy, Low Sugar, Low Calorie, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Dobosh-Torte-_Dobos-Torta_-2505056",
+    "recipeName": "Hungarian Dobosh Torte (Dobos Torta)",
+    "recipePhoto": "https://lh3.googleusercontent.com/y-jdD9kdIijC-lfhUWxu7zr8gZ4PgvLjT_5sIYFWStebDw3lF3SmrW0y0YDHPXwv5LQXZCKflOIbKWcL9rXVjQ",
+    "ingredients": [
+        "8 ounces unsalted butter room-temperature",
+        "1 cup sugar",
+        "4 eggs large room-temperature, lightly beaten",
+        "1 1/2 cups all purpose flour",
+        "1 teaspoon vanilla",
+        "8 ounces semisweet chocolate chopped",
+        "2 ounces unsweetened chocolate chopped",
+        "1 pound unsalted butter room-temperature",
+        "5 egg whites large room-temperature",
+        "1 cup sugar",
+        "2/3 cup sugar",
+        "1/3 cup water"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "16 servings",
+    "tags": "Desserts, Glazing, Torte, Browning, Microwaving, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Tandoori-Style-Chicken-Paprikash-2109443",
+    "recipeName": "Tandoori Style Chicken Paprikash",
+    "recipePhoto": "https://lh3.googleusercontent.com/miZvvl2FfcBdvCJY6BAas5iVg6XARV4OKZCZVL6oSZfsp-vjWRh62go7XTirdFDZLt0TuVTQM1s4z9O195od",
+    "ingredients": [
+        "1 1/2 pounds chicken drumsticks",
+        "1/2 cup greek yogurt",
+        "1 tablespoon hungarian paprika sweet"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Easy, Low Sodium, Baking, Hungarian, Low Sugar, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cabbage-Strudel-_Kaposztas-Retes_-1388677",
+    "recipeName": "Hungarian Cabbage Strudel (Ka\u0301poszta\u0301s Re\u0301tes)",
+    "recipePhoto": "https://lh3.googleusercontent.com/ZzNc7d3xUrxOTGiABgvp7RR_Dh0pPYipRE72U0I-aghz6C4cOrePyzAfO4mfflOECBcOaAemmsfL4yWz252XIuM",
+    "ingredients": [
+        "1 pound cabbage half of a medium head",
+        "1/2 tablespoon salt",
+        "4 tablespoons unsalted butter or 2 Tablespoons extra virgin olive oil for saut\u00e9ing",
+        "salt",
+        "freshly ground pepper",
+        "1 teaspoon caraway seeds optional",
+        "3 tablespoons dried bread crumbs",
+        "1 stick unsalted butter for brushing Phyllo dough",
+        "8 sheets phyllo dough defrosted, see tidbit below"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Oven, High Vitamin C, Browning, Sugar Free, Low Sugar, Low Carb, Drying, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Gerbeaud-Cake-_Zserbo-szelet_-2638198",
+    "recipeName": "Hungarian Gerbeaud Cake (Zserbo\u0301 szelet)",
+    "recipePhoto": "https://lh3.googleusercontent.com/8lOLTw-ZJcmpzx6j0PUxvbBnKsH0erC-t5gAYGvnAcLhmj0cynGu6OExuZbpjcyKFr-YTZUDK4Yc2eDhogMSzzU",
+    "ingredients": [
+        "4 cups plain flour",
+        "1 1/8 cups margarine or butter",
+        "2 1/16 tablespoons fresh yeast",
+        "1 whole egg",
+        "2 egg yolks",
+        "1 tablespoon sugar",
+        "6 3/4 tablespoons whole milk",
+        "1/2 lemon",
+        "1 pinch salt",
+        "1 3/8 cups ground walnuts",
+        "6 2/3 tablespoons powdered sugar",
+        "1 1/4 cups apricot jam homemade",
+        "7 tablespoons butter",
+        "4 tablespoons sugar",
+        "4 tablespoons cocoa powder 20-22%",
+        "4 tablespoons water"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "8 servings",
+    "tags": "Desserts, Browning, Cake, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hortobagyi-Palacsinta-_Hungarian-Stuffed-Crepes_-2685690",
+    "recipeName": "Hortoba\u0301gyi Palacsinta (Hungarian Stuffed Crepes)",
+    "recipePhoto": "https://lh3.googleusercontent.com/g5Y8Zg_1WUWZYeM2rMV0uaabLwXWLyPnlhV4KKefQsF1ZS7JD014q_8SLZgXpXKweYZgljvCxbo8P5FcP_7ntA",
+    "ingredients": [
+        "stew",
+        "1/4 cup extra-virgin olive oil",
+        "1/2 cup diced onions",
+        "1 pound ground veal chicken, pork, or beef",
+        "10 1/2 ounces diced tomatoes",
+        "1 cup water",
+        "4 teaspoons paprika",
+        "1/4 teaspoon caraway seeds",
+        "2 tablespoons chopped parsley freshly",
+        "1/2 cup sour cream",
+        "salt",
+        "pepper",
+        "4 eggs",
+        "1 cup flour",
+        "1 cup milk",
+        "oil for pan",
+        "meat Drained liquid from",
+        "1/4 cup flour",
+        "1 cup sour cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "5 servings",
+    "tags": "Low Sodium, Baking, Main Dishes, Source of Omega-3s, Low Sugar, High Potassium, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Diotorta_-Hungarian-Walnut-Cake-627083",
+    "recipeName": "Diotorta: Hungarian Walnut Cake",
+    "recipePhoto": "https://lh5.ggpht.com/USJ6bQ-AxEhnJIybtRTOo4NCKolkwQp7qTMXI2o8p-ZphoZrJgZTAGfyuTavjOLLlDoznehlxwDEAk626v6P",
+    "ingredients": [
+        "6 egg yolks",
+        "1 cup superfine sugar",
+        "7/8 cup flour",
+        "4 tablespoons walnuts ground",
+        "3 1/2 tablespoons rum",
+        "6 egg whites",
+        "6 tablespoons flour",
+        "1 1/4 cups milk",
+        "1 1/3 cups butter softened",
+        "1 1/4 cups superfine sugar",
+        "1/2 cup walnuts ground, plus extra for garnish",
+        "3 tablespoons rum",
+        "1 tablespoon vanilla extract"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Baking, Cake, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Apple-Pie-2303821",
+    "recipeName": "Hungarian Apple Pie",
+    "recipePhoto": "https://lh3.googleusercontent.com/Z8McYJCBVVb80xFIDpkpZcgU5fH_q7rkO59iAHqCm5jgcgs1wXItJOOGRlFvNH9I_6dCioECdwUuYZfWAObtyA",
+    "ingredients": [
+        "3 1/4 cups flour ~3 1/4 cups",
+        "2/3 cup butter ~2/3 cup",
+        "1/2 cup sugar ~1/2 cup",
+        "9/16 tablespoon baking powder ~2 tsp",
+        "1/2 vanilla bean",
+        "1 egg",
+        "7 1/2 tablespoons yogurt ~1/3 cup",
+        "1 pinch salt",
+        "16 cups apple ~4 1/2 lb",
+        "2 teaspoons cinnamon",
+        "1/2 cup sugar ~1/2 cup",
+        "1 tablespoon semolina",
+        "1 egg"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H10M",
+    "serve": "4 servings",
+    "tags": "Desserts, Browning, Pie, Baking, Apple Pie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cheesecake-1761982",
+    "recipeName": "Hungarian Cheesecake",
+    "recipePhoto": "https://lh3.googleusercontent.com/jTHKjhawLs5pBfPKRjifYbjjkkWlBFfCvyPmaNl5h0F8wzdvAfXJJ-TMLckZFL6tgC-xva8vnMFG4IrA6STGVBo",
+    "ingredients": [
+        "1 1/8 pounds curd cheese drained",
+        "2 large eggs",
+        "1 2/3 cups caster sugar",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups plain flour",
+        "7 tablespoons unsalted butter",
+        "1 1/2 teaspoons baking powder",
+        "2/3 cup sweetened condensed milk",
+        "4 tablespoons creme fraiche or sour cream",
+        "1 lemon"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Desserts, Cheesecake, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-White-Bread-1074304",
+    "recipeName": "Hungarian White Bread",
+    "recipePhoto": "https://lh3.googleusercontent.com/OQYymxyzUekQy_1v2K-aCz2SOhZWz0-qNvyzgZDkU4ly630vsvaDGh4KrLj2LYqIILEU4T7b9lou494EgMx66Q",
+    "ingredients": [
+        "6 1/2 cups all purpose flour",
+        "1/4 ounce instant yeast",
+        "3 tablespoons granulated sugar",
+        "2 teaspoons salt",
+        "1 teaspoon fennel seeds",
+        "3/4 teaspoon anise seeds",
+        "2 cups water",
+        "2 tablespoons vegetable oil",
+        "1 1/2 tablespoons unsalted butter melted"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H20M",
+    "serve": "20 servings",
+    "tags": "Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Kifli-2301717",
+    "recipeName": "Hungarian Kifli",
+    "recipePhoto": "https://lh3.googleusercontent.com/yTwX8rOtTxBFYXSHCxoIHz4A_XVrrt25srT8x7ne8_vE_jwq3IFtlRntHVPHOvz299BKQvsoUnlTgmzuTS1j",
+    "ingredients": [
+        "227 grams cream cheese cold, cubed",
+        "1 cup unsalted butter softened",
+        "1 egg yolk reserve the egg white for later",
+        "1 teaspoon vanilla",
+        "2 cups all purpose flour",
+        "1/2 teaspoon baking powder",
+        "1 pinch fine sea salt",
+        "1 egg white",
+        "1 pinch cream of tartar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "22 servings",
+    "tags": "Desserts, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kalacs-_hungarian-Cinnamon-Swirl-Bread_-Allrecipes",
+    "recipeName": "Kalacs (Hungarian Cinnamon Swirl Bread)",
+    "recipePhoto": "https://lh6.ggpht.com/tVVTR-bNPKlFRSa_xCu19T8-El7BrYz7r1vDig61u9QxEsiphMXLlua1FsE_jLhTU2M_W_4p62ivumZZm5Mc",
+    "ingredients": [
+        "4 cups all-purpose flour",
+        "1/4 cup white sugar",
+        "1 teaspoon salt",
+        "1/4 ounce active dry yeast",
+        "1 egg",
+        "1/4 cup melted butter",
+        "1 1/4 cups milk warm, 110 degrees F/45 degrees C",
+        "1 teaspoon vanilla extract",
+        "melted butter for brushing",
+        "1 teaspoon ground cinnamon",
+        "1/3 cup brown sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H10M",
+    "serve": "20 servings",
+    "tags": "Breads, Browning, Hungarian, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Sweet-Potato-Biscuits-1876538",
+    "recipeName": "Hungarian Sweet Potato Biscuits",
+    "recipePhoto": "https://lh3.googleusercontent.com/Ouv3gLw-ZjkOImJ6jKVBah8pdWNH1JBrKwXZBq6aKEfs_6Iu5f4JMNfZLu28JOYfRpe7HiGYfYbh7LWzeUK3DA",
+    "ingredients": [
+        "350 grams potatoes I used regular and sweet potatoes",
+        "1/2 cup milk plant",
+        "15 teaspoons dry yeast",
+        "350 grams whole wheat flour",
+        "25 tablespoons tahini thick",
+        "2 tablespoons nutritional yeast optional",
+        "salt",
+        "pepper",
+        "1 cup green olives",
+        "1 cup fresh parsley",
+        "1 cup fresh cilantro",
+        "1 red onion small",
+        "1 clove garlic",
+        "1 lemon juice",
+        "1 lime juice",
+        "salt",
+        "pepper"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H50M",
+    "serve": "40 servings",
+    "tags": "Breads, Browning, Oven, Steaming, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Kifli-Ii-Allrecipes",
+    "recipeName": "Hungarian Kifli II",
+    "recipePhoto": "https://lh4.ggpht.com/Qwmtu1IpJxkfe5i45hFZvgmjgZTDh_L8S1NT3LQoq0dDe88ZdngxcLb0z-TBOVckuVg0z9GAAVdn6zBokPgZ",
+    "ingredients": [
+        "9 ounces cream cheese",
+        "1 cup butter",
+        "3 egg yolks",
+        "1 teaspoon vanilla extract",
+        "2 1/2 cups all-purpose flour",
+        "1 pinch salt",
+        "1/2 teaspoon baking powder",
+        "3 egg whites",
+        "8 ounces ground walnuts",
+        "1 cup white sugar",
+        "1/3 cup confectioners' sugar for decoration"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "48 servings",
+    "tags": "Oven, Desserts, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/HUNGARIAN-SWEET-BUN---BUKTA-1838890",
+    "recipeName": "HUNGARIAN SWEET BUN - BUKTA",
+    "recipePhoto": "https://lh3.googleusercontent.com/KrRJkJe56qVHe1r4joO8ZGxHzeIlaWns6gPGlXiLUcGlscRyB7-WvW1UeoGHANSPe23zTFWei_Si7mEkbjLQ",
+    "ingredients": [
+        "2 1/3 cups bread flour",
+        "1/3 cup butter room temperature",
+        "1/4 cup sugar",
+        "1 package vanilla sugar",
+        "1/8 teaspoon salt",
+        "2 1/2 teaspoons instant dry yeast",
+        "3/4 cup milk lukewarm",
+        "1 egg",
+        "2 tablespoons melted butter",
+        "1/4 cup butter room temperature",
+        "4 tablespoons sugar",
+        "3 tablespoons cocoa sifted"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "12 servings",
+    "tags": "Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Biscuits-2580980",
+    "recipeName": "Hungarian Biscuits",
+    "recipePhoto": "https://lh3.googleusercontent.com/Vn9abrf-44fktfJuOtS7Jvida_X-vHp3qR1gCmdoZeRULn_U_erK0o-NaGr-SbEFCIC7Xt_YW3mNU_s61ICz",
+    "ingredients": [
+        "2 3/8 cups all purpose flour /, 10 1/2 ounces",
+        "1 cup sugar /, 7 ounces",
+        "2/3 cup margarine /, 5 1/3 ounces softened",
+        "4 whole eggs",
+        "13/16 cup pear /, 5 1/3 ounces ripe",
+        "6 3/4 tablespoons sugar /, 3 ounces",
+        "1 lemon peel",
+        "1 cinnamon stick",
+        "4 3/4 tablespoons dark chocolate /, 1 3/4 ounces",
+        "1/2 cup milk /, 1/2 cup",
+        "1 teaspoon margarine",
+        "1 tablespoon sugar",
+        "1 teaspoon corn starch"
+    ],
+    "ratings": null,
+    "cookTime": "PT3H20M",
+    "serve": "18 servings",
+    "tags": "Baking, Desserts"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-style-Chicken-_-Ratatouille-1242321",
+    "recipeName": "Hungarian style Chicken & Ratatouille",
+    "recipePhoto": "https://lh3.googleusercontent.com/Z5Gnxl9ssvNPOlDEl-rKBcvcaIJNP8YPWfhxumisZrfAXfRft-MNlmD2z4NNS8UXGpxm9p-F1s7IgUnYcMI1VUo",
+    "ingredients": [
+        "2 scallopini chicken breasts-",
+        "2 cups eggplant 1/2\u2033 dice-peeled",
+        "5 roma tomatoes halved",
+        "8 baby portabella mushrooms sliced thin",
+        "3 red skin potatoes thin slice",
+        "1 onion sliced",
+        "3 cloves garlic sliced",
+        "2 sprigs fresh rosemary",
+        "3 sprigs fresh thyme",
+        "4 tablespoons rub Szeged chicken",
+        "6 slices gouda or fresh mozzarella"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Ratatouille, Hungarian, Main Dishes"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Recipe-in-Spotlight-Grandmas-Kuglof-_Hungarian-Coffee-Cake_-2292112",
+    "recipeName": "Recipe in Spotlight \u2013 Grandma\u2019s Kuglof (Hungarian Coffee Cake)",
+    "recipePhoto": "https://lh3.googleusercontent.com/HpBOd8hREOs5iy4fOPCR57F6SYnEJ6TAWuuMVaQ_u0HupGq6mVdyWBMs5YwFxOLA9_fJ4XZWOeFOiVy1y6XMnA",
+    "ingredients": [
+        "13 tablespoons butter",
+        "1 3/4 cups sugar",
+        "4 eggs separated",
+        "1 cup milk",
+        "1/4 cup flour",
+        "2 teaspoons baking powder",
+        "4 tablespoons cocoa powder to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Easy, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cheese-Scones-2284490",
+    "recipeName": "Hungarian Cheese Scones",
+    "recipePhoto": "https://lh3.googleusercontent.com/DfVtmryCpqxqy1dFZmes9Ut1fQH-HpitzT94Bs-JIQXbUWFSOgKURBXFbUp-WccNNPew6-sKpLy4MZoqu3Hv",
+    "ingredients": [
+        "7/8 cup milk",
+        "1 teaspoon sugar",
+        "1 dry yeast sachet",
+        "16 ounces all purpose flour + extra for dusting",
+        "1 egg beaten",
+        "2 teaspoons salt",
+        "3/4 cup butter melted",
+        "1 tablespoon sour cream",
+        "1 3/4 ounces grated cheese I used Cheddar",
+        "1 beaten egg to glaze",
+        "1/3 cup grated cheese for the top"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H55M",
+    "serve": "5 servings",
+    "tags": "Breads, Scones, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Jam-Filled-Crackling-Slippers---Lekvaros-Tepertos-Papucs-1971578",
+    "recipeName": "Hungarian Jam Filled Crackling Slippers - Lekva\u0301ros Teperto\u030bs Papucs",
+    "recipePhoto": "https://lh3.googleusercontent.com/06ndJCVfbaIoC8QjL1AiGrrCeTG5d-nnm6Jg307zpY2fZJF3TkGeZZYIvU1aS9PSKydyP9J5AFFZrZsyEBBzRg",
+    "ingredients": [
+        "8 cups flour",
+        "5 cups cracklings Ground, not the hard skin itself",
+        "1 cup sour cream",
+        "1 medium egg",
+        "2 tablespoons salt",
+        "2 teaspoons pepper",
+        "1 package active yeast",
+        "jam or filling of your choice."
+    ],
+    "ratings": null,
+    "cookTime": "PT2H25M",
+    "serve": "55 servings",
+    "tags": "Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Decadent-Chocolate-Cake--Rigo-Jancsi-2617926",
+    "recipeName": "Hungarian Decadent Chocolate Cake- Rigo Jancsi",
+    "recipePhoto": "https://lh3.googleusercontent.com/uAGLWP4b4_iTH4Za4dk_XGDckFyTTEEBXtnLb5qiIY8W8Uc2aPWXfkjKz9LFT-KfhuGRNmIBzkMRWVZJfTihVmg",
+    "ingredients": [
+        "4 cups heavy cream",
+        "1/4 cup unsalted butter \u00bd stick",
+        "1/4 cup sugar",
+        "20 ounces semisweet chocolate finely chopped",
+        "2 ounces chocolate chopped, separately will use it for the topping",
+        "1/3 cup dark rum",
+        "2 teaspoons vanilla extract",
+        "1/4 cup water",
+        "2 tablespoons granulated sugar",
+        "2 tablespoons dark rum",
+        "1 1/2 teaspoons vanilla extract",
+        "3/4 teaspoon instant coffee powder",
+        "2/3 cup all purpose flour",
+        "3 tablespoons unsweetened cocoa powder",
+        "1/2 teaspoon baking soda",
+        "3 large eggs separated",
+        "3/4 cup granulated sugar",
+        "1/4 teaspoon salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H18M",
+    "serve": "12 servings",
+    "tags": "Desserts, Glazing, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chicken-Paprikash-2339383",
+    "recipeName": "Chicken Paprikash",
+    "recipePhoto": "https://lh3.googleusercontent.com/c_C7j1iwf5Ekrj0kLUXIj6gD50MsGkRlZr0GatXvlfZpoc4Iid8n19Vz-GgyJiaQpAvo3M-u_Rjv64euojsiZ9s",
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "8 chicken thighs skin on and bone in",
+        "2 onions finely chopped",
+        "2 garlic cloves crushed",
+        "2 green peppers deseeded and finely chopped",
+        "3 tablespoons smoked paprika sweet",
+        "1 teaspoon paprika",
+        "1 tablespoon plain flour",
+        "2 11/16 cups chopped tomatoes",
+        "1 11/16 cups chicken stock",
+        "5/8 cup soured cream",
+        "1 7/8 cups self raising flour",
+        "2 5/8 ounces suet /2\u00bdoz",
+        "1 tablespoon fresh dill finely chopped",
+        "1 tablespoon finely chopped fresh parsley",
+        "2 1/8 cups chicken stock",
+        "salt",
+        "freshly ground black pepper"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "2 servings",
+    "tags": "Baking, Main Dishes, Frying, Browning, Sauteeing"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/BAKERY-CRESCENTS---PEK-KIFLI-2018340",
+    "recipeName": "BAKERY CRESCENTS - PE\u0301K KIFLI",
+    "recipePhoto": "https://lh3.googleusercontent.com/4HBBdDw8xlawnhf28fCxbOxmR-OczoKauz49e4AKE9K1jm2pRkqIWpE-3kiqwETvMe4_bQ-12Nvc2nRdmYpU",
+    "ingredients": [
+        "4 cups flour",
+        "1 tablespoon sugar",
+        "1 package instant dry yeast",
+        "1 cup milk lukewarm",
+        "1/4 cup butter melted",
+        "3 tablespoons sour cream",
+        "1 teaspoon salt",
+        "2 tablespoons butter for brushing",
+        "1 egg yolk for egg wash"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "4 servings",
+    "tags": "Baking, Breads, Glazing, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Rakoczi-Turos---Hungarian-Ricotta-Cake-1035165",
+    "recipeName": "Ra\u0301ko\u0301czi Tu\u0301ro\u0301s - Hungarian Ricotta Cake",
+    "recipePhoto": "https://lh6.ggpht.com/T6rIrW8fcHCOvR3hemfnDASJ6fFsTdseYTtKz8BW2Ri8FTIY_3vgVtzFUf9ngvrmcQb23OLH4HwrxVw9GLJhIA",
+    "ingredients": [
+        "3 1/4 cups oat or any type of cookies",
+        "1 1/8 cups butter",
+        "4 1/16 cups ricotta cheese or farmers cheese",
+        "1 1/2 cups powdered sugar",
+        "6 egg yolks",
+        "vanilla",
+        "1 zest lemon's",
+        "4 egg whites",
+        "raisins as much as desired",
+        "6 egg whites",
+        "1 2/3 cups powdered sugar",
+        "peach preserve"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Baking, Hungarian"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Beigli-Allrecipes",
+    "recipeName": "Hungarian Beigli",
+    "recipePhoto": "https://lh4.ggpht.com/ANjz5ibwrW1ieYG8vPRJ6NozU9MjcBGAPVmyV7Ry3dA9WXoa9rtVPPF5eb4wUsMIKHmcHT7KuFLq1AFGVx161Q",
+    "ingredients": [
+        "5 tablespoons white sugar",
+        "1 cup unsalted butter cubed",
+        "3 egg yolks",
+        "8 ounces sour cream",
+        "4 cups self-rising flour",
+        "1/4 ounce active dry yeast",
+        "1 cup whole milk",
+        "1 cup white sugar",
+        "2 1/2 cups chopped walnuts finely",
+        "1 lemon zested",
+        "2/3 cup golden raisins",
+        "1 egg",
+        "1 tablespoon water"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H35M",
+    "serve": "30 servings",
+    "tags": "Oven, Browning, Hungarian, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Poppyseed-Pinwheel-Cookies-1954608",
+    "recipeName": "Hungarian Poppyseed Pinwheel Cookies",
+    "recipePhoto": "https://lh3.googleusercontent.com/kkBI8Uf6GRP-C8N2AR92J-dTZFBqZByv_Gm917URwQF-5kW0Pk9MMLqzhhWMycXGfD1OTa6164A-EOMGI05W",
+    "ingredients": [
+        "1/2 cup butter",
+        "1/4 cup granulated sugar",
+        "1 teaspoon lemon extract",
+        "1 large egg",
+        "1 1/4 cups flour all-purpose",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon ground cloves",
+        "3/4 cup poppy seed filling canned",
+        "powdered sugar sifted, optional, for sprinkling after baking"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "36 servings",
+    "tags": "Desserts, Browning, Cookies, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Flourless-Hazelnut-Cake-1610188",
+    "recipeName": "Hungarian Flourless Hazelnut Cake",
+    "recipePhoto": "https://lh3.googleusercontent.com/t80m0l7SJTi18GxeNuGcaSz1qWmU66AxB3EwChXhUqTSChVgrnri2y-vEyjjwpPlBXGPzw4igukCu-usFjm6hA",
+    "ingredients": [
+        "12 ounces hazelnuts",
+        "2 teaspoons baking powder",
+        "6 egg yolks",
+        "5/8 cup white sugar",
+        "6 egg whites",
+        "1 pint heavy whipping cream",
+        "1/8 cup chopped hazelnuts for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "12 servings",
+    "tags": "Oven, Baking, Desserts, Cake"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Split-Farmhouse-Loaf-1416280",
+    "recipeName": "Hungarian Split Farmhouse Loaf",
+    "recipePhoto": "https://lh3.googleusercontent.com/rI6IQSnVb1SohRqgdjUHcg2w18rqNR1ds4wQQ_9GBZ2JFQVgHG96q41x4ke3vsMdCU3IT__pu8sNydSczSlJBps",
+    "ingredients": [
+        "3 1/4 cups bread flour I used Five Roses all-purpose flour",
+        "1 1/2 teaspoons salt",
+        "1 tablespoon sugar fine",
+        "1 1/2 teaspoons instant yeast Fleischmann\u2019s",
+        "1/2 teaspoon fennel seeds crushed",
+        "1 1/4 cups warm water",
+        "1 3/4 tablespoons butter melted",
+        "1 egg white beaten",
+        "2 teaspoons fennel seeds for sprinkling",
+        "3 1/4 cups bread flour I used Canadian all-purpose flour",
+        "1 1/2 teaspoons salt",
+        "1 tablespoon sugar fine",
+        "1 1/2 teaspoons instant yeast Fleischmann\u2019s",
+        "1/2 teaspoon fennel seeds crushed",
+        "1 1/4 cups warm water",
+        "1 3/4 tablespoons butter melted"
+    ],
+    "ratings": null,
+    "cookTime": "PT32M30S",
+    "serve": "4 servings",
+    "tags": "Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Strawberry-Bars-530547",
+    "recipeName": "Hungarian Strawberry Bars",
+    "recipePhoto": "https://lh5.ggpht.com/i9GXyVB_8zF-h_s6Ii97vdk4syK2raTR8lEMxkVu21DqBiG2rY_o3cQPOja-XALvwzY3IQZXMWdlMaj9FMzWTU8",
+    "ingredients": [
+        "2 1/2 cups flour",
+        "1/2 cup sugar",
+        "2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 pinch salt",
+        "100 grams vegetable shortening",
+        "2 egg yolks",
+        "1/4 cup sour cream",
+        "2 tablespoons cold water",
+        "1/2 teaspoon vanilla",
+        "3/4 cup walnuts chopped",
+        "1 cup strawberry jam"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H15M",
+    "serve": "20 servings",
+    "tags": "Desserts, Bars, Baking, Hungarian, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-1408435",
+    "recipeName": "Hungarian Goulash",
+    "recipePhoto": "https://lh3.googleusercontent.com/pX5jvOUp9SqypB4138-EZ4W7Wcr242gNB9OB5R0GYncT14d3dRZCBCAqXNorxPGZIM_kaKjSLGybTTgXZUndLg",
+    "ingredients": [
+        "1/4 cup flour",
+        "1 1/3 pounds beef stew meat cubed",
+        "1 stick cooking spray",
+        "1 onion large, finely chopped",
+        "2 cloves garlic crushed",
+        "1 tablespoon sweet paprika",
+        "2 tomatoes large ripe, chopped",
+        "14 ounces diced tomatoes",
+        "1/2 cup beef stock",
+        "11 ounces portobello mushrooms sliced",
+        "1 cup frozen peas",
+        "mashed potato to serve",
+        "sour cream to serve"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H50M",
+    "serve": "4 servings",
+    "tags": "Oven, High Vitamin C, Goulash, Browning, Main Dishes, Low Sodium, Low Saturated Fat, High Potassium, Low Carb, Low Calorie, Low Fat, High Fiber, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chicken-Paprikash-Casserole-2623965",
+    "recipeName": "Chicken Paprikash Casserole",
+    "recipePhoto": "https://lh3.googleusercontent.com/_NTGjjBbFNU50X-dLtKYwXU8p7U7F2orfulG2ZiXbxr1C29q2gj3wDvYO7R54B7XynxKxzYpGqfFRCAHduNz4Q",
+    "ingredients": [
+        "6 boneless skinless chicken thighs cut into 1-inch pieces, about 1 1/2 lb",
+        "1 1/4 teaspoons salt",
+        "1/2 teaspoon pepper",
+        "8 ounces wide egg noodles uncooked",
+        "4 tablespoons olive oil",
+        "1 1/2 cups onions chopped",
+        "1 1/4 cups red bell peppers chopped",
+        "3 cloves garlic finely chopped",
+        "2 tablespoons hungarian paprika sweet",
+        "1/4 cup Gold Medal All Purpose Flour",
+        "2 tablespoons tomato paste Muir Glen\u2122 organic, from 6-oz can",
+        "2 1/2 cups Progresso Chicken Broth from 32-oz carton",
+        "4 ounces cream cheese",
+        "1 cup sour cream",
+        "1/2 cup panko Progresso\u2122 plain, crispy bread crumbs",
+        "1 tablespoon parsley finely chopped Italian, flat-leaf"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Casserole, High Vitamin C, Baking, Main Dishes, Low Sugar, High Potassium, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Streamline-Hungarian-Torte-Allrecipes",
+    "recipeName": "Streamline Hungarian Torte",
+    "recipePhoto": "https://lh6.ggpht.com/WsiJhjCKY_4NyPCw4EN29n3sOvQAlNvOpDK25r0uhJIFK6jKAeb783Vpr-NnoZdJbL0mzWylvAyNhQnN1yWpkQ",
+    "ingredients": [
+        "2 cups chopped walnuts",
+        "1 teaspoon ground cinnamon",
+        "3/4 cup white sugar",
+        "1/4 cup warm water 110 degrees F/45 degrees C",
+        "1/4 ounce active dry yeast",
+        "1 teaspoon white sugar",
+        "4 egg yolks",
+        "1/2 cup sour cream",
+        "1 1/3 cups butter or margarine, softened",
+        "4 1/2 cups all purpose flour",
+        "16 ounces apricot preserves",
+        "4 egg whites",
+        "2/3 cup white sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "6 servings",
+    "tags": "Oven, Desserts, Baking, Torte"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chicken-Paprikash-2477054",
+    "recipeName": "Chicken Paprikash",
+    "recipePhoto": "https://lh3.googleusercontent.com/eeGazEBfXgXWceEMC76OgqAsxS2nQkaj9JLhgABPe034-ersDyuYIk9BXzUg8O1o3xyDsrKe5B2nXs-Sj4mHd3g",
+    "ingredients": [
+        "1 tablespoon lard non-hydrogenated",
+        "2 tablespoons butter",
+        "1 yellow onion",
+        "5 cloves garlic",
+        "4 chicken thighs skin on and bone in",
+        "1 tablespoon paprika Hungarian sweet",
+        "1 teaspoon paprika Hungarian sweet",
+        "1 1/2 teaspoons paprika Hungarian",
+        "1 1/2 teaspoons smoked paprika",
+        "3/4 teaspoon red pepper cayenne",
+        "1 bay leaf",
+        "1 tablespoon white cooking wine",
+        "2 teaspoons lemon juice",
+        "1 cup chicken stock",
+        "1 packet gelatine",
+        "10 tablespoons sour cream full fat"
+    ],
+    "ratings": null,
+    "cookTime": "PT20M",
+    "serve": "4 servings",
+    "tags": "Low Sodium, Quick, Drying, Main Dishes, Low Sugar, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Rakott-Kaposzta_-Hungarian-Cabbage-Casserole-2273743",
+    "recipeName": "Rakott Kaposzta, Hungarian Cabbage Casserole",
+    "recipePhoto": "https://lh3.googleusercontent.com/t5mWsb1g2Qd8-8Cxitxxh50JnoWr-Tgmk8ldN2mfc6e1-GrkXDZ22-IeIM_UA_ivAaC35mNIciRd2MapmS5T",
+    "ingredients": [
+        "1 head green cabbage",
+        "1 cup long-grain rice uncooked",
+        "1 1/2 cups water",
+        "2 slices bacon uncooked, diced",
+        "1 onion large, finely chopped",
+        "2 cloves garlic minced",
+        "1 pound ground pork",
+        "1/4 cup water",
+        "1 tablespoon hungarian paprika",
+        "1/2 tablespoon unsalted butter",
+        "16 ounces sour cream",
+        "salt",
+        "pepper"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Casserole, Browning, Main Dishes, Low Sodium, High Calcium, Low Sugar, High Potassium, High Protein, High Iron, High Fiber, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Pumpkin-Chicken-Paprikash-2178466",
+    "recipeName": "Pumpkin Chicken Paprikash",
+    "recipePhoto": "https://lh3.googleusercontent.com/bdaDn3tE25z63yrcs2CtjrrtYyxR9qnbXXgPmv7hKLdFzAgoF9zwRx-Ie5aacVDaHkxG2RydF_zoW4Bfm_Awp6Q",
+    "ingredients": [
+        "8 chicken thighs",
+        "1 tablespoon oil",
+        "2 cloves garlic minced",
+        "1 onion diced",
+        "2 tablespoons smoked paprika or Hungarian",
+        "1 carrot diced",
+        "15 ounces pumpkin puree pure",
+        "3 cups chicken broth",
+        "salt",
+        "pepper",
+        "1 cup sour cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "5 servings",
+    "tags": "Source of Omega-3s, Browning, Main Dishes, Low Sugar, High Potassium, High Protein, High Iron, Low Carb, Sauteeing, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Pork-Chops-1955521",
+    "recipeName": "Hungarian Pork Chops",
+    "recipePhoto": "https://lh3.googleusercontent.com/zHUfjRtAg5nM99XwPZzMSrC7BifW0rBSV4mM8df2bbniEqjcwBZ-LJMJsYkZoEd4R3u-b3FUZToovrbmfnHwRA",
+    "ingredients": [
+        "8 pork chop thinly cut, bone in gives more flavor",
+        "5 tablespoons butter dived by 2, 2 and 1 tab",
+        "1/2 cup all purpose flour",
+        "2 tablespoons hungarian sweet paprika",
+        "1 teaspoon salt pink Himalayan, or sea salt",
+        "1 teaspoon black pepper fresh",
+        "1 teaspoon onion powder",
+        "1/2 teaspoon dried dill",
+        "1 cup sour cream",
+        "2 cups chicken broth",
+        "1 cup white wine",
+        "1/2 cup warm water",
+        "1/2 lemon",
+        "1 spanish onion sliced into rings",
+        "3 cloves garlic minced",
+        "1/2 cup sauerkraut rinsed and drained",
+        "mushrooms 1 1b., sliced",
+        "1 tablespoon dill fresh chopped, for garnish",
+        "1 bag wide egg noodles",
+        "poppy seeds 1/ 4 teaspoon"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H",
+    "serve": "8 servings",
+    "tags": "Low Sugar, Baking, Main Dishes, High Potassium, High Protein"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-noodles-310458",
+    "recipeName": "Hungarian Noodles",
+    "recipePhoto": "https://lh5.ggpht.com/9PPHYhLxEd7bzd33oHKofkerM8rjkNeUvoErov2b6gFambAm4sHZOtEwev9MQlPLfFwXxmLiBJOfN_YHRZt1uw",
+    "ingredients": [
+        "8 ounces fine egg noodles",
+        "2 cups cottage cheese",
+        "2 cups sour cream",
+        "1/2 cup onions chopped",
+        "2 tablespoons worcestershire sauce",
+        "2 tablespoons poppy seeds",
+        "1 teaspoon salt",
+        "1 tablespoon grated parmesan cheese",
+        "1 pinch paprika ground"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT50M",
+    "serve": "6 servings",
+    "tags": "Oven, Easy, High Calcium, Baking, Hungarian, High Carb, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Betsys-No-Garlic-Chicken-Paprikash-1341647",
+    "recipeName": "Betsy\u2019s No Garlic Chicken Paprikash",
+    "recipePhoto": "https://lh3.googleusercontent.com/d8x4ODROCz7HIEAyKs0uJ4Wvy3m9x4QIMHS2d3kzyjTfroziW21HTnczsL5K9q4zyXbfC55Vwgwd2MMGbkw7aQ",
+    "ingredients": [
+        "2 tablespoons butter or margarine",
+        "1 onion diced",
+        "1 cup bell pepper diced, multiple colors",
+        "2 tablespoons sweet paprika",
+        "1/2 teaspoon onion powder",
+        "1/2 teaspoon salt",
+        "1/8 teaspoon cayenne",
+        "1/8 teaspoon pepper",
+        "1/2 teaspoon thyme leaf",
+        "1 1/2 cups organic chicken broth",
+        "3/4 cup wine Moscato",
+        "2 pounds chicken thighs boneless and skinless",
+        "1 cup sour cream",
+        "2 tablespoons flour Wonder",
+        "bacon crumbled, optional",
+        "parsley garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Sauteeing, Main Dishes, Oven, Low Sugar, High Potassium, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-shortbread-318302",
+    "recipeName": "Hungarian Shortbread",
+    "recipePhoto": "https://lh5.ggpht.com/3rnhMk4BrFmk3tapPYxfcEQcTVD3CzwbTd87H62UubFVj-Le-i98vC1MvAXfBUMATYOOSEjfBN5C0xFcxKYGwQ",
+    "ingredients": [
+        "3 pounds rhubarb washed, trimmed and cut into 1\u201d chunks",
+        "1 1/2 cups granulated sugar",
+        "1 cup water",
+        "3 strips lemon zest or orange zest",
+        "4 cups unbleached all purpose flour",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon sea salt",
+        "3 1/2 sticks unsalted butter room temperature",
+        "4 large egg yolks",
+        "2 cups granulated sugar",
+        "1 teaspoon vanilla extract",
+        "3 cups jam homemade or good-quality store-bought, any flavor you like",
+        "confectioner's sugar for dusting the top"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "10 servings",
+    "tags": "Oven, Desserts, Browning, Shortbread, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Smokey-Chicken-Paprikash-Tacos-498170",
+    "recipeName": "Smokey Chicken Paprikash Tacos",
+    "recipePhoto": "https://lh6.ggpht.com/gYCVoSFDZpIG-X2tkfpWDnKMMFg0X6LV2lLGmomjCsdNEm4we4W5NhM4RJhpKOIHjeIpL8wNCgXGhNaIaG2mGH8",
+    "ingredients": [
+        "2 pounds boneless skinless chicken thighs",
+        "table salt",
+        "black pepper",
+        "white pepper",
+        "1/2 cup butter",
+        "1/4 cup shallot minced",
+        "2 teaspoons minced garlic",
+        "2 teaspoons hungarian sweet paprika",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon turmeric",
+        "1/2 teaspoon cayenne",
+        "2 cups water",
+        "4 cups chicken stock",
+        "2 cups basmati rice",
+        "1/2 cup vegetable oil",
+        "12 corn tortillas yellow",
+        "2 cups shredded pepper jack cheese Sargento",
+        "2 avocados diced",
+        "1 lime",
+        "hot sauce"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "12 servings",
+    "tags": "One Pot, Low Sodium, Frying, Main Dishes, Oven, Tacos, Source of Omega-3s, Low Sugar, High Protein, High Iron, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kossuth-Kifli-or-Half-Moon-Cookies-2618017",
+    "recipeName": "Kossuth Kifli or Half Moon Cookies",
+    "recipePhoto": "https://lh3.googleusercontent.com/mpHkiO69cgZ0EOSYhOyAw6l-WAYX2IeoOIE1bnlJxdfmPQaenIB3oHhUkxd0JjwEoi-akyf6BuXKHIF-hNOvjA",
+    "ingredients": [
+        "1/2 cup butter at room temperature",
+        "2 cups powder sugar",
+        "4 eggs separated",
+        "2 cups all purpose flour",
+        "1 lemon zest",
+        "1 orange zest",
+        "1 teaspoon vanilla extract",
+        "1 lemon",
+        "1 cup ground walnuts"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Desserts, Quick, Browning, Cookies, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Bread-Pudding---Maglyarakas-2384919",
+    "recipeName": "Hungarian Bread Pudding - Ma\u0301glyaraka\u0301s",
+    "recipePhoto": "https://lh3.googleusercontent.com/2TySXvGXDmJdcOb90gvb0Qh79Ayweo9A-FzdkQDHLm6WpEAaN4SGVYNpD5281LmdH_JKBDNkJ5NIPM0rFZv8",
+    "ingredients": [
+        "bread pudding and warm vanilla sauce:",
+        "1 loaf stale bread day-old, / Brioch / French Bread",
+        "1 instant vanilla pudding pack",
+        "4 cups milk",
+        "1/2 cup sugar",
+        "5 egg yolks",
+        "3 apples",
+        "1 teaspoon cinnamon",
+        "4 tablespoons apricot jam",
+        "meringue",
+        "5 egg whites",
+        "1/2 cup sugar",
+        "4 tablespoons strawberry jam"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "12 servings",
+    "tags": "Baking, Hungarian, Bread Pudding, Desserts"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Poppy-Seed-Hungarian-Style-Cookies-Allrecipes",
+    "recipeName": "Poppy Seed Hungarian Style Cookies",
+    "recipePhoto": "https://lh4.ggpht.com/CZeP2xVa_ZHD77xx1SFzy27xEbSHzlxhDTluo-XxwJImitYmnwYKPAtY4RcOqHmBXUWOBBLHEaWSJ-7tBRAaMg",
+    "ingredients": [
+        "1/2 cup heavy cream",
+        "1 1/4 cups poppy seeds",
+        "1 1/2 cups whole wheat flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon ground cinnamon",
+        "3/4 cup butter softened",
+        "1/2 lemon juiced",
+        "2/3 cup maple-flavored syrup"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H",
+    "serve": "24 servings",
+    "tags": "Desserts, Browning, Cookies, Hungarian, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Kiffles-1533568",
+    "recipeName": "Hungarian Kiffles",
+    "recipePhoto": "https://lh3.googleusercontent.com/qxydouGJOCAcprCaL2MX4PqBKpTd-7xDNGP8y8q3X7lUhiBpoAMAqLigXNBquTvtJtEE4xTSPKyEfPqfPPwZvg",
+    "ingredients": [
+        "3 cups flour unsifted",
+        "3 tablespoons sugar",
+        "1/4 teaspoon salt",
+        "2 sticks butter",
+        "8 ounces cream cheese",
+        "3 egg yolks",
+        "confectioners' sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT11M30S",
+    "serve": "36 servings",
+    "tags": "Oven, Desserts, Quick, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chicken-Paprikash-2468416",
+    "recipeName": "Chicken Paprikash",
+    "recipePhoto": "https://lh3.googleusercontent.com/cmqojN_ejRpi9o5jOW46CsduOGCIQTn46LIQ9-wpibtgFuvJDk5rjkBcHgkxY6z9-JyH59d9_EGY47PcxFhwkSg",
+    "ingredients": [
+        "1 tablespoon lard non-hydrogenated",
+        "2 tablespoons butter",
+        "1 yellow onion",
+        "5 cloves garlic",
+        "4 chicken thighs skin on and bone in",
+        "1 tablespoon paprika Hungarian sweet",
+        "1 teaspoon paprika Hungarian sweet",
+        "1 1/2 teaspoons paprika Hungarian",
+        "1 1/2 teaspoons smoked paprika",
+        "3/4 teaspoon red pepper cayenne",
+        "1 bay leaf",
+        "1 tablespoon white cooking wine",
+        "2 teaspoons lemon juice",
+        "1 cup chicken stock",
+        "1 packet gelatine",
+        "10 tablespoons sour cream full fat"
+    ],
+    "ratings": null,
+    "cookTime": "PT20M",
+    "serve": "4 servings",
+    "tags": "Low Sodium, Quick, Drying, Main Dishes, Low Sugar, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Fried-Bread-Recipe-The-Hungarian-Langos-2646939",
+    "recipeName": "Fried Bread Recipe \u2013 The Hungarian Langos",
+    "recipePhoto": "https://lh3.googleusercontent.com/-bi6gnoIyO3mO9q6xBPMz4A37_OxtwZEY1EIojagY3PgI8QK1L79mE-ANIKEqHVE1wg26-kqKZ2bPJ3Z4YjjzQ",
+    "ingredients": [
+        "8 cups plain flour",
+        "250 milliliters yogurt",
+        "2 medium eggs",
+        "2 cups water lukewarm",
+        "1/4 ounce fresh yeast",
+        "1 teaspoon salt",
+        "4 cups oil to fry the dough in",
+        "garlic",
+        "sour cream",
+        "grated cheese",
+        "8 cups plain flour",
+        "250 milliliters yogurt",
+        "2 medium eggs",
+        "2 cups water lukewarm",
+        "1/4 ounce fresh yeast",
+        "1 teaspoon salt",
+        "4 cups oil to fry the dough in"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "16 servings",
+    "tags": "Browning, Breads, Baking, Frying"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Holiday-Horns-2329465",
+    "recipeName": "Hungarian Holiday Horns",
+    "recipePhoto": "https://lh3.googleusercontent.com/yDz94boxIU9w5IGe2bDsVKgklxcSkNo8GbURiJWurc9nHBLwzKm8wRsy9S77sJCb_a60fiIuNuN9j3zZxG2m3w",
+    "ingredients": [
+        "1/4 cup warm water",
+        "1 package yeast",
+        "5 cups flour",
+        "1 cup butter",
+        "1/2 cup shortening",
+        "1 cup milk",
+        "3 egg yolks",
+        "4 cups frozen mixed berries",
+        "1/2 cup sugar",
+        "1 cup water",
+        "1 1/2 teaspoons lemon juice",
+        "2 tablespoons cornstarch",
+        "4 ounces cream cheese",
+        "3 cups powdered sugar more for a thicker consistency",
+        "2 tablespoons cinnamon",
+        "3 tablespoons sugar",
+        "1 tablespoon powdered sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Ham-Strudel-With-Watercress-Salad-My-Recipes",
+    "recipeName": "Hungarian Ham Strudel with Watercress Salad",
+    "recipePhoto": "https://lh5.ggpht.com/P98zABnG_Y582dOScqC47NqC-jg2cX1WwMUx1L-qQHW_zIqFB0k8k7Ev0r9SQnGm_2S9EgVHBlo6BW4PAHj8Kw",
+    "ingredients": [
+        "6 green onions",
+        "1 1/2 cups cooked rice",
+        "1 cup shredded swiss cheese",
+        "2 tablespoons paprika",
+        "1 tablespoon caraway seed",
+        "2 tablespoons capers drained",
+        "6 sheets filo dough about 12 by 18 in.",
+        "1/3 cup butter or margarine, melted",
+        "1/2 pound cooked ham thin-sliced",
+        "1/3 cup reduced fat sour cream",
+        "3 tablespoons dijon mustard coarse-grain",
+        "1/2 pound watercress rinsed and crisped",
+        "2 tablespoons seasoned rice vinegar"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Oven, High Vitamin C, Browning, High Calcium, Low Sugar, High Protein, High Iron, Low Carb, Drying, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Smokey-Chicken-Paprikash-Casserole-1441319",
+    "recipeName": "Smokey Chicken Paprikash Casserole",
+    "recipePhoto": "https://lh3.googleusercontent.com/JszuSQZ8zXvsbNg26X6BGuEvAaUTAIST50iH0zCHb3SQTTBJvV_BL7SGZhWaW8KWpVwK_S3RH7YnwaY7aFS9ig",
+    "ingredients": [
+        "12 ounces egg noodles",
+        "2 pounds boneless, skinless chicken thighs cut into bite sized pieces",
+        "1 onion large, chopped",
+        "2 large carrots peeled and medium chopped",
+        "2 celery ribs, medium chopped",
+        "2 tablespoons smoked paprika",
+        "1 teaspoon salt",
+        "1/2 teaspoon pepper",
+        "1 1/2 teaspoons dried thyme leaves",
+        "1/2 cup greek yogurt",
+        "1/4 cup all purpose flour",
+        "2 cups milk warmed slightly"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "8 servings",
+    "tags": "Casserole, Low Sodium, Baking, Main Dishes, Oven, Low Sugar, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chicken-paprikash-hungarian-comfort-food-307677",
+    "recipeName": "Chicken Paprikash Hungarian Comfort Food",
+    "recipePhoto": "https://lh6.ggpht.com/2MmAJV5ORu-CqKYJzwCnPo9djyRocbdlPLuREblWu3YtUOhCK-167XjvPrIzamcesEgmXRmq0Sq9CzZGfUkttw",
+    "ingredients": [
+        "1 1/2 pounds boneless, skinless chicken breasts",
+        "1 cup low sodium chicken broth",
+        "14 1/2 ounces tomatoes with juice",
+        "1 yellow onion medium to, sliced into 1/8&quot; rings",
+        "1 garlic clove minced",
+        "1 1/2 tablespoons olive oil plus 1 T more if needed",
+        "1 1/4 teaspoons kosher salt",
+        "1/2 teaspoon ground black pepper",
+        "2 1/2 tablespoons hungarian paprika",
+        "1/3 tablespoon hungarian paprika 1/2 T if you like it spicy",
+        "2 tablespoons tomato paste",
+        "1 cup sour cream brought to room temperature",
+        "1 package egg noodles Wide, or spaetzle put into water when timer from Paprikash reads 7 minutes"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Oven, Low Sugar, Browning, Main Dishes, High Potassium, High Protein, Low Carb, Drying, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Venison-Stew-1104894",
+    "recipeName": "Hungarian Venison Stew",
+    "recipePhoto": "https://lh3.googleusercontent.com/Ifu_PREDCu6opeA_gRPJkVSMv9kmk8hf-oNyZLOat9ljwljxuf429_RUVSXL2pJapMimcq7NrG7l8tJQ2IEHQLY",
+    "ingredients": [
+        "1/4 cup all purpose flour",
+        "1 1/2 teaspoons salt divided",
+        "1/2 teaspoon ground black pepper freshly, divided",
+        "2 pounds venison cut into 1-inch cubes",
+        "2 tablespoons butter",
+        "2 cups chopped onion",
+        "2 teaspoons minced garlic",
+        "2 cups dry white wine or fruity red wine",
+        "2 tablespoons sugar",
+        "1 tablespoon hungarian paprika sweet",
+        "1 teaspoon ground red pepper",
+        "8 juniper berries",
+        "2 whole allspice berries",
+        "1 bay leaf"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "8 servings",
+    "tags": "Oven, Low Sodium, Baking, Main Dishes, Hungarian, Low Sugar, Low Saturated Fat, High Protein, High Iron, Low Carb, Low Calorie, Low Fat"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Potato-and-Egg-Casserole-1390027",
+    "recipeName": "Hungarian Potato and Egg Casserole",
+    "recipePhoto": "https://lh3.googleusercontent.com/rKmoFrLs-f-UxM1dZEMTRR28QiZd6_gw558K8aQ2y3WH1H5dmxnTboNuxrj5aFvPUamiEZTGp6EB_6Km8VfDSw",
+    "ingredients": [
+        "4 baking potatoes large, 3 pounds; 1.4 kilograms, such as russet, Idaho, or Burbank, scrubbed and halved crosswise",
+        "kosher salt",
+        "1 tablespoon unsalted butter at room temperature",
+        "12 hard boiled eggs large, cut into 1/3-inch-thick slices",
+        "freshly ground black pepper",
+        "3 cups sour cream",
+        "hungarian paprika Sweet, for sprinkling"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "7 servings",
+    "tags": "Oven, Baking, Casserole"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Chicken-Paprikash-_Hungarian-Comfort-Food_-1165508",
+    "recipeName": "Chicken Paprikash (Hungarian Comfort Food)",
+    "recipePhoto": "https://lh3.googleusercontent.com/_6OVWg5tyg6RFSDFv0PEITDipS-z3l1M2bhnp3tARuAlLPXpscvgpJ-2Ya2IQsh8vrnVyqLyoQY6ymjXgeqjKQ",
+    "ingredients": [
+        "1 1/2 pounds boneless skinless chicken breasts",
+        "1 1/4 teaspoons kosher salt",
+        "1/2 teaspoon ground black pepper Fresh",
+        "1 1/2 tablespoons olive oil plus 1 T more if needed",
+        "2 tablespoons tomato paste",
+        "1 yellow onion medium to large, sliced into 1/8\" rings",
+        "1 garlic clove small, minced",
+        "14 1/2 ounces diced tomatoes with juice",
+        "2 1/2 tablespoons hungarian paprika",
+        "1/3 tablespoon hungarian paprika 1/2 T if you like it spicy",
+        "1 cup low sodium chicken broth",
+        "1 cup sour cream brought to room temperature",
+        "1 package wide egg noodles or spaetzle put into water when timer from Paprikash reads 7 minutes"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Browning, Main Dishes, Oven, Low Sugar, High Potassium, High Protein, Low Carb, Drying, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Roast-Pork-Paprikash-TasteOfHome",
+    "recipeName": "Roast Pork Paprikash",
+    "recipePhoto": "https://lh4.ggpht.com/Y1taqfDfEfhHK21ek6lPC-0m3c8Mo6RLuow5IY6NiUcLSkgGqcLQDaiq8RmYR1hfkyCSGM2CrPQek7IXWUnm",
+    "ingredients": [
+        "7 garlic cloves",
+        "1 loin pork roast boneless whole, 3 pounds",
+        "1 teaspoon salt divided",
+        "1/4 teaspoon pepper",
+        "2 tablespoons dijon mustard",
+        "2 tomatoes large, peeled, seeded and quartered",
+        "3 onion medium, coarsely chopped",
+        "2 celery ribs chopped",
+        "1 green pepper medium, chopped",
+        "14 1/2 ounces beef broth",
+        "2 teaspoons paprika divided",
+        "1/2 pound fresh mushrooms sliced",
+        "2 tablespoons butter",
+        "2 teaspoons all-purpose flour",
+        "1 tablespoon lemon juice",
+        "1/2 teaspoon dried thyme"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "12 servings",
+    "tags": "Baking, Oven, Low Sodium, Main Dishes, Roasting, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cheese-Sticks-1660213",
+    "recipeName": "Hungarian Cheese Sticks",
+    "recipePhoto": "https://lh3.googleusercontent.com/YJeOKpVG_B4U9fMCDEcik12MV7_pLjE_gvhNqvHUYCvcLDWTx3n6mqKLyvPwu615KHJkDulceu4d1NbQXPk6bw",
+    "ingredients": [
+        "2 3/8 cups all purpose flour",
+        "2/3 cup margarine /sweet butter",
+        "1 tablespoon fast rising yeast bread machine yeast works",
+        "sour cream as necessary for kneeding, I generally need about 2 tbsp",
+        "7/8 cup shredded cheese sharp cheddar works well, freshly grated Salt and Pepper to taste",
+        "2 7/8 tablespoons shredded cheese",
+        "1 egg yolk"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "4 servings",
+    "tags": "Oven, Low Sodium, Browning, Hungarian, Source of Omega-3s, Low Sugar, High Protein, High Iron, Blending, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Croissants-With-Sesame-Seeds-_Kifli_-1655872",
+    "recipeName": "Croissants With Sesame Seeds (Kifli)",
+    "recipePhoto": "https://lh3.googleusercontent.com/y5GKaCvmMLLjx1SrlxY22hSZwDrPbrXrSw-KriRSXxCUmv5n9y9WvmJt4R3-akaul8FhhA3XVHNLWpS4w0kufWk",
+    "ingredients": [
+        "2 cups milk lukewarm",
+        "1 package active dry yeast",
+        "6 teaspoons sugar",
+        "2 tablespoons flour",
+        "1 tablespoon baking powder",
+        "2 teaspoons salt",
+        "1/2 cup vegetable oil",
+        "4 eggs separated",
+        "6 cups flour",
+        "1 stick margarine",
+        "sesame seeds"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "4 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Nut-Nuggets-_cookies_-Recipezaar",
+    "recipeName": "Hungarian Nut Nuggets (Cookies)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1 pound butter room temperature",
+        "10 tablespoons powdered sugar",
+        "2 cups chopped walnuts medium-coarse",
+        "2 teaspoons vanilla extract",
+        "4 cups flour"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "32 servings",
+    "tags": "Desserts, Quick, Browning, Hungarian, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cookie-Bars-Recipezaar",
+    "recipeName": "Hungarian Cookie Bars",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "1 3/4 cups brown sugar packed",
+        "1/2 cup margarine softened",
+        "1 teaspoon vanilla",
+        "1 1/4 cups all-purpose flour",
+        "2 large eggs",
+        "1 cup chopped nuts"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "6 servings",
+    "tags": "Desserts, Easy, Bars, Browning, Hungarian, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Flourless-Hazelnut-Cake-Recipezaar",
+    "recipeName": "Hungarian Flourless Hazelnut Cake",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "2 1/3 cups hazelnuts",
+        "5/8 tablespoon baking powder",
+        "6 egg yolks",
+        "5/8 cup white sugar",
+        "6 egg whites",
+        "2 cups heavy whipping cream",
+        "1/2 ounce chopped hazelnuts for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "12 servings",
+    "tags": "Desserts, Baking, Cake, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Butter-Cookies-_-Pogacsa-Recipezaar",
+    "recipeName": "Hungarian Butter Cookies - Pogacsa",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "2 3/4 cups all purpose flour",
+        "1 teaspoon baking powder",
+        "2/3 cup sugar",
+        "1/4 teaspoon salt",
+        "1 cup butter or 1 cup margarine, at room temperature",
+        "1 egg",
+        "1/3 cup sour cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "12 servings",
+    "tags": "Oven, Desserts, Baking, Cookies, Hungarian"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Salt-Sticks-Food_com-164147",
+    "recipeName": "Hungarian Salt Sticks",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 pound farmer cheese",
+        "1 pound butter",
+        "1 pound flour",
+        "2 egg yolks",
+        "caraway seed",
+        "kosher salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "1 servings",
+    "tags": "Oven, Baking, Hungarian, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cabbage-And-Noodles-Recipezaar",
+    "recipeName": "Hungarian Cabbage and Noodles",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "5 slices bacon",
+        "1 tablespoon sugar",
+        "1 1/2 teaspoons salt",
+        "6 cups cabbage chopped",
+        "4 ounces noodles medium, cooked",
+        "1/2 cup sour cream",
+        "paprika"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "6 servings",
+    "tags": "High Vitamin C, Baking, Hungarian, Oven, Low Sugar, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Grandpa_s-Hungarian-Kolacky-Recipezaar",
+    "recipeName": "Grandpa's Hungarian Kolacky",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "1 cup butter or 1 cup margarine, softened",
+        "6 ounces cream cheese, softened",
+        "2 cups all-purpose flour",
+        "jelly assorted baking, or pie filling, my favorites are apricot, poppy seed, almond, and raspberry",
+        "powdered sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT38M",
+    "serve": "32 servings",
+    "tags": "Desserts, Browning, Hungarian, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Turos-Csusza-_-Pasta-With-Cottage-Cheese-_hungary_-Recipezaar",
+    "recipeName": "Turos Csusza -- Pasta With Cottage Cheese (Hungary)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "16 ounces egg noodles",
+        "3 1/2 slices smoked bacon",
+        "2 cups sour cream",
+        "12 ounces cottage cheese",
+        "1/4 teaspoon salt to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "8 servings",
+    "tags": "Oven, Easy, Low Sodium, Baking, Hungarian, Low Sugar, Low Calorie, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Scandinavian-Kiflins-Recipezaar",
+    "recipeName": "Scandinavian Kiflins",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "14 ounces butter",
+        "3/4 cup sugar",
+        "4 cups flour",
+        "1/2 cup ground almonds finely",
+        "1 vanilla beans",
+        "1 1/2 cups powdered sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "20 servings",
+    "tags": "Desserts, Easy, Browning, Hungarian, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cream-Cheese-Cookies-With-Prune-Lekvar-Recipezaar",
+    "recipeName": "Hungarian Cream Cheese Cookies With Prune Lekvar",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "16 ounces cream cheese",
+        "2 cups flour",
+        "1 cup butter",
+        "8 ounces jam prune"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "12 servings",
+    "tags": "Desserts, Baking, Cookies, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Vanilla-Kifli-_-A-Vanilla-Cookie-_hungary_-Recipezaar",
+    "recipeName": "Vanilla Kifli -- a Vanilla Cookie (Hungary)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "3/4 cup unsalted butter room temperature",
+        "1/2 cup granulated sugar",
+        "1 teaspoon vanilla extract",
+        "2 egg yolks",
+        "2 cups all-purpose flour",
+        "1/2 cup vanilla sugar",
+        "2 ounces semisweet chocolate baking squares, chopped"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "15 servings",
+    "tags": "Oven, Desserts, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Sponge-Cake-_Piskota-Torta_-Food_com-103225",
+    "recipeName": "Hungarian Sponge Cake (Piskota Torta)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "8 eggs at room temperature separated",
+        "1/2 cup sugar",
+        "1/2 cup cake flour sifted",
+        "1 tablespoon vanilla extract",
+        "1 tablespoon lemon juice",
+        "1 teaspoon baking powder",
+        "1/4 teaspoon salt"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "8 servings",
+    "tags": "Oven, Desserts, Easy, Baking, Sponge Cake, Hungarian, Cake"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Rakott-Krumpli-2-_hungarian-Layered-Potatoes-2_-Recipezaar",
+    "recipeName": "Rakott Krumpli 2 (Hungarian Layered Potatoes 2)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "60 grams butter or 60 g margarine",
+        "6 potatoes",
+        "6 slices ham",
+        "6 hard-boiled egg",
+        "1 polish sausage link, Csabai, optional or 1 link Hungarian sausage, Csabai, optional",
+        "2 cups sour cream depending on taste",
+        "4 slices bacon or a small portion speck"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "5 servings",
+    "tags": "Baking, Hungarian, Oven, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Country-Bread-Recipezaar",
+    "recipeName": "Hungarian Country Bread",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "1 ounce fresh yeast or 1 package dry yeast",
+        "3 cups water lukewarm",
+        "1 tablespoon salt",
+        "2 1/2 pounds wheat flour 8 cups"
+    ],
+    "ratings": null,
+    "cookTime": "PT4H10M",
+    "serve": "10 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Clay-Pot-Hungarian-Chicken-Paprika-Recipezaar",
+    "recipeName": "Clay Pot Hungarian Chicken Paprika",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "4 pounds chicken frying, cut in serving pieces",
+        "2 onions large, chopped",
+        "1 green pepper chopped",
+        "1 1/2 tablespoons hungarian paprika",
+        "salt",
+        "pepper",
+        "4 potatoes medium, cut as for French frying",
+        "1 cup sour cream optional",
+        "4 slices bacon sliced cross-ways"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H5M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Glazing, Main Dishes, Hungarian, Oven, Low Sodium, Low Sugar, High Potassium, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Mushkazone-_hungarian-Spice-Cookies_-Recipezaar",
+    "recipeName": "Mushkazone (Hungarian Spice Cookies)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1/2 pound walnuts ground well",
+        "3 cups breadcrumbs made from dry French or Italian bread",
+        "4 large egg yolks",
+        "4 tablespoons butter melted",
+        "1/2 teaspoon ground cloves",
+        "1/2 teaspoon ground nutmeg",
+        "1 1/4 cups sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "63 servings",
+    "tags": "Desserts, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cabbage-Strudel-Food_com-106936",
+    "recipeName": "Hungarian Cabbage Strudel",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "8 ounces unsalted butter more for greasing pan",
+        "1 pound cabbage cored and shredded, about 1/2 head",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon black ground pepper fresh",
+        "10 sheets phyllo dough defrosted"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H15M",
+    "serve": "4 servings",
+    "tags": "Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Husband_s-Delight-_-Hungarian-Style-Recipezaar",
+    "recipeName": "Husband's Delight - Hungarian Style",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "2 pounds round steaks cut in 1/2 cubes",
+        "2 tablespoons olive oil",
+        "1 cup onion chopped",
+        "1 garlic clove minced",
+        "2 tablespoons flour",
+        "3 ounces mushrooms with broth",
+        "1/2 cup celery chopped",
+        "1/4 cup green pepper chopped, optional",
+        "1 cup sour cream",
+        "8 ounces tomato sauce",
+        "1 teaspoon salt",
+        "1/8 teaspoon black pepper",
+        "1 tablespoon worcestershire sauce"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H40M",
+    "serve": "6 servings",
+    "tags": "Oven, Low Sugar, Browning, Main Dishes, Hungarian, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kiflie_-Hungarian-Cookies-Food_com-95216",
+    "recipeName": "Kiflie, Hungarian Cookies",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "17 ounces puff pastry sheets",
+        "1 cup walnuts grated",
+        "1/2 cup brown sugar",
+        "1/2 cup granulated sugar",
+        "1/2 cup heavy cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT17M",
+    "serve": "6 servings",
+    "tags": "Desserts, Quick, Baking, Cookies, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Poppy-Seed-Cookies-Recipezaar",
+    "recipeName": "Hungarian Poppy Seed Cookies",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "1/2 cup margarine or 1/2 cup butter",
+        "1/4 cup granulated sugar",
+        "1 teaspoon grated lemon peel",
+        "1 egg",
+        "1 1/4 cups all purpose flour",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon ground cloves",
+        "3/4 cup poppy seed filling",
+        "powdered sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H46M",
+    "serve": "18 servings",
+    "tags": "Desserts, Browning, Cookies, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Dessert-Cake-Recipezaar",
+    "recipeName": "Hungarian Dessert Cake",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "14 crepes or 12 -14 pancakes",
+        "3/4 cup apricot jam or 3/4 cup plum jam",
+        "125 grams dark chocolate grated",
+        "1 cup cream whipped",
+        "125 grams sliced almonds toasted",
+        "1 cup raisins chopped",
+        "4 egg whites",
+        "1/2 cup sugar",
+        "2 tablespoons sliced almonds extra"
+    ],
+    "ratings": null,
+    "cookTime": "PT34M",
+    "serve": "6 servings",
+    "tags": "Desserts, Browning, Cake, Hungarian, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-Recipezaar_7",
+    "recipeName": "Hungarian Goulash",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "vegetable oil cooking spray",
+        "2 pounds boneless beef chuck cut into 1/2-1 inch cubes",
+        "3 tablespoons flour",
+        "1 onion medium, chopped very small",
+        "1 green bell pepper chopped very small",
+        "2 teaspoons minced garlic",
+        "1/2 teaspoon pepper",
+        "3 tablespoons hungarian paprika sweet, not the hot kind",
+        "1/2 teaspoon dried thyme",
+        "1 bay leaf",
+        "14 ounces diced tomatoes",
+        "8 ounces sour cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H15M",
+    "serve": "8 servings",
+    "tags": "Oven, High Vitamin C, Goulash, Browning, Main Dishes, Hungarian, Low Sodium, Low Sugar, Low Saturated Fat, Low Carb, Low Calorie, Low Fat, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Nut-Roll-Cookies-1432085",
+    "recipeName": "Hungarian Nut Roll Cookies",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "2 1/2 cups flour",
+        "2 sticks oleo or butter",
+        "8 ounces cream cheese",
+        "1 1/2 cups walnuts or nutmeats, ground",
+        "1 cup sugar",
+        "milk"
+    ],
+    "ratings": null,
+    "cookTime": "PT12M",
+    "serve": "66 servings",
+    "tags": "Oven, Baking, Quick, Desserts, Cookies, Hungarian, Easy, Quick and Easy"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cookies-For-Beginners-Recipezaar",
+    "recipeName": "Hungarian Cookies for Beginners",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "4 cups flour unsifted",
+        "3 teaspoons baking powder",
+        "1/2 cup sugar",
+        "1 pound margarine",
+        "3 eggs",
+        "2 teaspoons vanilla",
+        "2 teaspoons milk",
+        "1 beaten egg",
+        "1/2 cup jam"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "26 servings",
+    "tags": "Desserts, Easy, Browning, Cookies, Hungarian, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-1452284",
+    "recipeName": "Hungarian Goulash",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "3 pounds stew meat or top round, cut in large cubes",
+        "3 tablespoons flour",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "2 teaspoons paprika",
+        "1/4 cup oil",
+        "1 cup onions chopped",
+        "8 ounces tomato sauce",
+        "1 cup beef bouillon",
+        "1 clove garlic"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Oven, Goulash, Source of Omega-3s, Browning, Main Dishes, Hungarian, Low Sugar, High Potassium, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Chicken-Paprikash-Recipezaar_1",
+    "recipeName": "Hungarian Chicken Paprikash",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "1 yellow onion large, chopped",
+        "2 tablespoons olive oil",
+        "4 pounds boneless skinless chicken breasts or 4 lbs boneless skinless chicken thighs",
+        "2 tablespoons paprika",
+        "1/2 teaspoon white pepper",
+        "1 1/2 cups hot water NOT boiling",
+        "2 tablespoons cornstarch",
+        "2 tablespoons cold water",
+        "8 ounces low-fat sour cream Cabot Light preferred"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "12 servings",
+    "tags": "Low Sodium, Browning, Main Dishes, Oven, Sugar Free, Low Sugar, Low Saturated Fat, High Protein, Low Carb, Low Calorie, Low Fat, Sauteeing, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Littlemafia_s-Hungarian-Poppy-Seed-Cookies-Food_com-68163",
+    "recipeName": "Littlemafia's Hungarian Poppy Seed Cookies",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "1/2 cup milk",
+        "1 cup poppy seed",
+        "1 1/2 cups flour",
+        "1 teaspoon baking soda",
+        "1/4 teaspoon nutmeg",
+        "1 cup butter",
+        "1/2 teaspoon lemon rind",
+        "1/2 cup maple syrup"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "7 servings",
+    "tags": "Oven, Desserts, Quick and Easy, Baking, Cookies, Hungarian, Quick, Easy"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Egg-And-Potato-Casserole-Recipezaar",
+    "recipeName": "Hungarian Egg and Potato Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "6 potatoes",
+        "8 eggs",
+        "1 onion chopped",
+        "1 tablespoon oil",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "1/2 cup margarine",
+        "1 cup sour cream",
+        "1 cup gruyere cheese shredded",
+        "2 tablespoons dry breadcrumbs",
+        "2 tablespoons hungarian paprika"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "7 servings",
+    "tags": "Casserole, Sauteeing, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Layered-Potato-Casserole-Recipezaar",
+    "recipeName": "Hungarian Layered Potato Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "3 pounds potatoes small",
+        "1 1/2 tablespoons salt",
+        "6 eggs hard-cooked",
+        "1/2 pound ham boiled, sliced",
+        "1/4 pound polish sausage",
+        "1 cup sour cream",
+        "1 tablespoon paprika",
+        "1/4 pound butter"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "7 servings",
+    "tags": "Casserole, High Vitamin C, Baking, Oven, Low Sugar, High Potassium, High Protein, High Iron, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cabbage-And-Chicken-Recipezaar",
+    "recipeName": "Hungarian Cabbage and Chicken",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1/4 cup butter or 1/4 cup margarine",
+        "1 broiler fryer chicken 3 to 4 pounds cut up",
+        "2 teaspoons paprika",
+        "1 head cabbage cut into 1/2 inch slices",
+        "3/4 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "2 tart apples medium, sliced",
+        "1 onion medium, chopped",
+        "1 tablespoon caraway seed",
+        "2 teaspoons lemons rind of, grated",
+        "1 teaspoon sugar",
+        "1 cup shredded swiss cheese"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Oven, High Vitamin C, Browning, Main Dishes, Hungarian, High Calcium, High Potassium, High Protein, High Iron, High Fiber, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Potatoes-Recipezaar",
+    "recipeName": "Hungarian Potatoes",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "6 potatoes medium, cooked and sliced",
+        "1/2 cup melted butter or 1/2 cup margarine",
+        "4 hard-boiled eggs large, chopped",
+        "2 cups sour cream about 16 oz",
+        "1 1/2 teaspoons salt",
+        "1/4 teaspoon pepper",
+        "1 cup breadcrumb fine dry",
+        "1/2 cup green onion chopped",
+        "paprika"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "4 servings",
+    "tags": "Oven, Easy, High Vitamin C, Baking, Side Dishes, Hungarian, High Calcium, High Carb, High Potassium, High Protein, High Iron, High Fiber"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cabbage-Rolls-Recipezaar",
+    "recipeName": "Hungarian Cabbage Rolls",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "2 heads cabbage",
+        "5 pounds boneless pork shoulder ground",
+        "10 garlic cloves chopped",
+        "2 cups long grain white rice uncooked",
+        "2 tablespoons hungarian paprika sweet",
+        "salt",
+        "pepper",
+        "1 cup hot water",
+        "4 ham hocks cut in half",
+        "32 ounces sauerkraut rinsed",
+        "16 ounces sour cream to garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT4H",
+    "serve": "9 servings",
+    "tags": "Baking, High Vitamin C, Main Dishes, Oven, Boiling, Roasting, Low Sodium, Low Sugar, High Potassium, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Pretzels-_perec_-Recipezaar",
+    "recipeName": "Hungarian Pretzels (Perec)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "2 cups flour",
+        "1/2 cup butter",
+        "3/4 cup milk",
+        "1 1/2 teaspoons yeast",
+        "3 teaspoons sugar",
+        "3 teaspoons salt divided",
+        "1 teaspoon water",
+        "1 egg yolk",
+        "1 teaspoon flour",
+        "1 teaspoon hot water"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "16 servings",
+    "tags": "Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Chicken-Goulash-Pot-Pie-With-Crisp-Noodle-Topping-Recipezaar",
+    "recipeName": "Hungarian Chicken Goulash Pot Pie With Crisp Noodle Topping",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "1/2 cup unbleached all purpose flour",
+        "salt",
+        "black ground pepper fresh",
+        "3 boneless skinless chicken breasts cut into 1-inch strips",
+        "3 tablespoons corn or 3 tablespoons canola oil",
+        "4 cups onion thinly sliced",
+        "3 garlic cloves finely chopped",
+        "1 teaspoon dried oregano",
+        "3 tablespoons hungarian paprika sweet",
+        "2 1/2 cups chicken broth low sodium if canned",
+        "1 tablespoon tomato paste",
+        "9 ounces egg noodles medium width",
+        "1 tablespoon oil"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "8 servings",
+    "tags": "Pie, Heart Healthy, Browning, Main Dishes, Oven, Pot Pie, Healthy, Low Sodium, Source of Omega-3s, Low Sugar, Low Saturated Fat, High Protein, Low Calorie, Low Fat, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kossuth-Kifli-_hungarian-Cakey-Cookie-Aka-Half-Moons_-Recipezaar",
+    "recipeName": "Kossuth Kifli (Hungarian Cakey Cookie Aka Half Moons)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "1 cup unsalted butter plus",
+        "unsalted butter extra, for pan",
+        "1 1/2 cups granulated sugar",
+        "8 eggs separated",
+        "1/2 teaspoon vanilla extract",
+        "1 grated lemon rind",
+        "1 lemon juice of",
+        "2 teaspoons baking powder",
+        "1 2/3 cups flour plus",
+        "flour extra, for pan",
+        "1 1/2 cups chopped walnuts finely",
+        "powdered sugar for garnish"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "30 servings",
+    "tags": "Oven, Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-Casserole-Recipezaar_2",
+    "recipeName": "Hungarian Goulash Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "10 ounces egg noodles cooked & drained",
+        "1/2 pound ground pork",
+        "1/2 pound ground turkey",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon ground nutmeg",
+        "1/4 teaspoon pepper",
+        "1 tablespoon olive oil",
+        "4 ounces portabella mushrooms baby, sliced",
+        "1 cup low fat sour cream",
+        "1 tablespoon cornstarch",
+        "10 3/4 ounces cream of celery soup",
+        "1 cup 2% reduced fat milk",
+        "1/4 teaspoon garlic powder",
+        "1 teaspoon hungarian paprika sweet"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "5 servings",
+    "tags": "Casserole, Low Sugar, Browning, Main Dishes, Oven, High Protein, High Iron, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Noodle-Casserole-Recipezaar",
+    "recipeName": "Hungarian Noodle Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "6 ounces noodles medium, uncooked",
+        "2 teaspoons olive oil",
+        "2 cups onion cut vertically into thin silvers",
+        "2 cups green bell pepper cut into thin strips",
+        "4 garlic cloves finely chopped",
+        "1 1/2 cups low-fat cottage cheese",
+        "1/2 cup plain low-fat yogurt",
+        "2 teaspoons paprika",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "1/2 teaspoon onion powder"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "6 servings",
+    "tags": "Healthy, Casserole, Browning, Main Dishes, Hungarian, Oven, High Vitamin C, Low Sodium, Low Sugar, Low Saturated Fat, Low Calorie, Low Fat, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Veronica_s-Hungarian-Chicken-Paprikash_paprikas-Recipezaar",
+    "recipeName": "Veronica's Hungarian Chicken Paprikash/Paprikas",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 chicken cut up",
+        "salt to taste",
+        "garlic to taste",
+        "olive oil",
+        "chicken",
+        "olive oil",
+        "onion",
+        "1 onion large, chopped",
+        "1 tablespoon flour",
+        "1 tablespoon paprika",
+        "1 cup chicken stock or 1 cup water",
+        "1 tablespoon tomato paste or 1 tablespoon tomato sauce",
+        "2 tablespoons sour cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "4 servings",
+    "tags": "Low Sugar, Sauteeing, Main Dishes, Hungarian, Baked Chicken, Oven, High Potassium, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Sole-In-Wine-Sauce_-Hungarian_style-Recipezaar",
+    "recipeName": "Sole in Wine Sauce, Hungarian-Style",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "1/2 pound white mushrooms or 1/2 lb cremini mushroom",
+        "4 potatoes medium cold cooked, sliced",
+        "2 tablespoons butter",
+        "1 1/2 teaspoons salt",
+        "1/2 teaspoon black pepper",
+        "1 teaspoon paprika",
+        "2/3 cup white wine",
+        "1 cup sour cream",
+        "2 pounds sole fillet fresh",
+        "5 tablespoons parmesan cheese",
+        "chopped parsley if desired",
+        "chives snipped"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "7 servings",
+    "tags": "High Vitamin C, Baking, Main Dishes, Hungarian, Oven, High Vitamin D, Low Sugar, High Potassium, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-Casserole-Recipezaar_1",
+    "recipeName": "Hungarian Goulash Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1 pound ground pork",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon ground nutmeg",
+        "1/4 teaspoon black pepper",
+        "1 tablespoon vegetable oil",
+        "1 cup sour cream divided",
+        "1 tablespoon cornstarch",
+        "10 1/2 ounces cream of celery soup",
+        "1 cup milk",
+        "1 teaspoon hungarian paprika sweet",
+        "12 ounces egg noodles",
+        "1 teaspoon dill"
+    ],
+    "ratings": null,
+    "cookTime": "PT40M",
+    "serve": "6 servings",
+    "tags": "Oven, Casserole, Low Sodium, Baking, Main Dishes, Hungarian, Source of Omega-3s, Low Sugar, High Protein, High Iron"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Pecan-Bars-Recipezaar",
+    "recipeName": "Hungarian Pecan Bars",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "2 cups flour plus",
+        "2 tablespoons flour",
+        "1/2 cup white sugar",
+        "1/4 teaspoon salt",
+        "1 cup butter room temperature",
+        "2 egg yolks",
+        "1 tablespoon southern comfort",
+        "4 cups pecans finely chopped",
+        "1/2 cup white sugar",
+        "1/2 cup light brown sugar",
+        "1 1/2 teaspoons cinnamon",
+        "4 egg whites"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "24 servings",
+    "tags": "Desserts, Bars, Baking, Hungarian, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Rizskoch-_hungarian-Rice-Pudding_-Recipezaar",
+    "recipeName": "Rizskoch (Hungarian Rice Pudding)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "1 cup rice",
+        "1 cup water",
+        "1 cup milk",
+        "1 lemon rind",
+        "1 1/16 cups sultana",
+        "6 eggs separated",
+        "1 1/4 cups sugar",
+        "7 tablespoons butter",
+        "2 teaspoons vanilla sugar",
+        "4 1/4 tablespoons butter butter",
+        "breadcrumbs"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "10 servings",
+    "tags": "Oven, Desserts, Browning, Hungarian, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Veal-Stew-Recipezaar",
+    "recipeName": "Hungarian Veal Stew",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "3 slices bacon diced",
+        "3 tablespoons butter",
+        "1/2 cup sliced mushrooms",
+        "1/2 cup chopped onion",
+        "2 pounds veal cut in cubes",
+        "1/2 cup chicken broth",
+        "1 cup sour cream",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "1 teaspoon paprika"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "Easy, Low Sugar, Browning, Main Dishes, Hungarian, Oven, High Potassium, High Protein, Low Carb, Sauteeing, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-With-Sauerkraut-Recipezaar",
+    "recipeName": "Hungarian Goulash with Sauerkraut",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "1 tablespoon olive oil lite",
+        "1 pound beef stewing meat in 1-inch cubes",
+        "1 pound pork cut into 1 \"cubes",
+        "2 onions medium, sliced",
+        "2 tablespoons paprika hungarian",
+        "1/2 teaspoon marjoram dried",
+        "2 pounds sauerkraut rinsed,squeezed dry",
+        "1 cup sour cream",
+        "1 teaspoon caraway seed",
+        "salt",
+        "noodles cooked hot buttered"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "6 servings",
+    "tags": "Easy, High Vitamin C, Goulash, Browning, Main Dishes, Hungarian, Oven, Low Sugar, High Potassium, High Protein, High Iron, Low Carb, High Fiber, Sauteeing, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Tempeh-Paprikash-Recipezaar",
+    "recipeName": "Tempeh Paprikash",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "4 cups vegetable broth",
+        "1/4 cup olive oil",
+        "2 tablespoons apple cider vinegar",
+        "1 cup apple cider",
+        "1 tablespoon hungarian paprika smoked, or 1 tablespoon regular paprika",
+        "2 teaspoons salt",
+        "1 tablespoon caraway seed",
+        "1 teaspoon dried thyme",
+        "1 teaspoon ground pepper fresh",
+        "6 garlic cloves minced",
+        "16 ounces tempeh diced into 1-inch pieces",
+        "3 spanish onion large, thinly sliced, about 6 cups",
+        "1 1/2 teaspoons hungarian paprika",
+        "6 ounces tomato paste",
+        "2 tablespoons cornstarch dissolved in",
+        "4 tablespoons cold water"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H50M",
+    "serve": "6 servings",
+    "tags": "Oven, Low Saturated Fat, Baking, Main Dishes, High Protein, High Iron, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Authentic-Hungarian-Goulash-in-a-Clay-Pot-Food_com-153547",
+    "recipeName": "Authentic Hungarian Goulash in a Clay Pot",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "1 1/2 pounds beef chuck cut into chunks",
+        "2 tablespoons oil",
+        "2 onions medium, chopped",
+        "4 garlic cloves chopped",
+        "2 carrots diced",
+        "1 parsnip diced",
+        "3 celery leaves",
+        "1 tablespoon tomato paste",
+        "1 green pepper fresh, seeded and diced",
+        "2 medium potatoes cut into chunks",
+        "1 tablespoon hungarian paprika",
+        "1 teaspoon caraway seed",
+        "1 bay leaf",
+        "salt",
+        "ground black pepper",
+        "3 cups beef broth"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H30M",
+    "serve": "3 servings",
+    "tags": "High Vitamin C, Browning, Goulash, Main Dishes, Hungarian, Oven, Source of Omega-3s, Low Sugar, High Potassium, High Protein, High Iron, High Fiber, Baking, Braising"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-Casserole-Recipezaar",
+    "recipeName": "Hungarian Goulash Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 pound ground pork",
+        "1/4 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "1/4 teaspoon nutmeg",
+        "1 cup low fat sour cream",
+        "1 tablespoon cornstarch",
+        "10 ounces low-fat cream of celery soup",
+        "1 cup milk",
+        "1 teaspoon hungarian paprika sweet",
+        "12 ounces egg noodles, cooked and drained",
+        "2 teaspoons fresh dill minced"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "5 servings",
+    "tags": "Oven, Casserole, Low Sodium, Baking, Main Dishes, Hungarian, Low Sugar, High Protein, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Gugelhupf-_-Kuglof-_-Kugelhopf---German_Hungarian-Coffee-Cake-Food_com-118263",
+    "recipeName": "Gugelhupf / Kuglof / Kugelhopf - German/Hungarian Coffee Cake",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "2 cups flour",
+        "1/2 cup bread flour",
+        "1 3/4 cups unsalted butter",
+        "1/8 cup lemon rind grated from 1 lemon",
+        "2 tablespoons powdered sugar",
+        "1/4 ounce dry active yeast",
+        "1 cup skim milk",
+        "4 egg yolks",
+        "1 cup walnuts",
+        "1 cup powdered sugar",
+        "1 tablespoon cocoa powder",
+        "4 egg whites"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "16 servings",
+    "tags": "Oven, Low Sodium, Breads, Microwaving, Low Sugar, Low Carb, Low Calorie, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Rakott-Kaposzta_-Cabbage-Casserole-Recipezaar",
+    "recipeName": "Hungarian Rakott Kaposzta, Cabbage Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "1/4 cup butter",
+        "2 onion cut in wedges",
+        "6 garlic cloves minced",
+        "1 teaspoon caraway seed",
+        "8 cups green cabbage firmly packed, 1 inch pieces",
+        "1/2 cup fresh dill chopped",
+        "1 tablespoon hungarian paprika",
+        "2 potatoes thinly sliced",
+        "8 ounces feta cheese crumbled",
+        "3 apples peeled, cored and thinly sliced",
+        "1/4 cup wine vinegar",
+        "sour cream or yogurt"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H20M",
+    "serve": "8 servings",
+    "tags": "Casserole, High Vitamin C, Frying, Main Dishes, Hungarian, Oven, Low Sodium, Low Sugar, Low Carb, Low Calorie, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Killer-Hungarian-Meatloaf-Food_com-137212",
+    "recipeName": "Killer Hungarian Meatloaf",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-01.jpg",
+    "ingredients": [
+        "1 pound ground beef I prefer chuck",
+        "1 pound ground turkey",
+        "1 mild Italian sausage link, ground",
+        "1 sweet onion medium, finely chopped",
+        "1 pepper medium, I usually use red, also finely chopped",
+        "3 tablespoons worcestershire sauce",
+        "1 tablespoon italian seasoning",
+        "2 teaspoons salt",
+        "1/2 teaspoon ground pepper fresh",
+        "1 teaspoon garlic powder",
+        "1 cup breadcrumbs",
+        "2 eggs beaten",
+        "1 cup sharp cheddar cheese shredded",
+        "2 tomatoes small, or 1 large",
+        "1/8 cup apple cider vinegar",
+        "2 tablespoons dark brown sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H30M",
+    "serve": "8 servings",
+    "tags": "Meatloaf, Low Sugar, Blending, Main Dishes, Hungarian, Oven, High Protein, High Iron, Low Carb, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Maglyarakas-_hungarian-Bread-And-Butter-Pudding_-Recipezaar",
+    "recipeName": "Maglyarakas (Hungarian Bread and Butter Pudding)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "2 1/4 pounds red delicious apples peeled, cored and sliced thinly",
+        "1 teaspoon butter",
+        "water to cover the apple",
+        "1 tablespoon lemon juice",
+        "8 rolls bread",
+        "4 1/4 cups milk",
+        "6 eggs separated",
+        "2 teaspoons vanilla sugar",
+        "caster sugar",
+        "3/4 cup sugar",
+        "2 tablespoons cinnamon",
+        "3/4 cup walnuts crushed",
+        "1/2 cup sugar extra",
+        "4 tablespoons apricot jam",
+        "4 1/4 tablespoons butter extra",
+        "breadcrumbs"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "7 servings",
+    "tags": "Desserts, Microwaving, Oven, Baking, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Butterhorns-Recipezaar",
+    "recipeName": "Hungarian Butterhorns",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "2 1/2 teaspoons active dry yeast one pkg.",
+        "1/4 cup warm water",
+        "1 cup granulated sugar plus",
+        "1 teaspoon granulated sugar",
+        "1/2 cup butter",
+        "2 cups all-purpose flour",
+        "2 large eggs seperated",
+        "1/2 cup chopped walnuts",
+        "1 tablespoon whole milk",
+        "1/2 teaspoon vanilla",
+        "3/4 cup icing sugar powdered"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "16 servings",
+    "tags": "Oven, Glazing, Frosting, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Potato-And-Egg-Casserole-Recipezaar",
+    "recipeName": "Hungarian Potato and Egg Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "2 pounds potatoes",
+        "1 onion chopped",
+        "2 tablespoons oil",
+        "1 cup sour cream",
+        "1 1/2 teaspoons salt",
+        "1/4 teaspoon pepper",
+        "2 eggs boiled and sliced",
+        "2 tablespoons dry bread crumbs or matzah meal",
+        "hungarian paprika"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "8 servings",
+    "tags": "Oven, Baking, Casserole, Boiling, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Casserole-Recipezaar",
+    "recipeName": "Hungarian Casserole",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "6 ounces noodles",
+        "1/2 pound bacon diced",
+        "4 stalks celery chopped",
+        "1/2 pound hamburger",
+        "1 green pepper chopped",
+        "10 ounces mushroom canned, slices, drained",
+        "10 ounces tomato soup",
+        "8 ounces tomato sauce",
+        "19 ounces tomatoes with juice diced",
+        "1 teaspoon worcestershire sauce",
+        "2 drops Tabasco Sauce or 2 drops any hot sauce",
+        "cheese slice for topping"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H40M",
+    "serve": "8 servings",
+    "tags": "Browning, Oven, Casserole, High Vitamin C, Main Dishes, Hungarian, Sauteeing, Baking, Frying, Low Sugar, High Protein, High Iron, Low Carb, Low Calorie"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Nut-Rolls-_Kolachi_Kolacs_Beigli_-Food_com-143314",
+    "recipeName": "Nut Rolls (Kolachi/Kolacs/Beigli)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "5 cups bread flour not the regular",
+        "1/2 cup granulated sugar",
+        "1 1/2 teaspoons table salt",
+        "1/3 cup sour cream",
+        "1/4 cup warm water not hot",
+        "3/4 ounce active dry yeast",
+        "8 ounces milk not hot",
+        "1/2 cup margarine",
+        "1 eggs",
+        "1 egg yolks",
+        "2 tablespoons milk"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "48 servings",
+    "tags": "Oven, Breads, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Poppy-Seed-Roll-_Beigli_-Food_com-132275",
+    "recipeName": "Hungarian Poppy Seed Roll (Beigli)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1/2 ounce active dry yeast",
+        "1 cup water lukewarm",
+        "2 tablespoons sugar",
+        "4 3/4 cups flour",
+        "1/2 teaspoon salt",
+        "1 cup butter cold, cut into cubes",
+        "2 eggs separated",
+        "1/2 cup sour cream",
+        "1/2 pound poppy seed ground, it is very important to grind them. I use a coffee grinder",
+        "1/2 cup butter",
+        "1 cup whole milk",
+        "1 1/4 cups sugar",
+        "2 eggs",
+        "2 lemons zest of"
+    ],
+    "ratings": null,
+    "cookTime": "PT2H",
+    "serve": "4 servings",
+    "tags": "Baking, Oven, Boiling"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Pork-Supper-Recipezaar",
+    "recipeName": "Hungarian Pork Supper",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 1/2 pounds pork loin trimmed of fat and cut in 1 ' cubes",
+        "1/3 cup all purpose flour",
+        "1 teaspoon onion powder",
+        "1 teaspoon garlic powder",
+        "1 teaspoon paprika",
+        "1/2 teaspoon smoked paprika sweet",
+        "1 teaspoon salt I use seasoning salt",
+        "1/2 teaspoon black pepper",
+        "1 tablespoon cooking oil or 1 tablespoon bacon fat",
+        "1 tablespoon paprika",
+        "1 teaspoon smoked paprika",
+        "2 onions medium, thinly sliced",
+        "2 garlic cloves crushed",
+        "1/3 cup roasted red pepper chopped",
+        "1 tablespoon cooking oil",
+        "1 teaspoon poultry seasoning",
+        "2 bay leaves",
+        "1 teaspoon dried thyme",
+        "1 dash Tabasco Sauce",
+        "1 dash pepper flakes",
+        "1 dash worcestershire sauce",
+        "2 cups chicken stock",
+        "1 cup tomatoes with juice canned diced",
+        "ground black pepper",
+        "salt",
+        "1 cup sour cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "5 servings",
+    "tags": "Source of Omega-3s, Browning, Main Dishes, Hungarian, Oven, Low Sugar, High Potassium, High Protein, High Iron, Low Carb, Sauteeing, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Pastry-Recipezaar",
+    "recipeName": "Hungarian Pastry",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1/4 pound margarine",
+        "1/4 pound butter",
+        "1/2 cup sugar",
+        "1 teaspoon vanilla",
+        "2 eggs separated",
+        "1 1/2 cups flour",
+        "1 pinch baking soda",
+        "1/2 teaspoon baking powder",
+        "jam I use raspberry",
+        "1 cup ground nuts I use walnuts",
+        "2 tablespoons sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT50M",
+    "serve": "16 servings",
+    "tags": "Oven, Desserts, Baking, Hungarian"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Cheesecake-Food_com-83576",
+    "recipeName": "Hungarian Cheesecake",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "1 1/2 cups unbleached flour sifted",
+        "1 teaspoon baking powder",
+        "4 tablespoons butter not margarine",
+        "2 large egg yolks lightly beaten",
+        "1/8 teaspoon salt",
+        "1 tablespoon lemon juice",
+        "4 tablespoons water cold",
+        "2 cups cottage cheese",
+        "4 large eggs",
+        "1/4 cup sugar",
+        "1 teaspoon lemon rind fresh, grated",
+        "1 cup sour cream",
+        "1 cup crushed pineapple drained",
+        "1/2 cup raisins"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "12 servings",
+    "tags": "Oven, Desserts, Cheesecake, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Goulash-1423172",
+    "recipeName": "Hungarian Goulash",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1/3 cup tomato paste",
+        "1/3 cup apple cider vinegar",
+        "1 teaspoon worcestershire sauce",
+        "1 1/2 tablespoons paprika",
+        "5 pounds English-cut short ribs",
+        "kosher salt",
+        "pepper",
+        "2 tablespoons butter",
+        "1 yellow onion large, thinly sliced",
+        "1/4 cup water",
+        "2 tablespoons butter",
+        "1 head cauliflower chopped into small pieces",
+        "2 garlic cloves",
+        "kosher salt to taste",
+        "1/4 cup water",
+        "1/4 cup heavy cream"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H15M",
+    "serve": "4 servings",
+    "tags": "Oven, Baking, Goulash, Main Dishes, Sauteeing, Blending, Browning"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Julia-Child_s-Hungarian-Shortbread-by-Charles-Food_com-126835",
+    "recipeName": "Julia Child's Hungarian Shortbread by Charles",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-06.jpg",
+    "ingredients": [
+        "1 pound rhubarb trimmed and cut into 1 inch pieces",
+        "1/2 cup sugar",
+        "1/2 cup water",
+        "1/2 vanilla bean",
+        "4 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "1/4 teaspoon salt",
+        "1 pound unsalted butter room temperature",
+        "4 large egg yolks",
+        "2 cups granulated sugar",
+        "confectioners sugar for dusting"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H5M",
+    "serve": "12 servings",
+    "tags": "Desserts, Baking, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Golden-Dumpling-Coffee-Cake-_aranygaluska_-Recipezaar",
+    "recipeName": "Hungarian Golden Dumpling Coffee Cake (Aranygaluska)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "5 cups flour sifted",
+        "1/2 cup whole milk scalded, to scald milk heat in the top of a double-boiler over simmering water, just until a thin film appear",
+        "4 1/2 teaspoons active dry yeast",
+        "1/2 cup warm water 110-115 F",
+        "1/2 cup shortening",
+        "1/2 cup sugar",
+        "1 1/2 teaspoons salt",
+        "2 eggs well beaten",
+        "1 cup sugar",
+        "3/4 cup walnuts finely chopped, about 3 ounces",
+        "1 1/2 teaspoons cinnamon",
+        "1/2 cup sweet butter melted",
+        "1/2 cup raisins about 2.5 ounces"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H25M",
+    "serve": "15 servings",
+    "tags": "Coffee Cake, Breads, Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kifli-1219790",
+    "recipeName": "Kifli",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-08.jpg",
+    "ingredients": [
+        "dough",
+        "1 pound butter",
+        "5 cups flour",
+        "4 egg yolks beaten",
+        "3/4 cup cold water",
+        "1/4 cup white vinegar",
+        "4 egg whites",
+        "1 pinch cream of tartar",
+        "1 1/2 cups granulated sugar",
+        "1 tablespoon almond extract",
+        "1 pound ground walnuts"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Blintz-Loaf-_Palacsinta-Felfujt_-Epicurious-50872",
+    "recipeName": "Hungarian Blintz Loaf (Palacsinta Felfujt)",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-04.jpg",
+    "ingredients": [
+        "1/2 cup all-purpose flour",
+        "3 large eggs",
+        "3/4 cup sour cream",
+        "1/4 cup orange juice",
+        "1/4 cup unsalted butter or margarine, softened",
+        "3 tablespoons sugar",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon double-acting baking powder",
+        "1/4 teaspoon salt",
+        "1 cup curd small-, cottage or ricotta cheese",
+        "4 ounces cream cheese, softened",
+        "1 large egg yolk",
+        "2 tablespoons sugar",
+        "1/2 teaspoon vanilla extract",
+        "1/2 teaspoon fresh lemon juice or ground cinnamon, optional"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H",
+    "serve": "7 servings",
+    "tags": "Oven, Browning, Blending, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Nut-Horns-TasteOfHome",
+    "recipeName": "Hungarian Nut Horns",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-07.jpg",
+    "ingredients": [
+        "1/4 ounce active dry yeast",
+        "1/4 cup warm water 110\u00b0-115\u00b0",
+        "4 cups all-purpose flour",
+        "1/2 teaspoon salt",
+        "1 1/2 cups butter cold, cubed",
+        "3 egg yolks lightly beaten",
+        "1/4 cup sour cream",
+        "1 teaspoon vanilla extract",
+        "confectioners sugar",
+        "nuts FILLING:",
+        "3 egg whites",
+        "1 cup sugar",
+        "1 teaspoon vanilla extract",
+        "1 1/2 cups ground walnuts"
+    ],
+    "ratings": null,
+    "cookTime": "PT55M",
+    "serve": "96 servings",
+    "tags": "Browning, Oven, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Nut-Cookies-Epicurious-51407",
+    "recipeName": "Hungarian Nut Cookies",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-02.jpg",
+    "ingredients": [
+        "2 cups hazelnuts or walnuts, lightly toasted",
+        "2 large egg whites extra-",
+        "1 cup dark brown sugar packed"
+    ],
+    "ratings": null,
+    "cookTime": "PT35M",
+    "serve": "24 servings",
+    "tags": "Desserts, Baking, Cookies, Hungarian, Oven"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Grandpa_s-Hungarian-Kolacky-1876947",
+    "recipeName": "Grandpa's Hungarian Kolacky",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "1 cup butter or margarine",
+        "jelly assorted baking, or pie filling, my favorites are apricot, poppy seed, almond, and raspberry",
+        "2 cups all purpose flour",
+        "6 ounces cream cheese",
+        "powdered sugar"
+    ],
+    "ratings": null,
+    "cookTime": "PT30M",
+    "serve": "4 servings",
+    "tags": "Desserts, Quick and Easy, Browning, Hungarian, Oven, Quick, Easy, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Turos-Csusza-1675223",
+    "recipeName": "Turos Csusza",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-05.jpg",
+    "ingredients": [
+        "16 ounces egg noodles",
+        "3 1/2 slices smoked bacon maple",
+        "2 cups sour cream full fat works best- better if you can find Hungarian sour cream",
+        "12 ounces cheese curds",
+        "salt to taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "4 servings",
+    "tags": "Oven, Low Sodium, Quick, Browning, Hungarian, Low Sugar, High Carb, High Protein, High Iron, Microwaving, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Apple-Cake-1659469",
+    "recipeName": "Hungarian Apple Cake",
+    "recipePhoto": "https://x.yummlystatic.com/s/0f4df21cf/img/Recipe-default-03.jpg",
+    "ingredients": [
+        "3 cups flour",
+        "1/4 cup warm water",
+        "1 package yeast or 2 \u00bd teaspoons of granulated yeast",
+        "1 cup butter divided",
+        "3/4 cup milk scalded",
+        "3 tablespoons sugar",
+        "1/4 teaspoon salt",
+        "4 egg yolks",
+        "4 pounds baking apples washed, peeled, cored and thinly sliced, An",
+        "apple",
+        "1 cup sugar",
+        "2 flour TBSs",
+        "1 1/2 cinnamon TBSs"
+    ],
+    "ratings": null,
+    "cookTime": "PT1H45M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Cake, Browning, Apple Cake, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Catfish-Paprikash_-Harcsapaprikas-2542680",
+    "recipeName": "Hungarian Catfish Paprikash, Harcsapaprikas",
+    "recipePhoto": "https://lh3.googleusercontent.com/X08KaNUoJ9g35GXtadDGnvWsutrEgOm7wivoLVZQGe6Hrofe8TxeuOihZv6JklPKjZvHfho16L57Faf0-xFFmQ",
+    "ingredients": [
+        "2/3 pound catfish fillets Cut into large chunks",
+        "5 tablespoons shallot Finely diced",
+        "2 tablespoons cooking oil Neutral",
+        "5/8 cup sour cream",
+        "6 1/8 tablespoons quark Sub for Ricotta cheese at a push",
+        "3 1/2 ounces bacon Sliced",
+        "3 1/2 ounces lasagna sheets Broken into irregular shapes",
+        "3 1/2 tablespoons butter",
+        "1 tomato Deseeded and cut into wedges",
+        "1 tablespoon sweet paprika Hungarian of course \ud83d\ude09 Avoid smoked paprika if possible",
+        "salt To taste",
+        "pepper To taste"
+    ],
+    "ratings": null,
+    "cookTime": "PT25M",
+    "serve": "4 servings",
+    "tags": "Quick and Easy, Baking, Source of Omega-3s, Main Dishes, Quick, Easy, Frying, Low Sugar, High Protein, Low Carb"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Kossuth-Kifli-_Half-Moon-Cookies_-1591701",
+    "recipeName": "Kossuth Kifli (Half Moon Cookies)",
+    "recipePhoto": "https://lh3.googleusercontent.com/4EcQaGYc75kMy_bMzqYBBbEkeyxeLwGGw_Zgr5UbMfU_ntzX-EHEGxE1I7kfVmbwtX5EynuuKvyZppHkbG3ESQ",
+    "ingredients": [
+        "1/2 cup butter at room temperature",
+        "2 cups powder sugar",
+        "4 eggs separated",
+        "2 cups all purpose flour",
+        "1 lemon zest",
+        "1 orange zest",
+        "1 teaspoon vanilla extract",
+        "1 lemon",
+        "1 cup ground walnuts"
+    ],
+    "ratings": null,
+    "cookTime": "PT45M",
+    "serve": "4 servings",
+    "tags": "Oven, Desserts, Browning, Baking"
+}
+{
+    "recipeUrl": "https://www.yummly.com/recipe/Hungarian-Stuffed-Cabbage-Rolls-1021589",
+    "recipeName": "Hungarian Stuffed Cabbage Rolls",
+    "recipePhoto": "https://lh6.ggpht.com/ReIZbK3KlXEuUFT1_0DNjryWpG9KTbRbic8WClFV7MHBIHA_zcS1gglFXTHI7eJER5mSx_taF5RbONPulKBL",
+    "ingredients": [
+        "1 pound ground pork",
+        "1 pound ground beef",
+        "1 tablespoon paprika smoked, sweet, or hot, whatever is preferable",
+        "2 teaspoons fennel seeds toasted, ground",
+        "1 teaspoon ground black pepper",
+        "2 cloves garlic finely grated",
+        "1/2 white onion grated",
+        "1/2 teaspoon chili flake",
+        "1/2 teaspoon ground coriander",
+        "1 1/4 cups white rice par cooked",
+        "kosher salt to taste",
+        "32 ounces sauerkraut favorite, or homemade",
+        "16 ounces tomato juice",
+        "1 head green cabbage bottom core cut off, discard tough outer leaves, remaining leaves separated, core cut into 6 wedges",
+        "6 slices smoked bacon optional",
+        "cucumbers",
+        "sour cream",
+        "1/4 cup sour cream",
+        "2 cups sliced cucumbers",
+        "2 tablespoons dill chopped",
+        "1 tablespoon red wine vinegar",
+        "kosher salt",
+        "ground pepper"
+    ],
+    "ratings": 5.0,
+    "cookTime": "PT1H20M",
+    "serve": "4 servings",
+    "tags": "High Vitamin C, Sauteeing, Main Dishes, Oven, Low Sugar, High Potassium, High Protein, High Iron, High Fiber, Steaming, Microwaving, Baking"
+}
